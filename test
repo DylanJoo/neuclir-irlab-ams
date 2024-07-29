@@ -1,0 +1,746 @@
+finalize result for postcite neuclir-dev-all
+  0%|          | 0/35 [00:00<?, ?it/s]  3%|▎         | 1/35 [00:26<14:56, 26.36s/it]  6%|▌         | 2/35 [00:54<14:56, 27.18s/it]  9%|▊         | 3/35 [01:28<16:20, 30.65s/it] 11%|█▏        | 4/35 [02:01<16:10, 31.32s/it] 14%|█▍        | 5/35 [02:28<14:54, 29.83s/it] 17%|█▋        | 6/35 [02:58<14:23, 29.77s/it] 20%|██        | 7/35 [03:27<13:51, 29.71s/it] 23%|██▎       | 8/35 [03:58<13:33, 30.11s/it] 26%|██▌       | 9/35 [04:25<12:37, 29.14s/it] 29%|██▊       | 10/35 [04:54<12:05, 29.02s/it] 31%|███▏      | 11/35 [05:23<11:34, 28.94s/it] 34%|███▍      | 12/35 [05:52<11:06, 28.97s/it] 37%|███▋      | 13/35 [06:33<12:01, 32.80s/it] 40%|████      | 14/35 [07:14<12:16, 35.08s/it] 43%|████▎     | 15/35 [07:38<10:38, 31.90s/it] 46%|████▌     | 16/35 [08:04<09:29, 29.96s/it] 49%|████▊     | 17/35 [08:29<08:36, 28.70s/it] 51%|█████▏    | 18/35 [08:53<07:43, 27.26s/it] 54%|█████▍    | 19/35 [09:23<07:26, 27.91s/it] 57%|█████▋    | 20/35 [09:58<07:30, 30.03s/it] 60%|██████    | 21/35 [10:20<06:29, 27.81s/it] 63%|██████▎   | 22/35 [10:57<06:34, 30.34s/it] 66%|██████▌   | 23/35 [11:27<06:02, 30.23s/it] 69%|██████▊   | 24/35 [11:53<05:18, 28.96s/it] 71%|███████▏  | 25/35 [12:15<04:29, 26.93s/it] 74%|███████▍  | 26/35 [12:42<04:02, 26.91s/it] 77%|███████▋  | 27/35 [13:08<03:34, 26.77s/it] 80%|████████  | 28/35 [13:36<03:09, 27.08s/it] 83%|████████▎ | 29/35 [14:01<02:39, 26.63s/it] 86%|████████▌ | 30/35 [14:34<02:22, 28.41s/it] 89%|████████▊ | 31/35 [15:02<01:53, 28.33s/it] 91%|█████████▏| 32/35 [15:25<01:19, 26.58s/it] 94%|█████████▍| 33/35 [15:59<00:58, 29.03s/it] 97%|█████████▋| 34/35 [16:32<00:30, 30.06s/it]100%|██████████| 35/35 [17:08<00:00, 31.88s/it]100%|██████████| 35/35 [17:08<00:00, 29.39s/it]
+[sentence in report] --> In recent years, the topic of Unidentified Flying Objects (UFOs) has captured the attention of the public, especially with reports from the U.S. military about their encounters with these mysterious aerial phenomena.
+[provenance document] --> 敵機?飛碟?美UFO報告曝光:140多起無法解釋 美國情報首長25日報告指出,140多起不明飛行物,沒有證據確定是外星人的飛碟。(美聯社) 美國 情報首長25日發表報告指出,無法斷定由海軍飛行員呈報的140多起不明飛行物(UFO,音譯幽浮)到底是大氣現象誤導,還是敵國駕駛的戰機,抑或是外星人駕駛的飛行器,但沒有證據確定那些物體就是外星人的飛碟。 華盛頓郵報 報導,美國人長期以來一直對無法解釋的飛行
+---
+[sentence in report] --> In response to this growing interest, investigations into UFOs have been conducted in both the public and private sectors within the United States.
+[provenance document] --> 金山人語/UFO研究報告即將出爐 UFO,俗稱的不明飛行物,從科幻的影劇到天際的來去無蹤,幾十年來帶給大家驚異、浪漫、娛樂,當然也許給一些人帶來一點憂慮甚至恐懼。美國 國會兩黨合作的情況不多,但對 UFO 的興趣卻是有志一同,去年 12 月囑國防部 在半年內提出研究報告,尤其是近年在東海岸常與飛機遭遇,被駕駛員拍下影片,驚人的閃動到底是什麼?於是成立了一個正式任務編組 UAPTF (Unident
+---
+[sentence in report] --> The history of UFO investigations in the U.S. dates back to the 1940s, with various government agencies such as the Air Force and the Defense Department launching initiatives to study these unidentified aerial objects.
+[provenance document] --> 金山人語/UFO研究報告即將出爐 UFO,俗稱的不明飛行物,從科幻的影劇到天際的來去無蹤,幾十年來帶給大家驚異、浪漫、娛樂,當然也許給一些人帶來一點憂慮甚至恐懼。美國 國會兩黨合作的情況不多,但對 UFO 的興趣卻是有志一同,去年 12 月囑國防部 在半年內提出研究報告,尤其是近年在東海岸常與飛機遭遇,被駕駛員拍下影片,驚人的閃動到底是什麼?於是成立了一個正式任務編組 UAPTF (Unident
+---
+[sentence in report] --> These investigations have aimed to uncover the truth behind these phenomena, determine any potential threats they may pose, and explore the possibility of extraterrestrial origins.
+[provenance document] --> 正視外星人!通報幽浮 美明訂規則 - 海軍 美國海軍F/A -18「超級大黃蜂」(Super Hornet)戰機遭遇不明飛行物的畫面 美國海軍正起草新準則,讓軍機駕駛和其他人員在遇上不明飛行物時,能加以通報,而這是針對無法解釋的目擊事件,正式建立收集與分析流程上很重要的新步驟。 據《政治》(Politico)新聞網與《海軍時報》(NavyTimes)報導,美國海軍說,這是因應一連串目擊先進不明飛行
+---
+[sentence in report] --> The costs associated with these investigations have varied over the years, with some projects receiving significant funding while others have operated on more limited budgets.
+[provenance document] --> 光匯石油(00933-HK)需要較預期更多的時間和努力來解決審核財報 於2017年10月3日起暫停股份買賣的光匯石油(00933-HK)公布董事會已要求審核委員會展開審核,並有權需時聘請專業顧問,審核委員會已聘請獨立顧問就審核提供協助。董事會從審核委員會處獲悉,儘管審核委員會意在切實可行的範圍內盡快完成審核,但審核委員會在此過程中遇到了一定的困難,如就關於確定調查範圍和理解獨立顧問建議的步驟或工作
+---
+[sentence in report] --> The goals of these investigations have included gathering data, analyzing sightings, and debunking hoaxes to separate fact from fiction.
+[provenance document] --> 尤振仲促公布通聯音檔 政院:檢方資料依法限制公開 2018年12月28日 21:29 中時 張理國 、影音/ 郭佩凌 、影音/ 普悠瑪駕駛尤振仲昨發表聲明,針對車速、煞車紀錄表達與政院調查小組不同看法,並要求公布通聯音檔,政院普悠瑪調查小組發言人胡湘麟引據調查報,強調事故列車在案發前時速超過141公里,已逾傾覆臨界,並且直至出軌為止,沒有煞車跡象。至於通聯紀錄聲音檔,調查小組說,屬檢方偵查資料,依
+---
+[sentence in report] --> As for the results of these investigations, findings have been mixed, with some cases remaining unsolved while others have been attributed to natural or man-made causes.
+[provenance document] --> 拜登下令美国情报机构 90天内报告新冠疫情起源 – 法国国际广播电台 广告 继续浏览后续 (法新社华盛顿26日电) 美国总统拜登(Joe Biden)今天表示,他已经下令情报单位,调查2019冠状病毒疾病(COVID-19)起源,并在90天对他呈交报告。 美国媒体报导,拜登指示情报机构向他报告,最早在中国出现的新型冠状病毒是否源自于动物,或是因为实验室意外流出。 拜登在白宫发布的声明中指出,情报机
+---
+[sentence in report] --> The ongoing interest in UFOs and the efforts to study them continue to intrigue the public and spark debate among experts in the field.
+[provenance document] --> 金山人語/UFO研究報告即將出爐 UFO,俗稱的不明飛行物,從科幻的影劇到天際的來去無蹤,幾十年來帶給大家驚異、浪漫、娛樂,當然也許給一些人帶來一點憂慮甚至恐懼。美國 國會兩黨合作的情況不多,但對 UFO 的興趣卻是有志一同,去年 12 月囑國防部 在半年內提出研究報告,尤其是近年在東海岸常與飛機遭遇,被駕駛員拍下影片,驚人的閃動到底是什麼?於是成立了一個正式任務編組 UAPTF (Unident
+---
+Search (8) sentences in the report - (zho) e.g. In recent years, the topic of ... | Time elapsed: 26.35s
+[sentence in report] --> In recent years, the topic of Unidentified Flying Objects (UFOs) has captured the attention of the public, especially with reports from the U.S. military about their encounters with these mysterious phenomena.
+[provenance document] --> Земное происхождение летающих тарелок Военные технологии превратились в предмет поп-культуры После (а в некоторых странах – по сей день) локдауна люди во всем мире, кажется, ищут то ли экзотические вп
+---
+[sentence in report] --> In response to this growing interest, investigations into UFOs have been conducted in both the public and private sectors within the United States.
+[provenance document] --> Тему пришельцев открыто обсудили в Сенате США Уже несколько месяцев новости о пришельцах одна другой интереснее. Если вкратце, по всему миру тихой сапой снимают грифы «секретно» с документов, скрывающ
+---
+[sentence in report] --> The history of UFO investigations in the U.S. dates back to the 1940s, with various government agencies such as the Air Force and the CIA looking into reports of unidentified aerial objects.
+[provenance document] --> The New York Times: Впервые о таинственной программе Пентагона по изучению НЛО Вашингтон – В 600-миллиардном бюджете Пентагона почти невозможно найти неприметные 22 миллиона долларов, потраченные на П
+---
+[sentence in report] --> These investigations have often been shrouded in secrecy, leading to speculation and conspiracy theories among the public.
+[provenance document] --> Куда же пропало «золото партии» Куда же пропало «золото партии» После распада СССР всплыло множество «интересных» фактов о деятельности советского руководства. Одним из громких инцидентов стало исчезн
+---
+[sentence in report] --> The costs associated with these investigations have varied over the years, with some projects receiving significant funding while others have operated on a more limited budget.
+[provenance document] --> В США обещают создать сотни миллионов доз вакцин против COVID-19 к 2021 году В США главный эксперт по инфекционным заболеваниям рабочей группы Белого дома Энтони Фаучи заявил, что к январю следующего 
+---
+[sentence in report] --> The goals of these investigations have typically been to determine the nature and origin of UFO sightings, as well as to assess any potential threat they may pose.
+[provenance document] --> Пентагон создал рабочую группу по изучению НЛО Министерство обороны США создало рабочую группу по изучению неопознанных летающих объектов (НЛО). Это сделано с целью улучшить понимание и получить предс
+---
+[sentence in report] --> As for the results of these investigations, findings have been inconclusive, with many sightings remaining unexplained.
+[provenance document] --> Четверо кишиневцев пойманы во время употребления наркотиков прямо в машине (ВИДЕО) Наркоманы были обнаружены ночью в столичном секторе Ботаника полицейскими, совершавшими рейд. Автомобиль марки Mazda 
+---
+[sentence in report] --> Despite the lack of definitive answers, the interest in UFOs and the efforts to study them continue to intrigue the public and researchers alike.
+[provenance document] --> Почему военные и ученые больше не ищут пришельцев Почему военные и ученые больше не ищут пришельцев МОСКВА , 24 мар — РИА Новости Татьяна Пичугина . СМИ по-прежнему время от времени сообщают о неопозн
+---
+Search (8) sentences in the report - (rus) e.g. In recent years, the topic of ... | Time elapsed: 27.75s
+[sentence in report] --> Blue Origin, founded by Jeff Bezos in 2000, has been at the forefront of innovation in space exploration.
+[provenance document] --> 亞馬遜宣布創辦人Jeff Bezos將卸任 AWS執行長成為接班人 亞馬遜在公布2020財年第四季財報結果時,同時也宣布現任執行長Jeff Bezos將在2021年第三季卸任,將轉由雲端業務AWS執行長Andy Jassy接手成為新任執行長。不過,Jeff Bezos強調並未準備退休,未來將會繼續在亞馬遜董事會擔任執行董事長。 同時,亞馬遜在2020財年第四季總計累積達1256億美元營收,創下亞馬
+---
+[sentence in report] --> For high school students interested in STEM, understanding the technologies developed by Blue Origin can provide valuable insights into the future of space travel.
+[provenance document] --> 与贝佐斯同行飞往太空旅行 代价2800万美元 – 法国国际广播电台 广告 继续浏览后续 (法新社华盛顿12日电) 亚马逊公司创办人贝佐斯旗下航太事业蓝源公司(Blue Origin)载人太空船下个月将升空,太空船首飞座位竞标今天结束,一位幸运儿出价2800万美元(约新台币7.75亿元)得标。 贝佐斯(Jeff Bezos)本周宣布,他与弟弟马克(Mark)将参加自家航太公司蓝源首次载人太空飞航行程
+---
+[sentence in report] --> One of the key technologies developed by Blue Origin is the New Shepard suborbital rocket system.
+[provenance document] --> 【科技.未來】實現殖民太空夢 貝佐斯的第一步是甚麼?|香港01|周報 亞馬遜(Amazon)創辦人貝佐斯(Jeff Bezos)曾說,創立太空公司藍色起源(Blue Origin)才是他最重要的工作。 貝佐斯在上月初不但發布了月球登陸器「藍月」(Blue Moon),以配合美國太空總署(NASA)在2024年載人重返月球,更再次闡述殖民太空願景,聲稱是拯救地球的唯一途徑。 到底貝佐斯打算如何實現他
+---
+[sentence in report] --> This reusable rocket has successfully completed multiple test flights, demonstrating its ability to launch and land vertically.
+[provenance document] --> 民营商业火箭公司星际荣耀完成近 12 亿 B 轮融资 星际荣耀(北京星际荣耀空间科技有限公司)今日宣布完成 11.925 亿元人民币 B 轮融资。本轮融资由北京金融街资本运营中心领投,中金甲子、广合信诚、泰中合投资、红杉资本中国基金、中信证券、招商证券、旋石天成、上海科创基金、银盛泰资本、玲珑金山股权投资、亚祥兴泰、凯联资本、珠海顺联、南平百益等跟投,老股东经纬中国、鼎晖投资、甘泉资本等继续跟投。
+---
+[sentence in report] --> This technology has the potential to significantly reduce the cost of space travel by enabling reusable rockets.
+[provenance document] --> 影/落地精度7公分 陸體量最大可回收火箭RLV-T5試驗成功 記者馬叔安/綜合報導 大陸民營航天企業翎客航天於10日10點35分,在青海省茫崖市冷湖鎮的火箭基地,進行公里級可回收火箭RLV-T5第3次發射及回收試驗,取得成功。該火箭是目前中國大陸國內體量最大、技術最先進的可回收火箭,這回試驗的飛行時間50秒,實際飛行高度300米,落地精度7公分。 ▲可回收火箭RLV-T5。(圖/翻攝自《中新社》)
+---
+[sentence in report] --> Blue Origin is also working on the New Glenn orbital rocket, which is designed to carry both crew and cargo into orbit.
+[provenance document] --> 【科技.未來】實現殖民太空夢 貝佐斯的第一步是甚麼?|香港01|周報 亞馬遜(Amazon)創辦人貝佐斯(Jeff Bezos)曾說,創立太空公司藍色起源(Blue Origin)才是他最重要的工作。 貝佐斯在上月初不但發布了月球登陸器「藍月」(Blue Moon),以配合美國太空總署(NASA)在2024年載人重返月球,更再次闡述殖民太空願景,聲稱是拯救地球的唯一途徑。 到底貝佐斯打算如何實現他
+---
+[sentence in report] --> This rocket is expected to be larger and more powerful than the New Shepard, opening up new possibilities for space exploration.
+[provenance document] --> 大中小火箭 各擅勝場 大中小火箭 各擅勝場 2018-01-01 02:36 經濟日報 編譯 經濟日報 編譯 易起宇 美國「太空探索科技公司」(SpaceX)的「獵鷹九號」(Falcon 9)火箭十八日架設在佛州甘迺迪太空中心的發射台。這枚火箭在發射前幾秒鐘因技術問題取消發射作業。 歐新社 分享 facebook 特斯拉執行長穆斯克(Elon Musk)的航太事業公司SpaceX日前將載著大型設備
+---
+[sentence in report] --> In addition to its own developments, Blue Origin has partnered with other companies, such as United Launch Alliance, to further advance space exploration technologies.
+[provenance document] --> SpaceX贏得五角大廈衛星發射合約 - 財經 電動車大廠特斯拉(Tesla)執行長穆斯克(Elon Musk)創立的太空探索科技公司(SpaceX),拿下價值數十億美元的衛星發射合約,成為美國五角大廈兩家衛星發射供應商之一,躋身軍事供應商的行列。 贏得五角大廈的合約對SpaceX是一大勝利,實現該公司成為五角大廈最信賴企業夥伴的目標。相較於未能出線的「藍色起源」(Blue Origin),Spa
+---
+[sentence in report] --> These partnerships allow for collaboration and the sharing of resources to accelerate progress in the field.
+[provenance document] --> 伊朗设拉子大学与中国科学院地理与自然资源研所签署谅解备忘录 伊朗国家通讯社(IRNA): 伊朗设拉子大学国际科学合作中心主任就该消息说道,该协议是应中国科学院的正式邀请信函,由设拉子大学代表,自然资源与环境工程副教授赛义德·拉希德·法拉赫·沙姆西(Seyyed Rashid Falah Shamsi)和中科院代表生态水文与集成流域管理研究重点实验室副所长tongqiong教授,中国科学院地理科学与
+---
+[sentence in report] --> By presenting this information to high school students, educators like yourself can inspire the next generation of innovators and explorers in the field of space exploration.
+[provenance document] --> 高英汽車科勇奪雙料冠軍 專題製作屢獲佳績 2018年05月15日 17:49 中時 李義 高英工商汽車科參加「107年度全國高級中等學校專業群科專題及創意製作競賽」,同時榮獲動力機械群專題組與創意組雙料第一,見證了學校重視學生創新發明與實作的能力。 二年級生鄭元傑、林侑誱、陳毅以「超級電容之怠速自動熄火裝置」獲得專題組全國第一名;汽車科三年級生林煜庭、二年級生劉威廷、關仕笙3人以「煞車分泵自動冷卻
+---
+Search (10) sentences in the report - (zho) e.g. Blue Origin, founded by Jeff B... | Time elapsed: 34.79s
+[sentence in report] --> Blue Origin, founded by Jeff Bezos in 2000, has been at the forefront of innovation in space exploration.
+[provenance document] --> Производитель РД-180 признал отставание России от США в ракетных двигателях — Рамблер/новости Производитель РД-180 признал отставание России от США в ракетных двигателях Эксперт отметил, что современн
+---
+[sentence in report] --> For high school students interested in STEM, understanding the technologies developed by Blue Origin can provide valuable insights into the future of space travel.
+[provenance document] --> Blue Origin продала место в частной космической миссии за $28 млн Американская частная аэрокосмическая компания Blue Origin продала место своего первого частного полета в космос для человека за 28 мил
+---
+[sentence in report] --> One of the key technologies developed by Blue Origin is the New Shepard suborbital rocket system.
+[provenance document] --> Производитель РД-180 признал отставание России от США в ракетных двигателях — Рамблер/новости Производитель РД-180 признал отставание России от США в ракетных двигателях Эксперт отметил, что современн
+---
+[sentence in report] --> This reusable rocket has been instrumental in testing vertical takeoff and landing capabilities, paving the way for future space tourism and scientific research missions.
+[provenance document] --> Самолеты и вертолеты: частники ищут новые пути в космос Сразу две частные космические компании провели испытания систем запуска, которые в ближашем будущем могут изменить традиционные подходы к выведе
+---
+[sentence in report] --> Blue Origin has also been working on the New Glenn orbital rocket, which is designed to launch satellites and potentially carry humans into space.
+[provenance document] --> СМИ: Blue Origin разработала тяжелую ракету для запуска спутников и людей НЬЮ-ЙОРК, 12 сентября. /Корр. ТАСС Алексей Качалин/. Американская компания Blue Origin разработала тяжелую ракету-носитель New
+---
+[sentence in report] --> In addition to their own developments, Blue Origin has partnered with companies like United Launch Alliance to work on the BE-4 engine, which will power ULA's Vulcan rocket.
+[provenance document] --> Blue Origin впервые испытала двигатель BE-4, предназначенный для ракет New Glenn и ULA Vulcan Частная аэрокосмическая компания Blue Origin провела первые огневые испытания нового ракетного двигателя B
+---
+[sentence in report] --> This collaboration highlights Blue Origin's commitment to advancing space exploration through partnerships and shared expertise.
+[provenance document] --> NASA заявило о готовности к сотрудничеству с Blue Origin NASA заявило о готовности к сотрудничеству с Blue Origin NASA заявило о готовности к сотрудничеству с Blue Origin 20.07.2021 17:59 Укринформ На
+---
+[sentence in report] --> For high school students eager to learn about cutting-edge technologies in space exploration, exploring Blue Origin's innovations can be both educational and inspiring.
+[provenance document] --> Компания миллиардера Безоса продаст на аукционе билет на полет в космос «20 июля New Shepard отправит в космос свой первый экипаж космонавтов. Мы предлагаем одно место в первом рейсе победителю онлайн
+---
+[sentence in report] --> As a STEM teacher, incorporating these advancements into your curriculum can spark curiosity and passion for the future of space travel among your students.
+[provenance document] --> Состоялась презентация образовательного пособия «Лунная одиссея 2.0» На форуме «Город образования – 2019» представили образовательный комплект «Лунная одиссея 2.0» - робототехническое пособие про поко
+---
+Search (9) sentences in the report - (rus) e.g. Blue Origin, founded by Jeff B... | Time elapsed: 32.33s
+Search (8) sentences in the report - (fas) e.g. In response to the request for... | Time elapsed: 27.18s
+[sentence in report] --> In response to the request for information on sanctions imposed by specific countries (other than the US) on Russia for the poisoning of Sergei and Yulia Skripal with the Novichok nerve agent, several nations have taken action.
+[provenance document] --> Франция найдет замену высланным из России дипломатам за лето, считает посол МОСКВА, 6 мая — РИА Новости. Замену французским дипломатам, высланным из России в ответ в связи с "делом Скрипалей", найдут 
+---
+[sentence in report] --> The United Kingdom, in response to the Salisbury poisoning incident, expelled 23 Russian diplomats and imposed other diplomatic measures.
+[provenance document] --> Совет национальной безопасности США рекомендовал выслать российских дипломатов в связи с делом Сергея Скрипаля Решение примет президент, сообщает CNN со ссылкой на источники. Впрочем, Дональд Трамп не
+---
+[sentence in report] --> Australia also expelled two Russian diplomats in solidarity with the UK.
+[provenance document] --> Австралия присоединилась к целому ряду государств, которые вышлют российских дипломатов Страну в течение недели должны покинуть 2 сотрудника дипмиссии, объявили в правительстве. Накануне в знак солида
+---
+[sentence in report] --> Canada expelled four Russian diplomats and denied three applications for additional diplomatic staff.
+[provenance document] --> Канада высылает четырех российских дипломатов из-за дела Скрипаля ОТТАВА, 26 марта. /ТАСС/. Правительство Канады приняло решение о высылке четырех российских дипломатов по делу об отравлении экс-полко
+---
+[sentence in report] --> Germany and France both expelled four Russian diplomats each.
+[provenance document] --> Трамп разозлился, узнав о количестве высланных из Франции и Германии дипломатов РФ Трамп разозлился, узнав о количестве высланных из Франции и Германии дипломатов РФ Как пишет издание, Трамп заявил, ч
+---
+[sentence in report] --> Additionally, several European countries, including Poland, Lithuania, Latvia, and Estonia, have also taken steps to expel Russian diplomats in response to the Skripal poisoning.
+[provenance document] --> СМИ узнали, какие страны ЕС могут выслать российских дипломатов фото иллюстративное Foto: Andres Putting Выслать российских дипломатов собираются пять стран Евросоюза (ЕС), в числе которых Франция, По
+---
+[sentence in report] --> These sanctions primarily target Russian diplomatic personnel believed to be involved in espionage activities.
+[provenance document] --> Байден в действии — новые санкции против РФ прокомментировал Порошенко Санкции Байдена против РФ прокомментировал Порошенко. Фото: РБК https://racurs.ua/n153322-bayden-v-deystvii-novye-sankcii-protiv-
+---
+[sentence in report] --> These actions reflect a coordinated international response to the use of chemical weapons on foreign soil and demonstrate a unified stance against such egregious violations of international norms.
+[provenance document] --> "Большая Семерка" поддержала удары по Сирии Страны-члены Большой семерки выразили поддержку авиаударам, нанесенным в ночь на субботу по объектам военной химической инфраструктуры Сирии Великобританией
+---
+[sentence in report] --> The information provided can assist in the US senator's committee work on this matter.
+[provenance document] --> Действия иностранных мессенджеров и соцсетей оценит спецкомиссия Совет Федерации в ближайшее время соберет специальную комиссию, которая даст оценку действиям иностранных мессенджеров и соцсетей. Речь
+---
+Search (9) sentences in the report - (rus) e.g. In response to the request for... | Time elapsed: 29.66s
+[sentence in report] --> In recent months, there has been a growing interest in utilizing dogs to identify Covid-19, particularly at high-traffic locations such as airports.
+[provenance document] --> Ученые: собаки могут вынюхивать коронавирус COVID-19 в подмышках человека Собаки могут вынюхивать коронавирус COVID-19 в подмышках человека. Ученые из National Veterinary School of Alfort во Франции в
+---
+[sentence in report] --> The Helsinki Airport in Finland has been at the forefront of this innovative approach, with a project aimed at training dogs to detect the virus.
+[provenance document] --> В аэропорту Хельсинки привлекут собак для распознавания зараженных COVID-19 В аэропорту Хельсинки (Финляндия) запустят эксперимент, в рамках которого будут использовать собак для распознавания заражен
+---
+[sentence in report] --> The training process for these Covid-sniffing dogs involves exposing them to samples of Covid-19 and rewarding them when they correctly identify the scent.
+[provenance document] --> Врачи и кинологи рассказали, может ли собака учуять запах коронавируса В Роспотребнадзоре, «Аэрофлоте» и Национальном медико-хирургическом Центре им. Пирогова начали тестировать бесконтактный способ о
+---
+[sentence in report] --> This method has shown promising results, with dogs demonstrating a high level of accuracy in detecting the virus.
+[provenance document] --> ФОТО | В аэропорту Хельсинки собаки будут искать COVID-19 “Пилотный проект, который запущен во вторник, является уникальным и первым в мире. До сих пор ни один другой аэропорт не пытался использовать 
+---
+[sentence in report] --> As a TSA employee looking for the best option to detect Covid at airports, the use of dogs presents an intriguing possibility.
+[provenance document] --> В МВД хотят привлечь собак-нюхачей для выявления людей с коронавирусом COVID-19 В МВД хотят привлечь собак-нюхачей для выявления людей с коронавирусом COVID-19 МВД рассматривает возможность по подгото
+---
+[sentence in report] --> Dogs have a keen sense of smell and are able to detect various diseases and substances with remarkable accuracy.
+[provenance document] --> Главный кинолог России не исключил, что собаки могут выявлять носителей коронавируса Фото: ТАСС/PA Photos/Carl Court Президент Российской кинологической федерации Владимир Голубев заявил в беседе с Мо
+---
+[sentence in report] --> If the Helsinki Airport project proves successful, it could pave the way for the introduction of Covid-sniffing dogs at airports around the world.
+[provenance document] --> В аэропорту Хельсинки начнут использовать собак для распознавания больных COVID-19 В эксперименте будут задействованы 16 собак - по четыре собаки в одну смену. Пассажиров будут просить провести салфет
+---
+[sentence in report] --> Further research and testing will be needed to determine the effectiveness and feasibility of using dogs to identify Covid-19 at airports.
+[provenance document] --> Роспотребнадзор запустил проект по определению COVID с помощью собак https://static.news.ru/photo/c9cf421c-02fa-11eb-8905-fa163e074e61_660.jpg Фото: Antti Aimo-Koivisto via .imago-images.de/Global Loo
+---
+[sentence in report] --> However, the potential benefits of this approach are certainly worth exploring, and could provide an additional layer of security in the fight against the pandemic.
+[provenance document] --> Швеция не может изменить стратегию по борьбе с коронавирусом — Fria Tider Стокгольм, , 06:48 — REGNUM Государственный эпидемиолог Швеции Андерс Тегнелл не отрицает предложение профессора Туве Фаль изм
+---
+Search (9) sentences in the report - (rus) e.g. In recent months, there has be... | Time elapsed: 29.59s
+[sentence in report] --> Insomnia, or the inability to fall asleep or stay asleep, can have a significant impact on heart health.
+[provenance document] --> 研究:睡眠障礙增心衰竭風險 單純失眠更要命 (中央社記者張茗喧台北1日電)睡不著、睡不好,當心真的會要命。三總追蹤2萬多名睡眠障礙患者長達13年,發現每6人就有1人罹患心臟衰竭,一旦確診滿7年風險將大增20%,而且睡不著、失眠的人風險更高。 三軍總醫院胸腔內科醫師王一多告訴中央社記者,睡眠障礙是一種系統性的疾病,包括失眠、生理時鐘失調、夢遊等,在台灣相當普遍,平均25%民眾都有此問題,若以性別來看
+---
+[sentence in report] --> Research has shown that lack of sleep can increase the risk of developing various heart-related diseases.
+[provenance document] --> 研究:睡眠障礙增心衰竭風險 單純失眠更要命 (中央社記者張茗喧台北1日電)睡不著、睡不好,當心真的會要命。三總追蹤2萬多名睡眠障礙患者長達13年,發現每6人就有1人罹患心臟衰竭,一旦確診滿7年風險將大增20%,而且睡不著、失眠的人風險更高。 三軍總醫院胸腔內科醫師王一多告訴中央社記者,睡眠障礙是一種系統性的疾病,包括失眠、生理時鐘失調、夢遊等,在台灣相當普遍,平均25%民眾都有此問題,若以性別來看
+---
+[sentence in report] --> One of the most common heart conditions affected by insomnia is hypertension, or high blood pressure.
+[provenance document] --> 睡太少 骨骼老更快? 文/夏曉稚 許多人認為,夜晚工作更能專心、有效率,再加上現代人責任制與輪班制的加班環境,以及多元的夜生活選擇,讓台灣夜貓族比例高達69%,高居世界第二。然而,無論是不是自願放棄規律的睡眠,都得要面臨骨鬆、三高等慢性疾病的風險喔! 睡太少,骨鬆風險提高94% 2019年《骨與礦物研究雜誌》指出,「睡眠不足」除了會造成心血管疾病、糖尿病、肥胖或生活品質降低等問題,還會干擾「骨重塑
+---
+[sentence in report] --> Lack of sleep can lead to an increase in blood pressure, putting extra strain on the heart and increasing the risk of heart disease and stroke.
+[provenance document] --> 睡太少 骨骼老更快? 文/夏曉稚 許多人認為,夜晚工作更能專心、有效率,再加上現代人責任制與輪班制的加班環境,以及多元的夜生活選擇,讓台灣夜貓族比例高達69%,高居世界第二。然而,無論是不是自願放棄規律的睡眠,都得要面臨骨鬆、三高等慢性疾病的風險喔! 睡太少,骨鬆風險提高94% 2019年《骨與礦物研究雜誌》指出,「睡眠不足」除了會造成心血管疾病、糖尿病、肥胖或生活品質降低等問題,還會干擾「骨重塑
+---
+[sentence in report] --> Insomnia has also been linked to an increased risk of heart failure, where the heart is unable to pump enough blood to meet the body's needs.
+[provenance document] --> 研究:睡眠障礙增心衰竭風險 單純失眠更要命 (中央社記者張茗喧台北1日電)睡不著、睡不好,當心真的會要命。三總追蹤2萬多名睡眠障礙患者長達13年,發現每6人就有1人罹患心臟衰竭,一旦確診滿7年風險將大增20%,而且睡不著、失眠的人風險更高。 三軍總醫院胸腔內科醫師王一多告訴中央社記者,睡眠障礙是一種系統性的疾病,包括失眠、生理時鐘失調、夢遊等,在台灣相當普遍,平均25%民眾都有此問題,若以性別來看
+---
+[sentence in report] --> Additionally, sleep deprivation can disrupt the body's natural rhythm, leading to irregular heartbeats or arrhythmias.
+[provenance document] --> 白天多曬太陽 晚上才能睡得好 白天多曬太陽 晚上才能睡得好 2018-03-21 16:39 聯合報 記者 聯合報 記者 李樹人 ╱即時報導 明明睡上了八九個小時,醒來還是覺得睡不飽,白天疲睏不堪醫師指出,這可能是睡眠障礙,專家建議,冬天時,白天時應該盡量到有陽光的地方運動,以調整晚上分泌的褪黑激素,並促進腎上腺素分泌,才能維持良好睡眠品質。 根據食藥署統計,臺灣人每年吃掉超過3億顆安眠藥,若以全
+---
+[sentence in report] --> For those in the aging or ill population, it is crucial to prioritize good sleep habits to maintain heart health.
+[provenance document] --> 想要長壽 要多睡好覺! 許多專家認為,改善身體健康的基本方法是健康的飲食、適量的運動和充分的睡眠。根據2017年諾貝爾醫學獎的論文,在這三者之中,睡眠最重要。許多的流行病學研究表明,睡覺時間越短,壽命就越短;因此要想保持健康而且長壽就要多睡好覺。 事實上,許多的疾病都與睡眠不足有關,最普通的就是心血管疾病、肥胖症、糖尿病、抑鬱症、焦慮症、老年失智症和癌症等等。 若是睡眠時間少於7小時,免疫系統和認
+---
+[sentence in report] --> Caregivers should be aware of the potential impact of insomnia on their charges and work to create a sleep-friendly environment.
+[provenance document] --> 長照壓力多 釋放才能持久 2019-03-24 文/蘇宜家 台灣因醫療衛生進步,國人平均壽命提升及出生率下降,人口老化問題日益嚴重,目前估計民國117年老年人口所占比率將達22.5%(536萬人)。人口老化的速度相當快速,需要照顧的失能人口增加,再加上少子化等家庭結構改變,許多照顧者幾乎全年無休、日夜照料失能者。 許多疾病源頭來自壓力,如果發現自己經常頭痛、重複感冒、過度疲勞、失眠及皮膚狀況改變等
+---
+[sentence in report] --> By addressing sleep issues, individuals can reduce their risk of heart-related diseases and improve overall well-being.
+[provenance document] --> 睡眠:BBC為你盤點戰勝失眠和焦慮的九大技巧 圖片版權 Getty Images 誰都知道睡眠和休息的重要性。然而, 每天全世界都有無以計數的人飽受失眠的痛苦和折磨。 睡不好覺,不但影響人的記憶力、情緒、工作和學習狀態等等,還會對身體健康造成短期以及長期的影響和危害。 英國最近研究發現,睡眠好還可以降低人們突發心臟病和中風的風險。 BBC記者西蒙·蒙迪(Simon Mundie)採訪了英國睡眠問題
+---
+Search (9) sentences in the report - (zho) e.g. Insomnia, or the inability to ... | Time elapsed: 30.98s
+[sentence in report] --> Insomnia, or the inability to fall asleep or stay asleep, can have a significant impact on heart health.
+[provenance document] --> Бессонница повышает риск аритмии и инсульта - ученые Как известно, для этого расстройства сна характерны трудности засыпания, беспокойный сон и раннее пробуждение. Сотрудники Мичиганского университета
+---
+[sentence in report] --> Research has shown that lack of sleep can increase the risk of developing various heart-related diseases.
+[provenance document] --> Названы самые опасные последствия недосыпания В частности, исследования показали, что недостаток сна может негативно сказаться на здоровье сердца. Ученые не раз заявляли, что для полноценного отдыха и
+---
+[sentence in report] --> One of the most common heart conditions affected by insomnia is hypertension, or high blood pressure.
+[provenance document] --> Регулярный недосып может привести к инфаркту и сахарному диабету, заявил врач-сомнолог Регулярный недосып увеличивает вероятность развития артериальной гипертонии. Помимо этого, недостаток сна может п
+---
+[sentence in report] --> When individuals do not get enough sleep, their blood pressure can remain elevated for extended periods, putting strain on the heart and increasing the risk of heart disease.
+[provenance document] --> Регулярный недосып может привести к инфаркту и сахарному диабету, заявил врач-сомнолог Регулярный недосып увеличивает вероятность развития артериальной гипертонии. Помимо этого, недостаток сна может п
+---
+[sentence in report] --> Additionally, insomnia has been linked to an increased risk of heart attack and stroke.
+[provenance document] --> Неожиданно: бессонница повышает риск инфаркта и инсульта Новости шоу бизнеса:Бессонница меняет метаболизм и эндокринную функцию организма. Человек, страдающий постоянными бессонницами, имеет повышенны
+---
+[sentence in report] --> The lack of sleep can disrupt the body's natural processes, leading to inflammation and plaque buildup in the arteries, which can ultimately result in a heart attack or stroke.
+[provenance document] --> Ученые назвали пять лучших напитков для хорошего сна Ученые назвали пять лучших напитков для хорошего сна 2 3.07.2020, 21:40 4,577 Один из напитков - вишневый сок. Зарубежные медики перечислили 5 лучш
+---
+[sentence in report] --> For those with existing heart conditions, such as heart failure, insomnia can exacerbate symptoms and lead to further complications.
+[provenance document] --> Врач заявил о связи болезней сердца и частого пробуждения Бессонница, как свидетельствуют врачи, сигнализирует о проблемах со здоровьем. Прежде всего — о депрессии и болезнях сердца и артрите / Фото: 
+---
+[sentence in report] --> The body needs adequate rest to repair and rejuvenate, and the lack of sleep can hinder this process, putting additional stress on the heart.
+[provenance document] --> Гипотония: как быстро повысить давление Гипотония: как быстро повысить давление Пониженное давление, в отличие от повышенного, чаще всего бывает у молодых людей Фото: freepik.com Пониженное давление (
+---
+[sentence in report] --> In conclusion, it is crucial for individuals, especially those with heart-related issues, to prioritize getting enough sleep to maintain their heart health.
+[provenance document] --> Мясников рассказал о смертельной опасности ночных кошмаров https://static.news.ru/photo/fc820212-2cda-11eb-b964-fa163e074e61_660.jpg Фото: pixabay.com Ночные кошмары могут свидетельствовать об опасных
+---
+[sentence in report] --> Caregivers should also be aware of the impact of insomnia on their charges and take steps to ensure they are getting the rest they need for optimal heart function.
+[provenance document] --> NO search results
+---
+Search (10) sentences in the report - (rus) e.g. Insomnia, or the inability to ... | Time elapsed: 26.99s
+Search (9) sentences in the report - (fas) e.g. In recent years, the issue of ... | Time elapsed: 28.77s
+[sentence in report] --> The decision by the United States to withdraw troops from Somalia by January 2021 has sparked a wave of speculation and analysis within the international community.
+[provenance document] --> 特朗普下令從東非國家索馬里撤走大部分美軍 美國國防部12月4日表示,總統特朗普(Donald Trump)下令在2021年1月15日前從東非國家索馬里(Somalia)撤走大部分美軍。外界擔心此舉會降低索馬里對抗極端組織的能力。 圖為2020年9月在索馬里的美軍士兵(AP) 目前美軍大約有700名士兵在索馬里,專注於幫助當地對抗組織青年黨(al Shabaab),該組織與蓋達組織(Al Qaeda
+---
+[sentence in report] --> The move, announced by the Trump administration in late 2020, has raised questions about the future of US military involvement in the East African region.
+[provenance document] --> 卸任前又下令撤軍!川普:明年初撤駐索馬利亞美軍 川普下令,將在明年初撤走幾近全數的駐索馬利亞美軍。(美聯社) 美國國防部 4日發布聲明指出,總統川普 已下令,大部分美軍要在2021年初從索馬利亞撤走。美軍目前大約有700人駐紥在索馬利亞。 駐索馬利亞美軍原本任務專注於幫助對抗當地伊斯蘭團體「青年黨」(Al-Shabaab),該組織與凱達組織有聯繫。外界擔心此舉會降低索馬利亞對抗極端組織的能力。 川
+---
+[sentence in report] --> Various US officials have cited a shift in focus towards great power competition, particularly with China and Russia, as a key factor in the decision to withdraw troops from Somalia.
+[provenance document] --> 德语媒体:最有效的压力 (德国之声中文网)奥地利《维也纳报》的评论以"只有金钱才能换来尊重?"为题,关注了近日沸沸扬扬的"杜嘉班纳辱华"事件。 "做广告的第一原则就是:不要惹恼客户。毕竟目的就是让客户有所付出,最好付出的是钱,而不是怒火。人们可能认为,时尚品牌杜嘉班纳(Dolce & Gabbana)的专业团队懂得这个道理,但是,杜嘉班纳却陷入了一场名副其实的公关灾难。在上海一场大型时装秀前夕,一
+---
+[sentence in report] --> Advocates for specific alternatives have suggested that a continued presence in the region is necessary to combat terrorism and stabilize the country.
+[provenance document] --> 法廣專訪聯合國秘書長談非洲抗疫、疫苗和債務問題 聯合國秘書長古特雷斯(Antonio Guterres)接受了法廣專訪, 他表示,許多非洲國家為遏止新型冠狀病毒擴散所實施的預防措施,可供已開發國家借鑒,他也堅持認為,有必要使未來的新冠疫苗成為一種“全球公共物品”。同時,他呼籲進一步放寬貧窮國家的償還債務期限。 廣告 繼續瀏覽後續 古特雷斯接受法國國際廣播電台(RFI)在馬里的特約記者Serge D
+---
+[sentence in report] --> Comparisons with past withdrawals of US forces from East Africa, such as the drawdown in Djibouti in 2019, have been made to assess the potential impact of the Somalia withdrawal.
+[provenance document] --> 卸任前又下令撤軍!川普:明年初撤駐索馬利亞美軍 川普下令,將在明年初撤走幾近全數的駐索馬利亞美軍。(美聯社) 美國國防部 4日發布聲明指出,總統川普 已下令,大部分美軍要在2021年初從索馬利亞撤走。美軍目前大約有700人駐紥在索馬利亞。 駐索馬利亞美軍原本任務專注於幫助對抗當地伊斯蘭團體「青年黨」(Al-Shabaab),該組織與凱達組織有聯繫。外界擔心此舉會降低索馬利亞對抗極端組織的能力。 川
+---
+[sentence in report] --> However, the unique security challenges in Somalia, including the presence of Al-Shabaab and ongoing political instability, have added complexity to the decision-making process.
+[provenance document] --> 瑞典智库:气候变迁加剧冲突 – 法国国际广播电台 广告 继续浏览后续 (法新社斯德哥尔摩23日电) 瑞典智库斯德哥尔摩国际和平研究所(SIPRI)今天公布报告指出,气候变迁对当前及未来的和平建设构成严峻挑战,并且可能加剧冲突。 斯德哥尔摩国际和平研究所报告是关于索马利亚长年的灾难性暴力及干旱,检视气候变迁如何影响冲突,以及联合国驻索马利亚援助团(UNSOM)的和平建设努力。报告发现气候变迁「加剧现
+---
+[sentence in report] --> As a journalist with The Reporter in Ethiopia, your research into the US military's involvement in Somalia will provide valuable insights into the implications of this withdrawal for the region.
+[provenance document] --> 驚!Strava健身追蹤洩軍機 美慎重評估 2018年01月29日 12:55 中時電子報 楊幼蘭 Strava全球定位系统(GPS)健身追蹤公司上網張貼健身互動地圖,不僅顯示出穿戴健身設備使用者的去處,也暴露了美國軍事基地兵員活動的高度敏感資訊。 據BBC與據《華盛頓郵報》(The Washington Post)28日報導,由Strava公佈的「全球熱圖」(Global Heat Map)利用
+---
+[sentence in report] --> Stay tuned for further developments and analysis on this evolving story.
+[provenance document] --> 《火神》後勁強!劉冠廷引爆觀眾淚海 完結篇留下3伏筆 消防職人劇《火神的眼淚》29日播出大結局,大員市娛樂城在議員關說施壓之下,消防安檢違規被銷單,最終引發熊熊大火,造成同安分隊3名消防員殉職,陳庭妮劇中選擇成立警消聯盟,走上推動改革法案一途,同安分隊也在年輕菜鳥加入之後,展開一番新氣象,結局吸引PTT台劇板網友熱烈討論,直呼「後勁強」。 以下有雷,慎入! 林義陽(劉冠廷 飾)因救王議員受困火場,
+---
+Search (8) sentences in the report - (zho) e.g. The decision by the United Sta... | Time elapsed: 28.75s
+Search (8) sentences in the report - (fas) e.g. The decision by the United Sta... | Time elapsed: 29.04s
+[sentence in report] --> China has been at the forefront of promoting the use of electric vehicles (EVs) through various initiatives aimed at encouraging adoption and developing the necessary infrastructure.
+[provenance document] --> 豐田將在華合資生產燃料電池車系統 Newsfrom Japan 【共同社北京3月30日電】豐田汽車公司29日宣佈,將在中國生產面向商用車的燃料電池車(FCV)系統。鑑於中國致力於汽車環保,豐田將加強開發不排放二氧化碳(CO2)的環保車。 豐田稱,將從2023年起生產相關係統。豐田與中國清華大學系企業北京億華通科技股份有限公司對半出資,在北京設立的合資企業將進行生產。總投資額約為80億日元(約合人民
+---
+[sentence in report] --> In terms of infrastructure, China has made significant investments in building a network of charging stations across the country.
+[provenance document] --> 能源汽車充電樁 將再增60萬個 大陸國家發展和改革委員會產業發展司副司長蔡榮華日前在北京表示,至2019年底,大陸新能源汽車充電樁已有122萬個,預計今年還將新增公共樁約20萬個、私人樁超過40萬個。 中新社報導,蔡榮華日前在國務院聯防聯控機制新聞發布會上指出,新能源汽車的發展離不開充電設施的支撐。近幾年,中國積極推進充電設施建設,已經建成全球最大的充電設施網絡。到去年底,全國的充電樁總數已達12
+---
+[sentence in report] --> As of 2020, China had over 1.2 million public charging points, making it the largest EV charging network in the world.
+[provenance document] --> 能源汽車充電樁 將再增60萬個 大陸國家發展和改革委員會產業發展司副司長蔡榮華日前在北京表示,至2019年底,大陸新能源汽車充電樁已有122萬個,預計今年還將新增公共樁約20萬個、私人樁超過40萬個。 中新社報導,蔡榮華日前在國務院聯防聯控機制新聞發布會上指出,新能源汽車的發展離不開充電設施的支撐。近幾年,中國積極推進充電設施建設,已經建成全球最大的充電設施網絡。到去年底,全國的充電樁總數已達12
+---
+[sentence in report] --> This extensive infrastructure has played a crucial role in boosting consumer confidence and driving the adoption of EVs.
+[provenance document] --> 〈鉅亨看世界〉電動車成急難好朋友 日產汽車 (7201-JP) 在 8 月 30 日時表示,在今後將加速日本電動化行動「Blue Switch」的腳步,還有在 2019 年度結束前,將與日本國內約 30 個地方自治團體及企業,於急難時活用電動車 (EV) 儲存電源來進行合作。 日產 LEAF 電動車 (圖片:AFP) 日產於 2018 年 5 月時,就曾針對圍繞在日本社會的地球暖化,及災難對策等問
+---
+[sentence in report] --> Several Chinese companies have also emerged as key players in the EV market.
+[provenance document] --> 電動車已成未來顯學 謝金河籲台灣找定位 - 財經 財信傳媒董事長謝金河昨(21)日於臉書發文,呼籲台灣尋找下個價值鏈,今(22日)晨他再發文指出,電動車已成未來產業顯學,認為台灣應該思考定位,「如果這是未來十年,廿年的產業發展新趨勢,那麼,台灣在未來電動汽車產業,我們要站在什麼位置?值得大家好好思考!」 謝金河舉出大陸平價智慧型手機品牌小米為例,說明電動車多夯,上周五(19日)香港股市收盤前,突有
+---
+[sentence in report] --> Companies like BYD, NIO, and Xpeng have been leading the charge in developing and manufacturing electric vehicles.
+[provenance document] --> 「特斯拉殺手」?蔚來汽車IPO上市 股價雲霄飛車 中國電動汽車製造商蔚來汽車 NIO (NIO-US) 股價週三 (12 日) 從市場亮相下跌 15% 後大幅回升,此前該公司首次公開募股 IPO 定價在預期範圍的下限。 NIO 股價週三收盤上漲 5.43% 來到 6.60 美元。 NIO 股價日線趨勢圖 / 圖:谷歌 由於投資者擔憂主要競爭對手特斯拉 (TSLA-US) 遇到的困境,對電動汽車製造
+---
+[sentence in report] --> In terms of sales numbers, China has seen a steady increase in EV sales, with over 1.3 million EVs sold in 2020 alone.
+[provenance document] --> EV之戰:日本汽車企業最終能否勝出? 汽車行業正面臨著「百年未有之大變局」。全球追求零排放的汽車電動化發展趨勢也十分迅猛。儘管在日本的普及速度較慢,但在中國和歐美,電動車(EV)正在穩步擴大市場份額。汽車企業方面,除了美國TESLA外,中國的傳統車企和網路巨頭也紛紛入局。日本車企最終是否能在這場逐漸呈現出「群雄割據」局面的EV戰爭中奪得勝利? EV銷量前16強,日本車僅占一席 在電動車(EV)銷量
+---
+[sentence in report] --> In addition to domestic companies, several non-Chinese companies have also entered the Chinese EV market.
+[provenance document] --> 德语媒体:促中国转型 拜登出新招 (德国之声中文网)“关于拜登召开的气候峰会有三件事值得注意。他不仅要重返特朗普退出的巴黎气候协定,并且承诺了美国的减排目标,比美国前总统奥巴马设定的减排目标还高。其二,建立一个与联合国气候会议并行的新的谈判进程。第三,他正试图用一种新的方法促进中国转型。“德国《每日镜报》本周三(4月21日)发表的一篇评论开头写道。作者接着进一步解释说:“拜登没有发出制裁的威胁,也
+---
+[sentence in report] --> Companies like Tesla, BMW, and Volkswagen have been selling electric vehicles in China, contributing to the overall growth of the EV industry in the country.
+[provenance document] --> 2019年全球電動車的廝殺熱點,在中國 文:Jeffery Ball 譯:彭于庭 在中國首都北京的市郊,有一棟玻璃和鋼筋水泥蓋成的混合式建築,這是一間電動車公司的總部,裡頭的餐廳正在整修,完工後它就能快速地為前來面試的眾多海外人才提供披薩還有其他西式餐點。該公司一位在德國取得儲能技術碩士學位的王姓中國工程師歸國之後,就投入蓬勃發展的新興電動車領域以發揮所長,他表示:「我們必需讓公司有更國際化的感覺
+---
+[sentence in report] --> The Chinese government has played a crucial role in incentivizing the adoption of EVs through various policies and subsidies.
+[provenance document] --> 中国发力电动汽车市场 新政策面临哪些检验 图片版权 Getty Images Image caption 中国既是全球最大的汽车制造国,也是最大的汽车市场。 在中国之外,很少有车主听说过比亚迪(BYD)或者北汽(北京汽车制造厂Beijing Automobile Works)这两个汽车品牌。但在电动汽车领域,这两个品牌已经占据全世界的第一和第二把交椅。 十年来,中国政府一直以补贴和其他政策刺激消费
+---
+[sentence in report] --> These incentives include tax breaks, purchase subsidies, and exemptions from license plate restrictions, making EVs more affordable and attractive to consumers.
+[provenance document] --> 初聲/別「碳」氣 純電汽車環境升級台灣能做到嗎 隨著環保意識抬頭,近幾年電動機車在台灣的街道上隨處可見,然而純電汽車卻寥寥可數。綠能科技是未來各產業發展主流,汽機車全面電動化已成世界趨勢,2017年時任行政院院長賴清德曾拍板「2040年新售汽車全面電動化」,至今卻未有下文。台灣的純電汽車發展史才剛拉開序幕又原地踏步。 過去一輛純電汽車要價幾百萬,高昂的價格讓民眾敬而遠之,也不利推展綠能;如今,高價
+---
+[sentence in report] --> Overall, China's success in promoting EVs serves as a model for other countries looking to transition to a more sustainable transportation system.
+[provenance document] --> 美国特斯拉汽车扩充香港业务 年底前拟倍增本地员工数目 路透香港9月25日 - 美国豪华电动车厂商--特斯拉汽车(Tesla)(TSLA.O)周四表示,拟于今年底将香港的员工数目倍增至逾百人,以配合为香港提供可持续交通系统的长远目标。 香港政府投资推广署发出的新闻稿指,特斯拉2010年在香港荃湾设立办事处,并于2011年开设服务中心,总占地3,000平方尺。为满足香港对电动车辆日益增长的需求,该公司
+---
+[sentence in report] --> The growth rate of the EV industry in China is a testament to the effectiveness of these initiatives and the potential for further expansion in the future.
+[provenance document] --> EV之戰:日本汽車企業最終能否勝出? 汽車行業正面臨著「百年未有之大變局」。全球追求零排放的汽車電動化發展趨勢也十分迅猛。儘管在日本的普及速度較慢,但在中國和歐美,電動車(EV)正在穩步擴大市場份額。汽車企業方面,除了美國TESLA外,中國的傳統車企和網路巨頭也紛紛入局。日本車企最終是否能在這場逐漸呈現出「群雄割據」局面的EV戰爭中奪得勝利? EV銷量前16強,日本車僅占一席 在電動車(EV)銷量
+---
+Search (13) sentences in the report - (zho) e.g. China has been at the forefron... | Time elapsed: 41.62s
+Search (12) sentences in the report - (fas) e.g. China has been at the forefron... | Time elapsed: 40.35s
+[sentence in report] --> The Joint Statement released after the Singapore Summit between US President Trump and North Korean Leader Kim Jong Un in 2018 marked a significant moment in diplomatic history.
+[provenance document] --> NO search results
+---
+[sentence in report] --> The statement outlined a commitment to establish new US-DPRK relations, work towards peace and stability on the Korean Peninsula, denuclearization efforts, and the repatriation of POW/MIA remains.
+[provenance document] --> 完整版《川金會》川普、金正恩簽署共同文件 (台灣英文新聞/ 梁瑜倩 新加坡綜合報導) 美國總統川普與北韓最高領導人金正恩在今日的會談後,已在下午簽署一份非常全面性的共同文件。 這次川金會中美國總統川普以及北韓最高領導人金正恩簽署了一份共同文件。在聯合聲明中指出:美國總統川普和北韓最高領導人金正恩就建立新型美國、北韓兩國關係,以及在朝鮮半島建立長久、穩固的和平機制,開展了全面、深入、坦誠的意見交換。
+---
+[sentence in report] --> The significance of this joint statement lies in the potential for easing tensions between the two nations and paving the way for a peaceful resolution to the longstanding conflict.
+[provenance document] --> 史瓦帝尼與台灣的邦誼仰賴王室強力支持,發生反政府動亂絕不是什麼好消息 文:吳祈攸(台大國家發展研究所碩士生) 前幾天,筆者與一位朋友通話,也交流許多國際局勢的看法,結果從他口中得知,史瓦帝尼近期發生動亂,國內局勢混沌不明。當下聽到消息的我十分詫異,一方面史瓦帝尼應是國內相對穩定的友邦;二方面這對台灣目前的外交處境,絕對不是什麼好消息,其箇中原因會在文章中說明。 筆者對史瓦帝尼的印象是很深的,因為史
+---
+[sentence in report] --> It was a rare display of diplomacy between the US and North Korea, who have been at odds for decades.
+[provenance document] --> 影/文攻武嚇之外 回顧美、朝屈指可數特使外交 影/文攻武嚇之外 回顧美、朝屈指可數特使外交 2018-06-10 17:46 聯合報 記者 聯合報 記者 尤寶琪 ╱即時報導 美國和北韓由於長期敵對,缺乏正常外交溝通管道,一旦遇上重大事件或危機,就只能靠派出重要官員,甚至是卸任總統親自出訪,才能有效化解僵局。 2000年,柯林頓政府為了要說服北韓停止彈道飛彈計畫,特別派遣國務卿歐布萊特造訪北韓2天,
+---
+[sentence in report] --> Behind the scenes, the negotiations leading up to the summit were complex and involved high-stakes discussions on nuclear disarmament and security guarantees.
+[provenance document] --> 青瓦台:美白宫国家安全顾问下月访韩 Photo : YONHAP News 韩国国际广播电台报道:韩国青瓦台表示,美国白宫国家安全顾问罗伯特·奥布莱恩将于下月访韩。青瓦台发言人康珉硕在18日召开的例行新闻发布会上表示,青瓦台国家安保室长徐薰本月13至16日对美国进行访问,他在访美期间与奥布莱恩会晤,并邀请奥布莱恩访韩。在谈到奥布莱恩具体访韩时间时,青瓦台表示,要考虑各种情况,不过奥布莱恩应该会在美
+---
+[sentence in report] --> The meeting itself was historic, as it was the first time a sitting US president met with a North Korean leader.
+[provenance document] --> 就等川金會 川普推文難掩興奮 川金會:現場觀察(中央社記者鄭崇生新加坡11日專電)美國總統川普今天上午與新加坡總理李顯龍會面,對「川金會」充滿期待,稍早還推文指出,來到新加坡真好,「空氣中充滿著興奮的味道」。 川普車隊約於上午11時46分出發,前往新加坡總理府,而他會先與李顯龍舉行一對一的不公開對談約20分鐘,隨後舉行工作午餐會。 金正恩今天一整天都沒有公開活動,而川普的行程也並不緊湊,除與東道主
+---
+[sentence in report] --> As an intern at the South China Morning Post, this report will provide you with valuable insights into the details and significance of the Joint Statement, helping you craft a comprehensive news article on this momentous event.
+[provenance document] --> 菲律宾总统即将访中国 上演南海仲裁大戏给谁看 图片版权 EPA Image caption 菲律宾总统杜特尔特受到国内反对派的压力,要求他在南海问题上对中国施压。 菲律宾总统杜特尔特打算跟中国讨论2016年的南海国际仲裁,但是北京表示不会承认有利于菲律宾在南海争端的国际仲裁。 杜特尔特此前受到国内反对派政客的批评,说他没有对中国在有争议水域咄咄逼人的行为采取行动。他表示现在是讨论这个问题的时候了。
+---
+Search (7) sentences in the report - (zho) e.g. The Joint Statement released a... | Time elapsed: 24.53s
+[sentence in report] --> The Joint Statement released after the Singapore Summit between US President Trump and North Korean Leader Kim Jong Un in 2018 marked a significant moment in diplomatic history.
+[provenance document] --> Каких договоренностей достигли лидеры КНДР и США Президент США Дональд Трамп и северокорейский лидер Ким Чен Ын 12 июня завершили переговоры в Сингапуре. В ходе саммита лидеры двух стран достигли ряда
+---
+[sentence in report] --> The statement outlined a commitment to establish new US-DPRK relations, build a lasting and stable peace regime on the Korean Peninsula, work towards complete denuclearization, and recover POW/MIA remains.
+[provenance document] --> Россия и Китай предложили отменить санкции ООН против КНДР Китай и Россия представили Совету Безопасности ООН проект резолюции по отмене санкций по отношению к КНДР. Доктор политических наук Дэниел Уо
+---
+[sentence in report] --> The significance of this statement lies in the potential for easing tensions between the two nations and paving the way for a peaceful resolution to the longstanding conflict.
+[provenance document] --> В российском посольстве осудили призыв Эстонии ужесточить санкции против нашей страны Двусторонние отношения России и Эстонии могут еще больше ухудшиться из-за принятия 15 февраля эстонским парламенто
+---
+[sentence in report] --> It was a rare display of diplomacy between the US and North Korea, who have been at odds for decades.
+[provenance document] --> Политолог: США пытаются "примазаться" к успеху межкорейского саммита Американский сенатор Линдси Грэм нашел основания для Нобелевской премии мира президенту США Дональду Трампу. Свое мнение по этому п
+---
+[sentence in report] --> Behind the scenes, the negotiations leading up to the summit were complex and involved high-stakes discussions on nuclear disarmament, security guarantees, and the future of US military presence in the region.
+[provenance document] --> По следам Горбачева и Рейгана: Путин и Байден могут встретиться в Исландии В Рейкьявике же в 1986 году советский лидер Михаил Горбачев встретился с американским президентом Рональдом Рейганом. Исланди
+---
+[sentence in report] --> The meeting itself was historic, as it was the first time a sitting US president had met with a North Korean leader.
+[provenance document] --> Южная и Северная Кореи договорились о подписании мирного договора, который положит конец войне 1953 года Фото и видео! Первым результатом исторического саммита двух Корей в пятницу стала договоренност
+---
+[sentence in report] --> As an intern at the South China Morning Post, this report will provide you with valuable insights into the details and significance of the Joint Statement, helping you craft a comprehensive news article on this momentous event.
+[provenance document] --> На пороге «большого скачка» – SCMP объяснил, почему Азия может опередить Запад после пандемии На пороге «большого скачка» – SCMP объяснил, почему Азия может опередить Запад после пандемии 24.12.2020, 
+---
+Search (7) sentences in the report - (rus) e.g. The Joint Statement released a... | Time elapsed: 25.47s
+[sentence in report] --> The reintroduction of Tasmanian Devils back into Australia has sparked both excitement and concern among wildlife enthusiasts.
+[provenance document] --> 「塔斯馬尼亞惡魔」絕跡3千年 野放26隻重返澳洲拚後代 - 萌寵 「塔斯馬尼亞惡魔(Tasmanian devil)」袋獾是有袋類的食肉動物,身形與小狗差不多,不過較為壯碩且肌肉發達,已在澳洲大陸絕跡3000多年,最近又被重新引進26隻,專家認為此舉可恢復並重新平衡森林生態,盼望在2021年繁殖季能迎來新生命。 「塔斯馬尼亞惡魔」袋獾身形與小狗差不多,不過較為壯碩且肌肉發達(影片來源/youtub
+---
+[sentence in report] --> As per the latest reports, a total of 26 Tasmanian Devils have been released into the wild in various locations across Australia.
+[provenance document] --> 「塔斯馬尼亞惡魔」絕跡3千年 野放26隻重返澳洲拚後代 - 萌寵 「塔斯馬尼亞惡魔(Tasmanian devil)」袋獾是有袋類的食肉動物,身形與小狗差不多,不過較為壯碩且肌肉發達,已在澳洲大陸絕跡3000多年,最近又被重新引進26隻,專家認為此舉可恢復並重新平衡森林生態,盼望在2021年繁殖季能迎來新生命。 「塔斯馬尼亞惡魔」袋獾身形與小狗差不多,不過較為壯碩且肌肉發達(影片來源/youtub
+---
+[sentence in report] --> These iconic marsupials, known for their ferocious nature and distinctive black fur, are being closely monitored by conservationists to track their impact on the environment.
+[provenance document] --> 19年來數量最多 百隻偽虎鯨現身花蓮 花蓮外海發現偽虎鯨浮出水面,張開氣孔噴水。(多羅滿賞鯨公司提供) 賞鯨船幸運發現百隻偽虎鯨,為花蓮近19年來最多紀錄。(多羅滿賞鯨公司提供) 近20隻偽虎鯨群還主動靠近船隻,浮出水面作出跳躍動作。(多羅滿賞鯨公司提供) 睽違19年,上百隻偽虎鯨在現花蓮外海,昨日一早1艘賞鯨船在海面上發現群聚的偽虎鯨家族,有母鯨帶小鯨在賞鯨船徘徊,接連浮出水面作出跳躍動作,與遊
+---
+[sentence in report] --> While the reintroduction of Tasmanian Devils is a positive step towards preserving the species and restoring balance to the ecosystem, there are valid concerns about their potential impact on native wildlife and the risk of extinction.
+[provenance document] --> 「塔斯馬尼亞惡魔」絕跡3千年 野放26隻重返澳洲拚後代 - 萌寵 「塔斯馬尼亞惡魔(Tasmanian devil)」袋獾是有袋類的食肉動物,身形與小狗差不多,不過較為壯碩且肌肉發達,已在澳洲大陸絕跡3000多年,最近又被重新引進26隻,專家認為此舉可恢復並重新平衡森林生態,盼望在2021年繁殖季能迎來新生命。 「塔斯馬尼亞惡魔」袋獾身形與小狗差不多,不過較為壯碩且肌肉發達(影片來源/youtub
+---
+[sentence in report] --> Some experts worry that the introduction of Tasmanian Devils could disrupt the delicate balance of the ecosystem and threaten the survival of other species.
+[provenance document] --> 28隻「惡魔動物」放生小島 3000隻小企鵝竟遭牠屠殺 - 搜奇 無論是在陸地還是海洋,弱肉強食一直都是自然界中不變的生存法則,但若是人為所造成的生態改變,就有可能引起論戰。澳洲一個小島過去曾在島上野放多隻澳洲特有種動物「袋獾」避免牠們滅絕,卻也因此讓原本生活在島上的其他生物遭到大量屠殺,引起國際間保育人士的關注。 根據英國媒體《衛報》的報導,位於澳洲東南外海的瑪麗亞島(Maria Island)
+---
+[sentence in report] --> As a journalist with a wildlife magazine, it is crucial to provide accurate and balanced information to your audience.
+[provenance document] --> 保持童心 /文.方公子 / 文.方公子 【明報文章】家父常常說我「扮淘氣」,明明已投身社會工作,但個性仍跟小朋友無異,「你返工係咪都成個細路咁」。的確,作為《明報》小學刊物《常識學堂》、《常識天下》的記者,有時真的需要抱着一顆童心工作,才可從小讀者角度構思主題和內容。記得有一次,為完成「尋找市區野鳥」的封面報道,隨香港觀鳥會到九龍公園看雀,彷彿回到小學學校旅行,心情雀躍。途中,當知道紅耳鵯的屁股是
+---
+[sentence in report] --> By delving deeper into the reintroduction process and addressing the concerns surrounding it, you can help educate your readers and foster a greater understanding of the importance of conservation efforts.
+[provenance document] --> 人民網打臉東北放開生育政策?切莫斷章取義 - 兩岸 中共中央機關報《人民日報》旗下人民網20日在「人民熱評」欄目指出,大陸國家衛健委18日公開答覆全國人大代表《關於解決東北地區人口減少問題的建議》刊發後,因涉及東北發展問題、國家人口政策兩大熱點,迅速引發輿論關注。但仔細研讀答覆全文,對比輿論解讀,不難發現,一些輿論對相關政策解讀有偏差:一個仍在調研討論的議題被言之鑿鑿,當作靴子落地、板上釘釘的公共
+---
+[sentence in report] --> Stay tuned for more updates on the progress of the Tasmanian Devil reintroduction program in Australia.
+[provenance document] --> 「塔斯馬尼亞惡魔」絕跡3千年 野放26隻重返澳洲拚後代 - 萌寵 「塔斯馬尼亞惡魔(Tasmanian devil)」袋獾是有袋類的食肉動物,身形與小狗差不多,不過較為壯碩且肌肉發達,已在澳洲大陸絕跡3000多年,最近又被重新引進26隻,專家認為此舉可恢復並重新平衡森林生態,盼望在2021年繁殖季能迎來新生命。 「塔斯馬尼亞惡魔」袋獾身形與小狗差不多,不過較為壯碩且肌肉發達(影片來源/youtub
+---
+Search (8) sentences in the report - (zho) e.g. The reintroduction of Tasmania... | Time elapsed: 25.75s
+[sentence in report] --> The reintroduction of Tasmanian Devils back into Australia has sparked both excitement and concern among wildlife enthusiasts.
+[provenance document] --> Впервые за 3000 лет. В Австралии в дикой природе родились тасманийские дьяволы Защитники природы говорят, что это большой успех в усилиях по возвращению сумчатых на материк. Тасманийские дьяволы вперв
+---
+[sentence in report] --> As a journalist for a wildlife magazine, I delved into the details of this ambitious conservation effort to provide valuable insights to my audience.
+[provenance document] --> Под чужим взглядом мы ведем себя иначе. Почему? Правообладатель иллюстрации Getty <span >В отличие от шимпанзе, человек ведет себя иначе, когда знает, что за ним следят. Осознание того, что за вами на
+---
+[sentence in report] --> According to recent reports, a total of 26 Tasmanian Devils have been released into the wild in mainland Australia as part of a carefully planned reintroduction program.
+[provenance document] --> Впервые за 3000 лет. В Австралии в дикой природе родились тасманийские дьяволы Защитники природы говорят, что это большой успех в усилиях по возвращению сумчатых на материк. Тасманийские дьяволы вперв
+---
+[sentence in report] --> These iconic marsupials, known for their ferocious reputation, are being closely monitored to assess their impact on the local ecosystem.
+[provenance document] --> NO search results
+---
+[sentence in report] --> While the reintroduction of Tasmanian Devils is a positive step towards preserving this endangered species, concerns have been raised about potential conflicts with other wildlife and the risk of disease transmission.
+[provenance document] --> В Австралии впервые за три тысячи лет родились тасманийские дьяволы На материковой части Австралии впервые за три тысячи лет родились тасманийские дьяволы. Как сообщает Day.Az со ссылкой на Lenta.ru, 
+---
+[sentence in report] --> Experts are working diligently to address these challenges and ensure the success of the reintroduction program.
+[provenance document] --> WADA вернуло аккредитацию лаборатории в Катаре МОСКВА, 13 апреля. /ТАСС/. Всемирное антидопинговое агентство (WADA) объявило, что возвращает аккредитацию лаборатории в Дохе (Катар). Об этом сообщает п
+---
+[sentence in report] --> As my audience expresses a keen interest in traveling to Australia and learning more about its unique wildlife, I will continue to provide updates on the progress of the Tasmanian Devil reintroduction, shedding light on the conservation efforts and the importance of protecting these fascinating creatures.
+[provenance document] --> Разработано приложение для определения опасности змей и пауков В Австралии разработано мобильное приложение Critterpedia, с помощью которого можно узнать, насколько опасен паук или змея, встретившийся
+---
+Search (7) sentences in the report - (rus) e.g. The reintroduction of Tasmania... | Time elapsed: 23.91s
+[sentence in report] --> In the aftermath of Cyclone Idai in 2019, several African countries experienced outbreaks of Cholera, a deadly waterborne disease.
+[provenance document] --> 才遭熱帶氣旋重創 莫三比克霍亂疫情恐擴大 2019-03-31 15:41 〔即時新聞/綜合報導〕熱帶氣旋伊代(Idai)重創非洲國家莫三比克、馬拉威與辛巴威,天災雖已經兩週,但莫國依然滿目瘡痍、汪洋一片,遇難者遺體隨處可見;加上霍亂疫情不斷擴大,由於擔心感染失控,世界衛生組織(WHO)正積極準備疫苗與蚊帳。 據《NHK》報導,本月中旬伊代直撲非洲東南部,造成莫三比克超過500人死亡,由於衛生條件
+---
+[sentence in report] --> The cyclone caused widespread flooding, which contaminated water sources and led to unsanitary conditions, creating a breeding ground for the cholera bacteria.
+[provenance document] --> 新北明天停班課 垃圾收運看這裡 2019-08-08 20:21 〔記者邱書昱/新北報導〕颱風利奇馬挾帶強風豪雨襲台,新北市環保局說,今晚照常收運垃圾,明天上午將停止垃圾收運垃圾服務,下午及夜間是否收運,將視風雨狀況決定和公佈,可至新北樂圾車垃圾清運資訊網查詢。 環保局呼籲,停收垃圾期間,請勿把家中垃圾至街道隨意棄置,以免造成環境髒亂及強風吹散至危害公共安全。 另外,颱風期間也要巡查居家周遭水溝蓋
+---
+[sentence in report] --> Countries such as Mozambique, Zimbabwe, and Malawi were particularly hard hit by the outbreak, with thousands of cases reported.
+[provenance document] --> 非洲新冠確診逾5萬 世衛警告:疫情或造成19萬人死亡 ▲新冠疫情的下一個震央是在菲洲?世衛本吉周提出嚴重警示。(圖/達志影像/美聯社) 國際中心/綜合報導 「非洲疾病預防及控制中心」周四(7日)發布資料顯示,非洲新冠確診病例累該已超過5萬例,達51698例、死亡2012例。世界衛生組織預測,如防疫控失控,最終可能導致高達19萬人死亡。目前,非洲54個國家裡已有53個國家傳出疫情,只有賴索托還沒有傳
+---
+[sentence in report] --> The lack of clean water, proper sanitation facilities, and overcrowded living conditions in affected areas exacerbated the spread of the disease.
+[provenance document] --> 新冠肺炎..多代同住衞生欠佳 土著半自治區染病率超紐約州|即時新聞|美洲|on.cc東網 美國新冠肺炎疫情嚴重,居有約17萬土著的半自治納瓦霍族保留地(Navajo Nation),超越重災區紐約州和新澤西州,成為美國人均感染率最高的地區。 納瓦霍族保留地橫跨亞利桑那州、新墨西哥州和猶他州。截至周一(18日),區內4,071人確診新冠肺炎,142人喪生,感染率為2.3%,比重災區紐約州的1.8%為
+---
+[sentence in report] --> The response to the outbreak included efforts to provide clean water, sanitation facilities, and medical treatment to those affected.
+[provenance document] --> 新莊社區大樓住戶疑確診 社區管理中心發訊息曝第幾棟 - 生活 疫情嚴峻,新莊區某重劃區社區大樓近日向住戶發出訊息,「本社區15日接獲有確診案例,來源為蘆洲獅子會(暴露該棟位置),社區已做初步環境消毒,請勿任意外出至人多地方群聚,若您身分不適,請隨時通報」;衛生局回應,待中央疫情中心公布為準。 新莊區某重劃區社區大樓近日向住戶發出訊息,內容指出「本社區15日接獲有確診案例,來源為蘆洲獅子會(暴露該棟
+---
+[sentence in report] --> The international community, including organizations like the World Health Organization and UNICEF, provided assistance in the form of medical supplies, personnel, and funding to support the response efforts.
+[provenance document] --> 習近平今出席廿國集團領導人特別峰會 討論應對疫情 中國大陸國家主席習近平將出席今晚舉行的二十國集團峰會的領導人特別峰會,討論如何應對疫情。 據香港電台報導,大陸外交部副部長羅照輝表示,今次是習近平在疫情爆發以來,首場出席的重要外交活動,二十國集團峰會是全球各國的重要合作平台,在2008年的國際金融危機時發揮重要的領導作用,今晚會議出席者都是疫情的受害方,是重要的契機,相信各國能就穩定國際經濟的重要
+---
+[sentence in report] --> As a graduate student pursuing a Master's degree in Public Health, this report will provide valuable insights into the challenges faced in preventing infectious disease outbreaks in areas affected by natural disasters.
+[provenance document] --> 防疫全民注目/臺灣大學公衛系 醫藥人才更搶手 【文/蘇怡和】 隨著全球化、氣候變遷及人口老化,疾病型態出現變化,去(2020)年更因新冠肺炎疫情爆發,公共衛生此跨領域統整的學門開始受到重視。 臺灣大學公共衛生學系(以下簡稱台大公衛系)副主任程藴菁表示:「公共衛生與全民健康息息相關,只是以往大眾對它不甚了解。」她分析此次台灣能在全球疫情嚴峻環境下,有效且迅速地控制疫情並且進行防疫,除了政府機關的資訊
+---
+[sentence in report] --> It highlights the importance of improving public health infrastructure and preparedness to mitigate the impact of such crises in the future.
+[provenance document] --> 【武漢肺炎】病毒幽靈再現 鍾南山:我們是否吸取沙士教訓?|香港01|議事廳 湖北武漢爆發的新型冠狀病毒肺炎疫情肆虐全國,令人回想起2003年爆發的沙士(SARS)疫症。儘管目前暫時沒有正式查明此次新型冠狀病毒的來源,但野生動物依舊有最大嫌疑。此外,縱觀「武漢肺炎」蔓延的過程,地方政府在應對疫情上,非但錯過了最佳時機,從所謂的「可防可控」變成不斷擴散,如今又頻頻爆出疫區物資短缺以及安排不當的新聞,暴
+---
+Search (8) sentences in the report - (zho) e.g. In the aftermath of Cyclone Id... | Time elapsed: 29.41s
+[sentence in report] --> In the aftermath of Cyclone Idai in 2019, several African countries experienced outbreaks of Cholera, a waterborne disease that can spread rapidly in areas with poor sanitation and limited access to clean water.
+[provenance document] --> В Мозамбике зафиксированы пять случаев заражения холерой 27 марта, Минск /Корр. БЕЛТА/. В Мозамбике зафиксированы пять случаев заражения холерой, сообщает информагентство Associated Press . Первые офи
+---
+[sentence in report] --> The cyclone caused widespread flooding, which contaminated water sources and increased the risk of disease transmission.
+[provenance document] --> ФОТО: Ураган "Амфан" опустошил Калькутту и принес много бед Индии и Бангладеш Обрушившийся на восточную часть Индии и Бангладеш мощнейший за последние 20 лет циклон "Амфан" унес жизни по меньшей мере 
+---
+[sentence in report] --> Countries such as Mozambique, Zimbabwe, and Malawi were particularly hard hit by the cyclone and subsequent cholera outbreaks.
+[provenance document] --> Итоги 24 марта: Призыв Йованович к украинцам, конец спасательной операции в Норвегии Новости Украины: Посол СШа Мари Йованович обратилась к украинцам накануне выборов президента, норвежский лайнер Vik
+---
+[sentence in report] --> In Mozambique, for example, over 6,000 cases of cholera were reported, with the government and international organizations working together to provide medical treatment and clean water to affected communities.
+[provenance document] --> Наводнение в Мозамбике - в разрушенных частях страны растет количество больных холерой Власти Мозамбика сообщили, что в стране, где прошел сильнейший тропический циклон, за последние двое суток вдвое 
+---
+[sentence in report] --> The outbreaks highlighted the importance of public health infrastructure in preventing and responding to infectious disease outbreaks in the wake of natural disasters.
+[provenance document] --> NO search results
+---
+[sentence in report] --> Countries with strong healthcare systems and access to clean water were better equipped to contain the spread of cholera and provide timely medical care to those affected.
+[provenance document] --> Эфиопия и ВОЗ пытаются предотвратить вспышки холеры в местах паломничества Аддис-Абеба, , 14:04 — REGNUMВсемирная организация здравоохранения сообщает: «Паломники со всей Эфиопии прибывают пешком, на 
+---
+[sentence in report] --> International assistance played a crucial role in supporting the response efforts, with organizations such as the World Health Organization and UNICEF providing funding, medical supplies, and technical expertise to affected countries.
+[provenance document] --> Россия передала Венесуэле 20 тысяч тестов на коронавирус Россия передала Венесуэле 20 тысяч тестов на коронавирус Москва. 8 апреля. INTERFAX.RU - Россия в среду поставила Венесуэле 20 тыс. диагностиче
+---
+[sentence in report] --> As a graduate student in Public Health, this report can provide valuable insights for your paper on preventing infectious disease outbreaks in disaster-affected areas.
+[provenance document] --> NO search results
+---
+[sentence in report] --> It underscores the need for robust public health systems, access to clean water, and international cooperation in responding to such crises.
+[provenance document] --> Страны ООН признали, что пандемия застала их врасплох Пандемия застала врасплох страны Генассамблеи ООН, поэтому необходимо усилить международное сотрудничество для повышения устойчивости к кризисам. 
+---
+Search (9) sentences in the report - (rus) e.g. In the aftermath of Cyclone Id... | Time elapsed: 34.98s
+[sentence in report] --> The fire that devastated the Notre Dame Cathedral in Paris in April 2019 shocked the world and raised questions about the cause of the tragic event.
+[provenance document] --> 圖輯》聖母院大火燒斷尖塔、玫瑰花窗全毀 法國人垂淚 2019-04-16 08:46 相關新聞 〔即時新聞/綜合報導〕有850年歷史的巴黎聖母院於當地時間15日下午燃起熊熊大火,大教堂屋頂在烈焰焚燒下崩塌,包含尖塔建物及知名的玫瑰花窗均遭燒毀,雖然在救難人員努力下成功阻止火勢蔓延,主體建築及兩座塔樓結構得以保全,但大批法國民眾眼見鍾愛的法國象徵陷入火海,紛紛為之心痛落淚。 法國巴黎聖母院(Cath
+---
+[sentence in report] --> While initial speculation pointed towards sabotage or terrorism, there are other theories that have been proposed by experts in the field.
+[provenance document] --> 印尼證實:墜機現場「發現屍塊」逃生梯殘骸 緊急投入潛水部隊! 印尼三佛齊航空(Sriwijaya Air)波音737-500型班機編號SJ182,周六(9日)下午2時許在起飛4分鐘後失聯。印尼政府當晚7時許證實載有62人的班機墜毀,目前已尋獲部分殘骸;當局指出調查正在進行,目前有3個調查方向,包括機械故障或暴風雨,同時不排除恐怖攻擊的可能。
+---
+[sentence in report] --> One theory suggests that the fire may have been caused by an electrical fault.
+[provenance document] --> 元朗地舖電線短路起火 消防救熄無人傷|即時新聞|港澳|on.cc東網 元朗地舖發生火警,今午(2日)2時許,青山公路元朗段110號地下一空置店舖起火,濃煙席捲半空,多名街坊見狀報警。消防到場開動1條喉及1隊煙帽隊灌救,迅速將火救熄。警方封鎖現場,經調查後相信有電線短路引起火警,意外中無人傷。
+---
+[sentence in report] --> The cathedral was undergoing renovations at the time of the fire, and it is possible that faulty wiring or electrical equipment could have sparked the blaze.
+[provenance document] --> 【巴黎聖母院大火】初步調查認為火警可能是電線短路引起 法國著名景點巴黎聖母院(Notre-Dame de Paris)周一(15日)發生大火,教堂標誌性的尖塔被烈焰包圍,之後折斷塌下。當局周四(18日)初步調查認為,最有可能是電線短路引發。 巴黎檢察部門周三(17日)表示,據初步調查結果顯示,尖塔底部意外起火後,火勢迅速蔓延釀成大火。當局截至周四(18日)已向40名聖母院的職員問話,包括負責修建尖
+---
+[sentence in report] --> Another theory is that the fire was started accidentally by a worker or a visitor, perhaps through a discarded cigarette or a misplaced candle.
+[provenance document] --> 台北钱柜KTV大火 储藏室内疑有电线走火等电器因素惹祸 台北市林森钱柜昨日(26日)大火酿五死,检警今天追查起火原因,根据监视器画面发现起火点位在起火层五楼的储藏室,检警怀疑,储藏室内疑有电线走火等电器因素惹祸,物品闷烧过久,且燃烧不完全,引起大量浓烟,加上警报器没响、洒水设备无法使用,酿成五死悲剧。 据《联合报》报道,昨天有工人称,在施工时有闻到味道,但没发现有异常。工头疑似也查看五楼情况,曾经
+---
+[sentence in report] --> As a historic buildings inspector tasked with investigating the cause of the Notre Dame fire, it is crucial to consider all possible theories in order to prevent similar incidents from occurring at other historic buildings.
+[provenance document] --> NO search results
+---
+[sentence in report] --> By thoroughly examining the evidence and consulting with experts in the field, a clearer picture of what led to the tragic fire at Notre Dame can be established, helping to ensure the safety and preservation of other historic landmarks in the future.
+[provenance document] --> 南加內陸重大山火 地檢署或起訴意外造成火災人士 El Dorado fire (檔案照) 2020年9月初發生在聖伯納汀諾縣尤卡帕市(Yucaipa)的一場野火,導致燃燒面積逾2萬2000英畝,野火發生原因與當地居民慶祝性別揭曉派對,燃放煙花有關。縣地檢署最近已展開動作,對火災肇事者或可能提起訴訟。 這次野火名為El Dorado野火,發生於2020年9月5日,共燃燒2萬2680英畝土地,一名消防
+---
+Search (7) sentences in the report - (zho) e.g. The fire that devastated the N... | Time elapsed: 22.64s
+Search (10) sentences in the report - (fas) e.g. The fire that devastated the N... | Time elapsed: 36.25s
+[sentence in report] --> The historic first flight of the helicopter Ingenuity on Mars has captured the attention of the world, marking a significant milestone in space exploration.
+[provenance document] --> 見證火星歷史性首飛!「機智號」升空全程影片曝光 「機智號」在台灣時間昨下午3點30分成功在火星內升空,創下人類首次在外星球內動力飛行的壯舉。(法新社) 2021/04/20 10:14 〔即時新聞/綜合報導〕火星微型直升機「機智號」(Ingenuity)創歷史!在台灣時間昨(19日)下午3點30分成功在火星內升空,創下人類首次在外星球內動力飛行的壯舉;「機智號」的好夥伴,火星探測車「毅力號」(Pe
+---
+[sentence in report] --> On April 19, 2021, Ingenuity took to the Martian skies, becoming the first aircraft to achieve powered, controlled flight on another planet.
+[provenance document] --> NO search results
+---
+[sentence in report] --> The flight lasted a mere 40 seconds, but it was a monumental achievement for NASA's Perseverance rover mission.
+[provenance document] --> 國際簡報|美成全球首國為猩猩打動物用武肺疫苗|毅力號處女航探索火星環境|涉歧視童書大師作品登亞馬遜暢銷書榜首 | 蘋果日報 美為猩猩打動物用武肺疫苗 美國加州聖迭戈動物園早前有8隻大猩猩感染武漢肺炎後,園方先後向另外4隻紅毛猩猩和5隻倭黑猩猩,接種美國輝瑞藥廠子公司碩騰(Zoetis)研發的實驗性動物用武肺疫苗,是全球首國為猩猩接種武肺疫苗。 園方為9隻猩猩各接種兩劑疫苗,其中一隻接種的蘇門答臘紅
+---
+[sentence in report] --> Ingenuity soared to a height of 10 feet, hovered briefly, and then touched back down on the Martian surface.
+[provenance document] --> NO search results
+---
+[sentence in report] --> During its brief flight, the helicopter traveled a distance of approximately 39.1 feet.
+[provenance document] --> 空軍還原黑鷹失事前關鍵一分鐘 駕駛奮力至最後 (中央社記者游凱翔、余祥台北15日電)空軍UH-60M黑鷹直升機1月2日上午8時7分失事,空軍今天還原過程,機組員8時3分已注意雲層變化,在失事前最後一分鐘,副駕駛兩度提醒注意「高度」,雖然正駕駛應變拉升,但仍釀憾事。 UH-60M黑鷹直升機(機號933),1月2日在新北坪林、宜蘭交界處失事,造成參謀總長沈一鳴、總士官長韓正宏、正駕駛葉建儀、副駕駛劉鎮
+---
+[sentence in report] --> This groundbreaking feat opens up new possibilities for future exploration of the Red Planet, showcasing the potential for aerial vehicles to assist in scientific research and exploration.
+[provenance document] --> 影/中國「祝融號」開上火星 將展開90天探測 「祝融號」火星探測車已駛離著陸平台、到達火星表面,並回望拍下平台所在的地表圖片。(美聯社) 中國 「祝融號」(Zhurong)火星 探測車22日安全駛離著陸平台,到達火星表面,開始90個「火星日」(sol,火星的一個太陽日)的巡視探測;中國成為繼美國 之後,史上第二個實現探測車在火星著陸並成功運作的國家。 中國國家航天局表示,祝融號於北京時間22日10
+---
+[sentence in report] --> The success of Ingenuity's flight paves the way for future missions to utilize helicopters for reconnaissance, mapping, and even sample collection on Mars.
+[provenance document] --> 創新號火星試飛完成 任務延長以協尋生命痕跡 美國國家航空暨太空總署(NASA)在火星上的無人直升機「創新號」(Ingenuity)最初4次試飛表現超乎預期,可以準備畢業,進入新一階段,協助探測生命存在過的痕跡。 創新號所執行的任務,是人類首次在另一座行星上空進行飛行器試飛。 NASA今天宣布,創新號已從單純的概念驗證、技術示範模式,轉為更具企圖心的任務,目的是評估空中偵察和其他功能對未來在火星上的
+---
+[sentence in report] --> As we look to the skies of Mars, we are reminded of the endless possibilities that lie ahead in our quest to unravel the mysteries of the universe.
+[provenance document] --> 《冥王星任務》書評:太空探險不是純科學問題,而是涉及資源分配的政治問題 文:黃貞祥(國立清華大學分子與細胞生物研究所、生命科學系專任助理教授) 每當有太空飛船飛掠或登陸一個行星,我的臉書動態就會被各大媒體的新聞洗版。 地球上除了深海,已經沒有多少人煙罕至的地方了,連聖母峰都能組團前往了。對於人類來說,最大的未知,應該是來自夜晚時舉頭望見的星空。 每當我如果能到一個沒有光害的地方,見到星斗滿夜空,就
+---
+[sentence in report] --> The first flight of Ingenuity is a testament to human ingenuity and the spirit of exploration that drives us to reach new heights.
+[provenance document] --> 漂浮於太空的藝術品 Image copyright AMKK Image caption 2017年,日本藝術家東信給花束繋上巨大的氣球,送上內華達沙漠上方10萬英尺(約合3萬米)高空。 在人類漫長的歷史長河裏,探索外太空的歷史不過短短幾十年的時間。但早在我們把衛星送進大氣層之前很久,藝術家們就已在想像逃離這個卑微的星球,渴望奔向天空。 軍事防禦上的支出和科學進步推動了我們的探索,而藝術家繼續擔當
+---
+Search (9) sentences in the report - (zho) e.g. The historic first flight of t... | Time elapsed: 29.95s
+Search (8) sentences in the report - (fas) e.g. The historic first flight of t... | Time elapsed: 26.01s
+[sentence in report] --> The Baikal-GVD project, also known as the Baikal Gigaton Volume Detector, is a groundbreaking scientific endeavor aimed at studying neutrinos, elusive subatomic particles that can provide valuable insights into the universe.
+[provenance document] --> 贝加尔湖湖底看宇宙 俄启用大型水底太空望远镜 – 法国国际广播电台 广告 继续浏览后续 (法新社贝加尔湖13日电) 俄罗斯科学家今天启用北半球最大的深水微中子望远镜,要从贝加尔湖(Lake Baikal)清澈的湖底,一窥宇宙深处。 这个由捷克、德国、波兰、俄罗斯、斯洛伐克科学家合作的深水望远镜名为「贝加尔-GVD」(Baikal-GVD ),2015年开始打造,目的是要观察最小的粒子「微中子」。由
+---
+[sentence in report] --> The project, located in Lake Baikal in Siberia, involves an international collaboration of scientists from Russia, Germany, Poland, and the Czech Republic.
+[provenance document] --> 贝加尔湖湖底看宇宙 俄启用大型水底太空望远镜 – 法国国际广播电台 广告 继续浏览后续 (法新社贝加尔湖13日电) 俄罗斯科学家今天启用北半球最大的深水微中子望远镜,要从贝加尔湖(Lake Baikal)清澈的湖底,一窥宇宙深处。 这个由捷克、德国、波兰、俄罗斯、斯洛伐克科学家合作的深水望远镜名为「贝加尔-GVD」(Baikal-GVD ),2015年开始打造,目的是要观察最小的粒子「微中子」。由
+---
+[sentence in report] --> The scientific goals of the Baikal-GVD project are to detect high-energy neutrinos from astrophysical sources such as supernovae, gamma-ray bursts, and active galactic nuclei.
+[provenance document] --> NO search results
+---
+[sentence in report] --> By studying these neutrinos, researchers hope to gain a better understanding of the processes that occur in the most extreme environments in the universe.
+[provenance document] --> NO search results
+---
+[sentence in report] --> The multinational cooperation on the Baikal-GVD project allows for the pooling of resources, expertise, and technology, leading to more significant scientific advancements in neutrino astronomy.
+[provenance document] --> 贝加尔湖湖底看宇宙 俄启用大型水底太空望远镜 – 法国国际广播电台 广告 继续浏览后续 (法新社贝加尔湖13日电) 俄罗斯科学家今天启用北半球最大的深水微中子望远镜,要从贝加尔湖(Lake Baikal)清澈的湖底,一窥宇宙深处。 这个由捷克、德国、波兰、俄罗斯、斯洛伐克科学家合作的深水望远镜名为「贝加尔-GVD」(Baikal-GVD ),2015年开始打造,目的是要观察最小的粒子「微中子」。由
+---
+[sentence in report] --> The project's potential contributions to our understanding of the universe are vast, as it could help answer fundamental questions about the nature of dark matter, the origin of cosmic rays, and the evolution of galaxies.
+[provenance document] --> NO search results
+---
+[sentence in report] --> Overall, the Baikal-GVD project represents a cutting-edge research initiative that promises to revolutionize our understanding of the cosmos and inspire future generations of physicists.
+[provenance document] --> 贝加尔湖湖底看宇宙 俄启用大型水底太空望远镜 – 法国国际广播电台 广告 继续浏览后续 (法新社贝加尔湖13日电) 俄罗斯科学家今天启用北半球最大的深水微中子望远镜,要从贝加尔湖(Lake Baikal)清澈的湖底,一窥宇宙深处。 这个由捷克、德国、波兰、俄罗斯、斯洛伐克科学家合作的深水望远镜名为「贝加尔-GVD」(Baikal-GVD ),2015年开始打造,目的是要观察最小的粒子「微中子」。由
+---
+Search (7) sentences in the report - (zho) e.g. The Baikal-GVD project, also k... | Time elapsed: 22.21s
+[sentence in report] --> The Baikal-GVD project, also known as the Baikal Gigaton Volume Detector project, is a groundbreaking scientific endeavor aimed at studying neutrinos, the elusive subatomic particles that can provide valuable insights into the universe.
+[provenance document] --> Иркутские учёные изучают излучения дальнего космоса Иркутские учёные изучают излучения дальнего космоса Учёные Иркутского государственного университета расшифровывают информацию, которую из дальнего к
+---
+[sentence in report] --> The project, located in Lake Baikal in Siberia, involves an international collaboration of scientists from Russia, Germany, Poland, and the Czech Republic.
+[provenance document] --> Крупнейший в Северном полушарии нейтринный телескоп ввели в эксплуатацию на Байкале Крупнейший в Северном полушарии нейтринный телескоп ввели в эксплуатацию на Байкале 13.03.2021, 9:26, Новости дня ✔ 
+---
+[sentence in report] --> The scientific goals of the Baikal-GVD project are to detect high-energy neutrinos from astrophysical sources such as supernovae, gamma-ray bursts, and active galactic nuclei.
+[provenance document] --> Горняк22: На Байкале запустили уникальный глубоководный телескоп • 16.03.2021 • ГОРНЯК22 Запуск мегасайенс-установки «Байкальский глубоководный нейтринный телескоп» осуществил Министр науки и высшего 
+---
+[sentence in report] --> By studying these neutrinos, researchers hope to gain a better understanding of the processes that occur in the most extreme environments in the universe.
+[provenance document] --> На Байкале будут ловить нейтрино: запустили самый большой в Северном полушарии глубоководный телескоп На Байкале запустили самый большой в Северном полушарии глубоководный телескоп. Фото: Яна УШАКОВА.
+---
+[sentence in report] --> The multinational cooperation on the Baikal-GVD project allows for the pooling of resources, expertise, and technology, leading to more significant scientific advancements in neutrino astronomy.
+[provenance document] --> Неуловимые носители тайн Вселенной Панельная дискуссия «Нейтрино – неуловимые носители тайн Вселенной» состоялась 5 июня на стенде Минобрнауки России на Петербургском международном экономическом форум
+---
+[sentence in report] --> The project's potential contributions to our understanding of the universe are vast, as it could help answer fundamental questions about the nature of dark matter, the origin of cosmic rays, and the evolution of galaxies.
+[provenance document] --> Телескоп Hubble заснял яркое звездное скопление в созвездии Скорпиона Телескоп Hubble заснял яркое звездное скопление в созвездии Скорпиона Скопление NGC 6380 находится примерно в 35 тыс. световых лет
+---
+[sentence in report] --> Overall, the Baikal-GVD project represents a significant step forward in the field of neutrino astronomy and has the potential to revolutionize our understanding of the universe.
+[provenance document] --> Иркутские учёные изучают излучения дальнего космоса Иркутские учёные изучают излучения дальнего космоса Учёные Иркутского государственного университета расшифровывают информацию, которую из дальнего к
+---
+[sentence in report] --> As a university physics professor, incorporating information about this project into the undergraduate curriculum can provide students with valuable insights into cutting-edge research in astrophysics.
+[provenance document] --> МГТУ им. Г.И. Носова открывает набор в Проектную школу Опорный университет Южного Урала впервые ведет прием учащихся в десятый класс. В стенах университета начинает работу Проектная школа, которая поз
+---
+Search (8) sentences in the report - (rus) e.g. The Baikal-GVD project, also k... | Time elapsed: 26.87s
+[sentence in report] --> The Voyager probes, launched by NASA in 1977, have provided invaluable insights into the mysteries of interstellar space.
+[provenance document] --> 太空漫遊40年 航海家2號進入星際空間 2018年12月11日 17:24 中時電子報 江飛宇 美國航太總署NASA於12月10日宣布,傳奇的航海家2號(Voyager 2)通過了所謂的「日圈」(heliopause,也譯作太陽圈、太陽層頂),也就是太陽風的最邊界,未來面對的就是星際空間了。航太總署是依據在航海家2號的儀器,發現自11月5日之後,偵測到的太陽風粒子急劇下降,相對的來自銀河系的宇宙射
+---
+[sentence in report] --> These spacecraft have pushed the boundaries of human exploration, venturing beyond our solar system and into the vast expanse of the Milky Way.
+[provenance document] --> 太空探索:太陽系以外的神奇世界 「旅行者」號為你揭開秘密 太空探索:太陽系以外的神奇世界 「旅行者」號為你揭開秘密 圖像來源,Nasa/STScI/Aura 圖像加註文字, 太陽及其行星形成的太陽圈與星際空間的星際物質相碰撞時會產生弓形激波。 太陽系之外的星際空間對於地球上的人類一直是神秘的黑暗真空,其秘密現在終於被首批離開太陽系的人造物體——兩艘無畏的宇宙飛船所揭開。 太陽系的邊緣,遠離太陽的保
+---
+[sentence in report] --> One of the key operational capabilities of the Voyager probes is their ability to communicate with Earth from billions of miles away.
+[provenance document] --> NO search results
+---
+[sentence in report] --> Despite their distance, these spacecraft continue to send back data that has revolutionized our understanding of the outer reaches of our solar system.
+[provenance document] --> 太空探索:太陽系以外的神奇世界 「旅行者」號為你揭開秘密 太空探索:太陽系以外的神奇世界 「旅行者」號為你揭開秘密 圖像來源,Nasa/STScI/Aura 圖像加註文字, 太陽及其行星形成的太陽圈與星際空間的星際物質相碰撞時會產生弓形激波。 太陽系之外的星際空間對於地球上的人類一直是神秘的黑暗真空,其秘密現在終於被首批離開太陽系的人造物體——兩艘無畏的宇宙飛船所揭開。 太陽系的邊緣,遠離太陽的保
+---
+[sentence in report] --> Scientifically, the Voyager missions have made groundbreaking discoveries.
+[provenance document] --> 【邵逸夫獎】太空船旅行者號領導者:社交媒體為科學發展帶來挑戰 邵逸夫獎舉世矚目,志在表揚在學術及科學研究或應用上獲得突破成果,甚或對人類生活影響遠的科學家。 今年邵逸夫天文學獎,由美國加州理工學院大衛.莫里斯物理學講座教授和特別項目副校長愛德華.史東(Edward C Stone)奪得,他領導的旅行者項目成功探索木星、土星、天王星、海王星,大大提升人類對宇宙間星體及外太陽系的了解。 愛德華.史東指
+---
+[sentence in report] --> Voyager 1 became the first human-made object to enter interstellar space in 2012, followed by Voyager 2 in 2018.
+[provenance document] --> NASA「旅行者2」初探星際空間 - 20191106 - 國際 邊界明顯 異於想像 NASA早前宣布,「旅行者2」號(Voyager 2)去年11月5日進入星際空間(Interstellar Space),是繼「旅行者1」號(Voyager 1)後進入星際空間的第2個人造物體。「旅行者2」號和「旅行者1」號先後在1977年8月和9月升空,原本目的只是執行5年任務,但最終一直運作至今。「旅行者1」
+---
+[sentence in report] --> These probes have detected cosmic rays, magnetic fields, and other phenomena that have deepened our understanding of the interstellar medium.
+[provenance document] --> 內地首顆引力波探測衞星測試成功 精度達1個原子直徑|即時新聞|兩岸|on.cc東網 中國科學院日前宣布,內地首顆空間引力波探測技術實驗衞星「太極一號」,其在軌測試正在開展,衞星狀態及各項測試結果正常,首階段在軌測試任務已順利完成,為國內在空間引力波探測領域,率先取得突破奠定基礎。 據數據顯示,「太極一號」的激光干涉儀位移測量精度,達到百皮米量級(約為1個原子直徑),引力參考傳感器測量精度達到地球重
+---
+[sentence in report] --> As a student of astronomy, delving into the findings of the Voyager missions will undoubtedly enrich your understanding of the cosmos.
+[provenance document] --> 【邵逸夫獎】太空船旅行者號領導者:社交媒體為科學發展帶來挑戰 邵逸夫獎舉世矚目,志在表揚在學術及科學研究或應用上獲得突破成果,甚或對人類生活影響遠的科學家。 今年邵逸夫天文學獎,由美國加州理工學院大衛.莫里斯物理學講座教授和特別項目副校長愛德華.史東(Edward C Stone)奪得,他領導的旅行者項目成功探索木星、土星、天王星、海王星,大大提升人類對宇宙間星體及外太陽系的了解。 愛德華.史東指
+---
+[sentence in report] --> The data collected by these probes will continue to shape our knowledge of interstellar space for years to come.
+[provenance document] --> 太空探索:太陽系以外的神奇世界 「旅行者」號為你揭開秘密 太空探索:太陽系以外的神奇世界 「旅行者」號為你揭開秘密 圖像來源,Nasa/STScI/Aura 圖像加註文字, 太陽及其行星形成的太陽圈與星際空間的星際物質相碰撞時會產生弓形激波。 太陽系之外的星際空間對於地球上的人類一直是神秘的黑暗真空,其秘密現在終於被首批離開太陽系的人造物體——兩艘無畏的宇宙飛船所揭開。 太陽系的邊緣,遠離太陽的保
+---
+Search (9) sentences in the report - (zho) e.g. The Voyager probes, launched b... | Time elapsed: 26.44s
+[sentence in report] --> The Voyager probes, launched by NASA in 1977, have provided invaluable insights into the mysteries of interstellar space.
+[provenance document] --> «Вояджер-2» официально вышел в межзвездную среду, заявили в НАСА Источник: NASA Два зонда-близнеца, «Вояджер-1» и «Вояджер-2», были запущены в 1977 году в рамках проекта по изучению планет-гигантов и 
+---
+[sentence in report] --> These spacecraft have pushed the boundaries of human exploration, venturing beyond our solar system and into the vast expanse of interstellar space.
+[provenance document] --> Супертяж SLS. Американские астронавты рвутся к Марсу. Часть 1 По материалам издания "Взлет" Концепция SLS — не первая попытка американцев возобновить полеты астронавтов на собственной платформе после 
+---
+[sentence in report] --> One of the key operational capabilities of the Voyager probes is their ability to communicate with Earth from billions of miles away.
+[provenance document] --> Аппарат "Вояджер-2" вышел в межзвездное пространство Запущенный в 1977 году космический зонд "Вояджер 2" (Voyager 2) преодолел гелиопаузу и вышел в межзвездное пространство, став таким образом вторым 
+---
+[sentence in report] --> Despite their distance, these spacecraft continue to send back data that has revolutionized our understanding of the outer reaches of our solar system.
+[provenance document] --> Уникальная миссия продлится до 2025 года Специалисты НАСА намерены продлить срок жизни уникальной космической миссии "Вояджер" до 48 лет. Этот проект считается самым выдающимся в истории космонавтики.
+---
+[sentence in report] --> Scientifically, the Voyager missions have made groundbreaking discoveries.
+[provenance document] --> Музыка, монеты, порно: что еще земляне отправляют инопланетянам Энтузиасты, которые занимаются поиском радиосигналов инопланетян, планируют записать современную музыку Земли на пластинку и запустить в
+---
+[sentence in report] --> Voyager 1 became the first human-made object to enter interstellar space in 2012, followed by Voyager 2 in 2018.
+[provenance document] --> Уникальная миссия продлится до 2025 года Специалисты НАСА намерены продлить срок жизни уникальной космической миссии "Вояджер" до 48 лет. Этот проект считается самым выдающимся в истории космонавтики.
+---
+[sentence in report] --> These probes have provided data on the density, temperature, and magnetic fields of interstellar space, shedding light on the environment beyond our solar system.
+[provenance document] --> Космический аппарат НАСА спустя 40 лет передал первые данные из межзвездного пространства - ВИДЕО Космический аппарат Voyager 2 спустя более 40 лет после запуска вышел в межзвездное пространство, пере
+---
+[sentence in report] --> In conclusion, the Voyager probes have proven to be invaluable assets in our quest to explore and understand interstellar space.
+[provenance document] --> Уникальная миссия продлится до 2025 года Специалисты НАСА намерены продлить срок жизни уникальной космической миссии "Вояджер" до 48 лет. Этот проект считается самым выдающимся в истории космонавтики.
+---
+[sentence in report] --> Their operational capabilities and scientific findings have paved the way for future missions and expanded our knowledge of the universe.
+[provenance document] --> Российские ученые разработали новую гравитационную модель элементарных частиц Ученые из Национального исследовательского ядерного университета «МИФИ» разработали новую гравитационную модель внутренней
+---
+Search (9) sentences in the report - (rus) e.g. The Voyager probes, launched b... | Time elapsed: 27.80s
+Search (7) sentences in the report - (fas) e.g. Malala Yousafzai, the youngest... | Time elapsed: 25.56s
+[sentence in report] --> In recent years, specific outbreaks of tuberculosis (TB) have been a cause for concern in various regions around the world.
+[provenance document] --> Популярный среди украинцев курорт "косит" смертельная болезнь: что еще можно подхватить на отдыхе На курорте Таиланд, который весьма популярен среди украинцев, лихорадкой денге заболели уже десятки че
+---
+[sentence in report] --> TB is a highly contagious bacterial infection that primarily affects the lungs but can also spread to other parts of the body.
+[provenance document] --> "Очень серьезный вызов". Эксперт о смертности от туберкулеза В ВОЗ назвали туберкулез самым опасным заболеванием в мире. Эта угроза страшнее СПИДа и онкологии, уверен директор НИИ организации здравоох
+---
+[sentence in report] --> Understanding where these outbreaks occur and who is most susceptible is crucial in combating the spread of this disease.
+[provenance document] --> Растет число заболевших коронавирусом — в госпитале Марьиногорской ЦРБ проходят лечение 94 человека — Пухавiцкiя навiны. Пуховичские новости. Марьина Горка. Новости Марьиной Горки На 28 сентября по ст
+---
+[sentence in report] --> Research has shown that certain sites are more susceptible to TB outbreaks, such as overcrowded and poorly ventilated areas, prisons, homeless shelters, and healthcare facilities.
+[provenance document] --> Кто может быть суперраспространителем коронавируса Около 20% людей, зараженных коронавирусом, выступают его суперраспространителями. Как выглядит портрет лиц, которые разносят инфекцию суперэффективно
+---
+[sentence in report] --> These environments provide ideal conditions for the transmission of the TB bacteria among individuals.
+[provenance document] --> Всемирный день борьбы с туберкулезом https://ria.ru/20210324/tuberkulez-1602286697.html Всемирный день борьбы с туберкулезом Всемирный день борьбы с туберкулезом Ежегодно 24 марта в мире отмечается Вс
+---
+[sentence in report] --> Furthermore, certain groups of people are more susceptible to TB, including those with weakened immune systems, such as individuals living with HIV/AIDS, the elderly, and individuals with underlying health conditions.
+[provenance document] --> В Нижнем Тагиле работает колония для больных туберкулёзом. Это опасно? Туберкулёз – что это? 80% людей старше 30 лет инфицированы туберкулёзом (микобактерией или палочкой Коха). Это не означает, что ч
+---
+[sentence in report] --> Additionally, individuals living in poverty, migrants, and individuals with limited access to healthcare are also at a higher risk of contracting TB.
+[provenance document] --> Der Spiegel: Главные факторы смертельного исхода Covid-19 "Исследователи проанализировали данные 17 млн людей в Великобритании, из которых почти 11 тыс. человек скончались от Covid-19. Наряду с возрас
+---
+[sentence in report] --> Quotes from leading authorities in the field of public health and infectious diseases can provide valuable insights into the factors contributing to TB outbreaks and the strategies needed to control and prevent them.
+[provenance document] --> Академики заявили о необходимости сотрудничества в борьбе с коронавирусом 15 академий заявили о необходимости совместной борьбы с COVID-19. В своем заявлении ученые подчеркнули, что в ситуации с корон
+---
+[sentence in report] --> By addressing these key issues, we can work towards reducing the burden of TB on communities worldwide.
+[provenance document] --> Борьба с туберкулезом продолжается. Hовые подходы для ускорения прогресса 24 марта во всем мире отмечается Всемирный день борьбы с туберкулезом - ежегодный профессиональный праздник врачей-фтизиатров.
+---
+Search (9) sentences in the report - (rus) e.g. In recent years, specific outb... | Time elapsed: 32.59s
+Search (9) sentences in the report - (fas) e.g. In recent years, there have be... | Time elapsed: 28.13s
+[sentence in report] --> In recent years, there have been several cases of people contracting the brain-eating amoeba Naegleria fowleri in Texas, causing concern among residents and health officials.
+[provenance document] --> 10-летняя девочка борется за жизнь из-за поедающей ее мозг амебы Как сообщает KWTX, местный телеканал штата Техас, во время празднования семьей Авант “Дня труда” на берегу реки Бразос ничто не предвещ
+---
+[sentence in report] --> This deadly organism is commonly found in warm freshwater environments, such as lakes, rivers, and hot springs, making it a potential threat to individuals engaging in water-related activities during the summer months.
+[provenance document] --> Ответы на Вопросы: Установите наличие связи между средой обитания и типами питания эвглены зелёной Гость: Гость: Эвглена зелёная является одновременно и автотрофом и гетеротрофом. то есть она может пи
+---
+[sentence in report] --> Symptoms of Naegleria fowleri infection include severe headache, fever, nausea, vomiting, and a stiff neck, which can progress rapidly to confusion, loss of balance, seizures, and ultimately, death.
+[provenance document] --> В США нашли смертельный микроб в городском водопроводе В Соединенных Штатах Америки, в штате Техас в городе Лейк-Джексон в городском водопроводе нашли смертельный микроб, который влияет на работу мозг
+---
+[sentence in report] --> Due to the rapid progression of the infection, early detection and treatment are crucial in improving the chances of survival.
+[provenance document] --> Ученые установили, через сколько дней люди с коронавирусом перестают быть заразными Результаты подчеркивают важность выявления случаев заражения на ранних стадиях и изоляции пациентов при первых симпт
+---
+[sentence in report] --> As a Mommy vlogger from Texas conducting research for a video on health threats for children attending summer camps, it is important to educate your audience on the risks associated with Naegleria fowleri and how to prevent infection.
+[provenance document] --> Детский психолог стал первым гостем проекта псковского ЦУРа «100 вопросов эксперту» Детский психолог стал первым гостем проекта псковского ЦУРа «100 вопросов эксперту» 17:19, 12 июня 2021, ПАИ Центр у
+---
+[sentence in report] --> Providing information on safe water practices, such as avoiding swimming in warm freshwater bodies, using nose clips while swimming, and ensuring proper chlorination of swimming pools, can help reduce the risk of exposure to this deadly amoeba.
+[provenance document] --> Горняк22: Памятка для родителей по правилам поведения детей на воде и вблизи водоемов » Городской портал | 28 июня 2021г. — VRUBCOVSKE.RU. УВАЖАЕМЫЕ РОДИТЕЛИ! Безопасность жизни детей на водоемах во м
+---
+[sentence in report] --> Stay tuned for more updates on this important topic.
+[provenance document] --> Путин и Эрдоган обсудили по телефону Сирию и "Турецкий поток" Путин и Эрдоган обсудили по телефону Сирию и "Турецкий поток" Москва. 27 мая. INTERFAX.RU - Президент РФ Владимир Путин и президент Турции
+---
+Search (7) sentences in the report - (rus) e.g. In recent years, there have be... | Time elapsed: 22.50s
+[sentence in report] --> The Wannacry ransomware attack in 2017 was a wake-up call for individuals, companies, and government agencies around the world.
+[provenance document] --> Виртуальный рэкет: можно ли вернуть украденные вирусом деньги - Горячие новости Globomen Профессионал Имя: Алексей Пол: Мужской Возраст: 32 Адрес: Россия Инвестирую в: Другое Регистрация: 27.04.2009 С
+---
+[sentence in report] --> The malicious software infected hundreds of thousands of computers in over 150 countries, causing chaos and financial losses.
+[provenance document] --> АНБ США не готово связать вирус WannaCry с Северной Кореей Сотрудники корейского агентства по интернет-безопасности в Сеуле наблюдает за распространением вируса WannaCry Сотрудники корейского агентств
+---
+[sentence in report] --> In response to the Wannacry ransomware, individuals, companies, and government agencies have implemented various strategies to stop the virus once it has been detected.
+[provenance document] --> Топ-5 крупнейших вирусных атак в истории Топ-5 крупнейших вирусных атак в истории Пятое место: Червь Морриса 2 ноября исполнилось 30 лет со дня первой массовой вирусной атаки на мировой интернет. Всег
+---
+[sentence in report] --> Some effective measures include immediately disconnecting infected devices from the network, updating security patches, and restoring data from backups.
+[provenance document] --> Кибервымогатели переключились с обычных пользователей на банки и бизнес 20 апреля 2017, 12:45 Кибервымогатели переключились с обычных пользователей на банки и бизнес Жертвами программ-вымогателей все 
+---
+[sentence in report] --> Additionally, some organizations have successfully decrypted their files using decryption tools provided by cybersecurity experts.
+[provenance document] --> Создана утилита для расшифровки файлов, пострадавших в результате атак вымогателя Cryakl Специалисты «Лаборатории Касперского» и Федеральная полиция Бельгии сообщили о выходе утилиты для расшифровки ф
+---
+[sentence in report] --> However, there have been instances where responses to the Wannacry ransomware attack have not been successful.
+[provenance document] --> Топ-5 крупнейших вирусных атак в истории Топ-5 крупнейших вирусных атак в истории Пятое место: Червь Морриса 2 ноября исполнилось 30 лет со дня первой массовой вирусной атаки на мировой интернет. Всег
+---
+[sentence in report] --> Some companies have chosen to pay the ransom, which only encourages cybercriminals to continue their malicious activities.
+[provenance document] --> Компания Colonial Pipeline была вынуждена заплатить хакерам почти $5 миллионов Компания Colonial Pipeline, которая управляет крупнейшим трубопроводом в США , заплатила почти $5 млн хакерам, пишет Bloo
+---
+[sentence in report] --> Others have attempted to negotiate with the attackers, only to find themselves in a never-ending cycle of demands.
+[provenance document] --> Трагедия и тайна Беслана 15 лет назад в Северной Осетии был совершён самый крупный теракт в истории России. Многие его обстоятельства до сих пор остаются загадкой Утром 1 сентября 2004 года во время т
+---
+[sentence in report] --> As an IT consultant helping companies affected by ransomware attacks, it is crucial to stay informed about the latest cybersecurity trends and best practices.
+[provenance document] --> «Ростелеком» рассказал в Новосибирске о принципах информационной безопасности 1 октября в Новосибирске состоялось мероприятие в рамках масштабного роуд-шоу «КиберДрайв», которое охватывает 60 российск
+---
+[sentence in report] --> By implementing proactive security measures and educating employees about the dangers of ransomware, organizations can better protect themselves from future attacks.
+[provenance document] --> Главной киберугрозой руководители служб безопасности считают ransomware 22 января 2021 г., 15:48 0 Tweet Опрос директоров по информационной безопасности (CISO) и руководителей служб безопасности (CSO)
+---
+Search (10) sentences in the report - (rus) e.g. The Wannacry ransomware attack... | Time elapsed: 34.74s
+[sentence in report] --> The Vale dam disaster in Brazil in 2019 was a tragic event that resulted in significant loss of life and environmental damage.
+[provenance document] --> 巴西矿场壩灾罹难人数攀升至58名 (德国之声中文网) 上週五位在布鲁马基纽的水壩溃堤之后,至今已经有58人罹难,还有好几百人失踪。 1月27日进行搜救行动的时后,采矿公司听见从B6水壩传来的水位警报。B6水壩是与坍塌水壩同一个区域的另一个水壩。这使搜救团队中断搜救行动,转而疏散民众。大约有3.9万名民众收到通知要前往高处避难。但是在当天下午,官员说那个水坝已经没有崩塌的风险。 1月25日,巴西东南
+---
+[sentence in report] --> The collapse of the dam in Brumadinho, Minas Gerais, led to the release of a massive amount of mining waste, causing widespread devastation in the surrounding area.
+[provenance document] --> 巴西矿场壩灾罹难人数攀升至58名 (德国之声中文网) 上週五位在布鲁马基纽的水壩溃堤之后,至今已经有58人罹难,还有好几百人失踪。 1月27日进行搜救行动的时后,采矿公司听见从B6水壩传来的水位警报。B6水壩是与坍塌水壩同一个区域的另一个水壩。这使搜救团队中断搜救行动,转而疏散民众。大约有3.9万名民众收到通知要前往高处避难。但是在当天下午,官员说那个水坝已经没有崩塌的风险。 1月25日,巴西东南
+---
+[sentence in report] --> The disaster claimed the lives of at least 270 people, with many others reported missing.
+[provenance document] --> 黎巴嫩领导人上月接港口炸药风险报告 (早报讯)根据路透社取得的文件,黎巴嫩安全官员上个月曾向该国总理迪亚卜和总统奥恩发出警告,指储存在贝鲁特港口的2750吨硝酸铵存在安全风险。 报道引述黎巴嫩安全消息人士称,安全官员指这批土炸药若被偷窃可能被用来发动恐怖袭击,如果爆炸则可能摧毁整座城市。 迪亚卜和奥恩都没有就有关报道置评。 迪亚卜周一(10日)晚宣布执政团队集体辞职,并表明支持人民要求变革的诉求,
+---
+[sentence in report] --> The scale of the disaster was immense, with entire communities being destroyed and the environment being severely impacted.
+[provenance document] --> 克什米尔地区遭遇50年不遇暴雨 印巴已有420人丧生 (本文由路透中文网编译提供) 路透穆扎法拉巴德/斯利那加9月9日(记者 Abu Arqam Naqash/Adnan Abidi) - 克什米尔地区50年来的最大降雨令印度及巴基斯坦政府机构猝不及防,该地区因暴雨死亡的人数达到了420人,目前仍有数以千人仍被困在屋顶上,人们对政府机构预防灾害工作的不满周二愈加强烈。 在印属克什米尔,逾2,000
+---
+[sentence in report] --> In the aftermath of the disaster, the Brazilian government imposed penalties on the mining company Vale, which owned the dam.
+[provenance document] --> 巴西矿场壩灾罹难人数攀升至58名 (德国之声中文网) 上週五位在布鲁马基纽的水壩溃堤之后,至今已经有58人罹难,还有好几百人失踪。 1月27日进行搜救行动的时后,采矿公司听见从B6水壩传来的水位警报。B6水壩是与坍塌水壩同一个区域的另一个水壩。这使搜救团队中断搜救行动,转而疏散民众。大约有3.9万名民众收到通知要前往高处避难。但是在当天下午,官员说那个水坝已经没有崩塌的风险。 1月25日,巴西东南
+---
+[sentence in report] --> These penalties included fines and other measures aimed at holding the company accountable for the disaster.
+[provenance document] --> 桃園龜山倉儲公司大火 濃煙四竄環保局告發重罰 ▲桃園龜山倉儲公司大火,濃煙四竄環保局告發重罰。(圖/環保局提供) 記者楊淑媛/桃園報導 桃園市龜山區大湖路一家鐵皮工廠18日下午發生大火,因火勢猛烈,濃煙直竄天際,週邊的桃園區與龜山區都能看到,市府環保局亦派員前往監控現場空氣品質指出,稽查時該廠因火災致明顯粒狀污染物及異味散佈於空氣造成空氣污染,核已違反空氣污染防制法第32條第1項第3款,依法告發,
+---
+[sentence in report] --> Following extensive litigation and negotiations, a settlement was eventually reached between Vale and the Brazilian government.
+[provenance document] --> 淡水河谷同意支付70亿美元和解溃坝事故 巴西矿业公司淡水河谷(Vale S.A., VALE)同意向米纳斯吉拉斯州支付70亿美元的赔偿金。两年前淡水河谷在当地的矿坝坍塌,造成270人死亡、河流受到污染,周围的景观也被破坏。 据检察官说,周四的和解协议是巴西历史上最大的法庭和解协议,该协议旨在赔偿该州因这场灾难蒙受的社会经济损失,但不涉及该案中一系列仍在进行中的杀人罪和环境指控。 ...
+---
+[sentence in report] --> The settlement included compensation for the victims and their families, as well as measures to prevent similar disasters in the future.
+[provenance document] --> 今日廣場》陳冠榮/氣爆對我的人生帶來的變化 一般而言,我在寫文章或接受採訪時或發言時,會考慮對象和場合,釐清我能講什麼話或該講什麼話,但我今天沒有;我沒有去查這個辯論終結庭中,我該講些什麼話比較適合;我知道的只有,這是一個我可以講話給所有當事者,包含法官跟檢察官聽的場合,所以我就來抒發一下我想講很久的話。 三年多過去了,相比氣爆剛發生時,我多背了許多頭銜,自救會/善款委員會/代位求償委員會/醫療小
+---
+[sentence in report] --> The liabilities of Vale and other parties involved in the disaster were thoroughly examined during the legal proceedings, with a focus on ensuring justice for the victims and holding those responsible accountable for their actions.
+[provenance document] --> 礦場決堤逾250死 採礦公司CEO被控殺人罪|即時新聞|美洲|on.cc東網 巴西最大採礦公司Vale的一座礦場堤壩去年初決堤,造成逾250死。巴西檢察部門周二(21日)正式起訴Vale前行政總裁施瓦茨曼(Fabio Schvartsman)等16人殺人罪,指控Vale及檢查堤壩的德國企業TUV SUD有系統性地蓄意隱瞞安全問題,釀成巨禍。 事發於去年1月25日,Vale位於米納斯吉拉斯州的礦場堤
+---
+[sentence in report] --> The eventual settlement marked a significant step towards addressing the consequences of the Vale dam disaster and providing closure for those affected by the tragedy.
+[provenance document] --> 巴西淡水河谷礦業潰壩受害者表不滿 巴西Brumadinho潰壩事故兩年後,淡水河谷礦業公司(Vale)周四被判將需支付70億美元用於賠償社會與環境損失,但受害者家屬們指出這一協議的不足之處。 廣告 繼續瀏覽後續 兩年前的2019年元月末,巴西淡水河谷礦業公司(Vale)在Brumadinho的一座鐵礦突然發生潰壩事故,不僅造成270人死亡,也給當地動植物帶來一場浩劫,污染了臨近的水源。儘管,巴西司
+---
+Search (10) sentences in the report - (zho) e.g. The Vale dam disaster in Brazi... | Time elapsed: 32.46s
+[sentence in report] --> The Tupolev TU-144, also known as the "Concordski," was the first supersonic passenger aircraft to enter commercial service.
+[provenance document] --> «Потихонечку трогай!»: как взлетал первый Ту-144 — Рамблер/новости «Потихонечку трогай!»: как взлетал первый Ту-144 50 лет назад впервые поднялся в небо Ту-144 — один из символов советского самолетост
+---
+[sentence in report] --> However, its time in the skies was short-lived due to a variety of factors that led to its eventual withdrawal from passenger service.
+[provenance document] --> «Потихонечку трогай!»: как взлетал первый Ту-144 — Рамблер/новости «Потихонечку трогай!»: как взлетал первый Ту-144 50 лет назад впервые поднялся в небо Ту-144 — один из символов советского самолетост
+---
+[sentence in report] --> One of the main causes of the TU-144's withdrawal was its poor safety record.
+[provenance document] --> «Потихонечку трогай!»: как взлетал первый Ту-144 — Рамблер/новости «Потихонечку трогай!»: как взлетал первый Ту-144 50 лет назад впервые поднялся в небо Ту-144 — один из символов советского самолетост
+---
+[sentence in report] --> The aircraft was involved in several high-profile accidents, including a crash at the 1973 Paris Air Show that resulted in the deaths of all six crew members on board.
+[provenance document] --> «Потихонечку трогай!»: как взлетал первый Ту-144 — Рамблер/новости «Потихонечку трогай!»: как взлетал первый Ту-144 50 лет назад впервые поднялся в небо Ту-144 — один из символов советского самолетост
+---
+[sentence in report] --> These accidents raised concerns about the safety of the aircraft among both passengers and aviation authorities.
+[provenance document] --> Пернатая опасность: 5 случаев столкновений с самолетов с птицами По официальным данным ИКАО в мире, только в период с 2001 по 2007 годы, было зарегистрировано 42 508 случаев столкновений с птицами. Ср
+---
+[sentence in report] --> In addition to safety concerns, the TU-144 was also plagued by high production costs.
+[provenance document] --> «Потихонечку трогай!»: как взлетал первый Ту-144 — Рамблер/новости «Потихонечку трогай!»: как взлетал первый Ту-144 50 лет назад впервые поднялся в небо Ту-144 — один из символов советского самолетост
+---
+[sentence in report] --> The Soviet Union invested heavily in the development of the aircraft, but its high operating costs made it difficult for airlines to turn a profit.
+[provenance document] --> Ящик пандоры – Как убивали российскую авиацию В Советском Союзе именно авиационному строительству придавалось первостепенное значение в поддержании обороноспособности государства. Все разработки совет
+---
+[sentence in report] --> This, combined with the relatively high ticket prices for passengers, made the TU-144 a less attractive option compared to other supersonic aircraft like the Concorde.
+[provenance document] --> Сверхзвуковой пассажирский самолет снова не полетит Американский стартап Aerion Supersonic разрабатывал сверхзвуковой пассажирский самолет с 2004 года. Партнером стартапа был гигант Boeing. И все же 2
+---
+[sentence in report] --> Overall, the public's perception of the TU-144 was mixed.
+[provenance document] --> Президент России Владимир Путин, наблюдая в Казани за первым полетом бомбардировщика Ту-160 новой постройки, предложил авиастроителям подумать над созданием сверхзвукового пассажирского самолета. Порт
+---
+[sentence in report] --> While some saw it as a symbol of Soviet technological prowess, others viewed it as a flawed and dangerous aircraft.
+[provenance document] --> В США вспомнили о страхе из-за превосходства СССР После запуска первого в мире искусственного спутника Земли (ИСЗ) «Спутник-1», состоявшегося 4 октября 1957 года, США испытывали страх, вызванный прево
+---
+[sentence in report] --> Ultimately, a combination of safety issues, high production costs, and public perception led to the withdrawal of the TU-144 from passenger service.
+[provenance document] --> «Потихонечку трогай!»: как взлетал первый Ту-144 — Рамблер/новости «Потихонечку трогай!»: как взлетал первый Ту-144 50 лет назад впервые поднялся в небо Ту-144 — один из символов советского самолетост
+---
+Search (11) sentences in the report - (rus) e.g. The Tupolev TU-144, also known... | Time elapsed: 36.14s
+
+
+finalize result for postcite neuclir-test-all
+  0%|          | 0/177 [00:00<?, ?it/s]  1%|          | 1/177 [00:43<2:08:57, 43.96s/it]  1%|          | 2/177 [01:29<2:11:28, 45.08s/it]  2%|▏         | 3/177 [02:10<2:04:59, 43.10s/it]  2%|▏         | 4/177 [02:45<1:55:10, 39.94s/it]  3%|▎         | 5/177 [03:21<1:50:08, 38.42s/it]  3%|▎         | 6/177 [03:56<1:46:24, 37.34s/it]  4%|▍         | 7/177 [04:24<1:37:24, 34.38s/it]  5%|▍         | 8/177 [04:52<1:30:43, 32.21s/it]  5%|▌         | 9/177 [05:18<1:25:05, 30.39s/it]  6%|▌         | 10/177 [05:50<1:25:13, 30.62s/it]  6%|▌         | 11/177 [06:21<1:25:03, 30.75s/it]  7%|▋         | 12/177 [06:52<1:25:04, 30.94s/it]  7%|▋         | 13/177 [07:19<1:21:10, 29.70s/it]  8%|▊         | 14/177 [07:45<1:17:54, 28.68s/it]  8%|▊         | 15/177 [08:11<1:15:30, 27.97s/it]  9%|▉         | 16/177 [08:51<1:24:23, 31.45s/it] 10%|▉         | 17/177 [09:30<1:29:59, 33.75s/it] 10%|█         | 18/177 [10:09<1:33:45, 35.38s/it] 11%|█         | 19/177 [10:35<1:25:29, 32.47s/it] 11%|█▏        | 20/177 [10:59<1:18:41, 30.07s/it] 12%|█▏        | 21/177 [11:24<1:14:06, 28.50s/it] 12%|█▏        | 22/177 [11:50<1:11:36, 27.72s/it] 13%|█▎        | 23/177 [12:16<1:10:04, 27.30s/it] 14%|█▎        | 24/177 [12:43<1:08:44, 26.96s/it] 14%|█▍        | 25/177 [13:14<1:11:30, 28.23s/it] 15%|█▍        | 26/177 [13:46<1:13:57, 29.39s/it] 15%|█▌        | 27/177 [14:19<1:16:11, 30.48s/it] 16%|█▌        | 28/177 [14:50<1:16:26, 30.79s/it] 16%|█▋        | 29/177 [15:22<1:16:39, 31.07s/it] 17%|█▋        | 30/177 [15:53<1:16:08, 31.08s/it] 18%|█▊        | 31/177 [16:25<1:16:23, 31.39s/it] 18%|█▊        | 32/177 [16:58<1:16:32, 31.67s/it] 19%|█▊        | 33/177 [17:29<1:15:37, 31.51s/it] 19%|█▉        | 34/177 [17:57<1:12:57, 30.62s/it] 20%|█▉        | 35/177 [18:27<1:11:41, 30.29s/it] 20%|██        | 36/177 [18:54<1:09:14, 29.46s/it] 21%|██        | 37/177 [19:31<1:14:02, 31.73s/it] 21%|██▏       | 38/177 [19:55<1:07:57, 29.34s/it] 22%|██▏       | 39/177 [20:19<1:03:25, 27.57s/it] 23%|██▎       | 40/177 [20:43<1:00:41, 26.58s/it] 23%|██▎       | 41/177 [21:09<59:42, 26.34s/it]   24%|██▎       | 42/177 [21:34<58:33, 26.03s/it] 24%|██▍       | 43/177 [21:54<53:48, 24.09s/it] 25%|██▍       | 44/177 [22:14<51:07, 23.06s/it] 25%|██▌       | 45/177 [22:34<48:14, 21.93s/it] 26%|██▌       | 46/177 [23:00<50:52, 23.30s/it] 27%|██▋       | 47/177 [23:31<55:15, 25.50s/it] 27%|██▋       | 48/177 [23:58<55:57, 26.03s/it] 28%|██▊       | 49/177 [24:23<54:40, 25.63s/it] 28%|██▊       | 50/177 [24:47<53:14, 25.15s/it] 29%|██▉       | 51/177 [25:10<51:24, 24.48s/it] 29%|██▉       | 52/177 [25:44<57:11, 27.45s/it] 30%|██▉       | 53/177 [26:20<1:01:53, 29.95s/it] 31%|███       | 54/177 [26:54<1:03:55, 31.18s/it] 31%|███       | 55/177 [27:26<1:03:55, 31.44s/it] 32%|███▏      | 56/177 [27:58<1:03:44, 31.61s/it] 32%|███▏      | 57/177 [28:31<1:03:51, 31.93s/it] 33%|███▎      | 58/177 [28:51<56:33, 28.51s/it]   33%|███▎      | 59/177 [29:13<52:06, 26.49s/it] 34%|███▍      | 60/177 [29:35<48:53, 25.07s/it] 34%|███▍      | 61/177 [30:08<53:08, 27.49s/it] 35%|███▌      | 62/177 [30:41<56:02, 29.24s/it] 36%|███▌      | 63/177 [31:13<56:49, 29.91s/it] 36%|███▌      | 64/177 [31:52<1:01:59, 32.92s/it] 37%|███▋      | 65/177 [32:33<1:05:46, 35.24s/it] 37%|███▋      | 66/177 [33:14<1:08:13, 36.88s/it] 38%|███▊      | 67/177 [33:45<1:04:44, 35.32s/it] 38%|███▊      | 68/177 [34:16<1:01:47, 34.02s/it] 39%|███▉      | 69/177 [34:41<56:18, 31.29s/it]   40%|███▉      | 70/177 [35:12<55:26, 31.09s/it] 40%|████      | 71/177 [35:42<54:17, 30.73s/it] 41%|████      | 72/177 [36:11<53:06, 30.35s/it] 41%|████      | 73/177 [36:39<51:26, 29.68s/it] 42%|████▏     | 74/177 [37:06<49:31, 28.85s/it] 42%|████▏     | 75/177 [37:32<47:30, 27.95s/it] 43%|████▎     | 76/177 [38:01<47:25, 28.18s/it] 44%|████▎     | 77/177 [38:29<47:04, 28.25s/it] 44%|████▍     | 78/177 [38:56<45:56, 27.84s/it] 45%|████▍     | 79/177 [39:19<42:44, 26.17s/it] 45%|████▌     | 80/177 [39:43<41:23, 25.61s/it] 46%|████▌     | 81/177 [40:06<39:40, 24.79s/it] 46%|████▋     | 82/177 [40:30<38:49, 24.52s/it] 47%|████▋     | 83/177 [40:54<38:10, 24.37s/it] 47%|████▋     | 84/177 [41:20<38:38, 24.93s/it] 48%|████▊     | 85/177 [41:53<41:58, 27.37s/it] 49%|████▊     | 86/177 [42:26<43:56, 28.98s/it] 49%|████▉     | 87/177 [42:58<44:54, 29.94s/it] 50%|████▉     | 88/177 [43:32<46:25, 31.30s/it] 50%|█████     | 89/177 [44:09<48:06, 32.80s/it] 51%|█████     | 90/177 [44:42<47:48, 32.98s/it] 51%|█████▏    | 91/177 [45:10<44:55, 31.34s/it] 52%|█████▏    | 92/177 [45:38<43:20, 30.60s/it] 53%|█████▎    | 93/177 [46:06<41:41, 29.78s/it] 53%|█████▎    | 94/177 [46:36<41:01, 29.65s/it] 54%|█████▎    | 95/177 [47:05<40:17, 29.48s/it] 54%|█████▍    | 96/177 [47:33<39:15, 29.08s/it] 55%|█████▍    | 97/177 [47:58<37:15, 27.94s/it] 55%|█████▌    | 98/177 [48:24<36:02, 27.38s/it] 56%|█████▌    | 99/177 [48:53<36:12, 27.85s/it] 56%|█████▋    | 100/177 [49:16<33:44, 26.29s/it] 57%|█████▋    | 101/177 [49:39<32:04, 25.32s/it] 58%|█████▊    | 102/177 [50:07<32:40, 26.14s/it] 58%|█████▊    | 103/177 [50:40<34:42, 28.14s/it] 59%|█████▉    | 104/177 [51:13<36:03, 29.64s/it] 59%|█████▉    | 105/177 [51:45<36:24, 30.34s/it] 60%|█████▉    | 106/177 [52:11<34:32, 29.19s/it] 60%|██████    | 107/177 [52:38<33:03, 28.34s/it] 61%|██████    | 108/177 [53:04<31:46, 27.63s/it] 62%|██████▏   | 109/177 [53:31<31:22, 27.68s/it] 62%|██████▏   | 110/177 [53:59<30:57, 27.73s/it] 63%|██████▎   | 111/177 [54:26<30:16, 27.52s/it] 63%|██████▎   | 112/177 [54:50<28:28, 26.28s/it] 64%|██████▍   | 113/177 [55:14<27:22, 25.66s/it] 64%|██████▍   | 114/177 [55:39<26:37, 25.36s/it] 65%|██████▍   | 115/177 [56:08<27:22, 26.49s/it] 66%|██████▌   | 116/177 [56:35<27:02, 26.60s/it] 66%|██████▌   | 117/177 [57:02<26:42, 26.71s/it] 67%|██████▋   | 118/177 [57:32<27:29, 27.96s/it] 67%|██████▋   | 119/177 [58:03<27:44, 28.70s/it] 68%|██████▊   | 120/177 [58:34<27:50, 29.30s/it] 68%|██████▊   | 121/177 [58:58<26:06, 27.98s/it] 69%|██████▉   | 122/177 [59:25<25:13, 27.51s/it] 69%|██████▉   | 123/177 [59:50<24:04, 26.75s/it] 70%|███████   | 124/177 [1:00:19<24:11, 27.38s/it]
