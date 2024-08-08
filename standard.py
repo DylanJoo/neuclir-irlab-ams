@@ -45,7 +45,7 @@ def main():
     parser.add_argument("--max_length", type=int, default=2048, help="Max length the model can take. Should set properly wrt the model to avoid position overflow.")
     parser.add_argument("--num_samples", type=int, default=1, help="Sample multiple answers.")
 
-    # Use summarization/extraction of the documents
+    # Use original/translation of the documents
     parser.add_argument("--used_field", type=str, default="target_contents", help="Use compressed text data. Option: `target_contents`, `translation`")
 
     # Load config
@@ -80,13 +80,13 @@ def main():
     np.random.seed(args.seed)
 
     # Load data
-    train_data = json.load(open(args.train_file))
+    # train_data = json.load(open(args.train_file))
     eval_data = [json.loads(line.strip()) for line in open(args.eval_file).readlines()]
     candidates = load_hits_tsv(args.candidates_tsv)
 
     ## Prepare instruction and the demo prompts
-    train_id = np.random.choice(len(train_data), 1, replace=False)[0]
-    demo_prompt = ""
+    # train_id = np.random.choice(len(train_data), 1, replace=False)[0]
+    # demo_prompt = ""
 
     if (args.shot == 1) and (args.closebook is False): 
         pass
@@ -104,6 +104,8 @@ def main():
         lang = eval_item['collection_ids'][0].replace('neuclir/1/', '')[:2]
 
         ## preprocess
+        demo_prompt = ""
+
         ### ZS-closebook
         if args.closebook:
             promt = apply_closebook_prompt(
@@ -134,7 +136,6 @@ def main():
         eval_data[idx]['references'] = doc_ids
 
     logger.info("Done prompt preparation.")
-
     for idx, item in enumerate(tqdm(eval_data)):
         prompt = item['prompt']
         prompt_len = len(llm.tokenizer.tokenize(prompt))

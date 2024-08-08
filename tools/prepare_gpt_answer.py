@@ -6,28 +6,11 @@ instruction_prompt = """
 Write an engaging report for the given request within {LIMIT} words. The request contains a problem statement and the requester background (some information might help customize the report). Use an unbiased and journalistic tone. Always write the report based on facts.
 """.strip()
 
-demo_prompt_template = "{INST}\n\n\nRequest:\nProblem statement: {PS}\nRequester background: {BG}\n\nReport: {R}"
 inst_prompt_template = "{INST}\n\n\n{DEMO}Request:\nProblem statement: {PS}\nRequester background: {BG}\n\nReport: {R}"
-
-# def apply_docs_prompt(doc_items, ndoc=None, field='text'):
-#     p = ""
-#     for idx, doc_item in enumerate(doc_items[:ndoc]):
-#         p_doc = doc_prompt_template
-#         p_doc = p_doc.replace("{ID}", str(idx+1))
-#         p_doc = p_doc.replace("{T}", doc_item['title'])
-#         p_doc = p_doc.replace("{P}", doc_item[field])
-#         p += p_doc
-#     return p
 
 def display_nextlines(texts):
     texts = texts.replace('\n', '\\n')
     return texts
-
-def apply_demo_prompt(PS, BG, LIMIT=100, R="", INST=""):
-    p = demo_prompt_template
-    p = p.replace("{INST}", INST).replace("{LIMIT}", str(LIMIT/10)).strip()
-    p = p.replace("{PS}", PS).replace("{BG}", BG).replace("{R}", R)
-    return p
 
 def apply_inst_prompt(PS, BG, LIMIT=100, R="", INST=""):
     p = inst_prompt_template
