@@ -17,7 +17,7 @@ for split in dev test;do
     python3 tools/plaidx_postcite.py \
         --report_json data/gptqa-${split}-all.json \
         --run_id irlab-ams-postcite \
-        --submission submissions/submission-${split}-all-irlab-ams-postcite.json
+        --submission submissions/submission-${split}-all-irlab-ams-postcite
 
     echo -e
     echo -e

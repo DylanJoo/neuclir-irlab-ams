@@ -3,18 +3,7 @@ from typing import List, Optional, Tuple, Union, Dict
 from nltk import sent_tokenize 
 from copy import copy
 import random
-
-def normalize_texts(texts):
-    texts = unicodedata.normalize('NFKC', texts)
-    texts = texts.strip()
-    pattern = re.compile(r"\s+")
-    texts = re.sub(pattern, ' ', texts).strip()
-    pattern = re.compile(r"\n")
-    texts = re.sub(pattern, ' ', texts).strip()
-    return texts
-
-def citation_removal(texts):
-    pass
+from utils import normalize_texts, citation_removal
 
 @dataclass
 class ReportGenOutput:
@@ -29,13 +18,25 @@ class ReportGenOutput:
     """ hard coded the maximum reference numbert = 2 """
 
     def __post_init__(self):
+
+
         if (self.raw_report is None) and (self.cited_report is not None):
             self.cited_report = normalize_texts(self.cited_report)
             self.raw_report = citation_removal(self.cited_report)
-            # [NOTE] some of the texts may lack citations
+            self.set_references(self.references)
+
+            texts = sent_tokenize(self.cited_report)
+            self.texts = ["" for _ in range(len(texts))]
+            self.citations = [[] for _ in range(len(texts))]
+
+            for idx_text, s in enumerate(texts):
+                text, numbers = citation_removal(s, True)
+                self.texts[idx_text] = text
+                self.set_citations(idx_text, referenceids=numbers)
 
         if self.texts is None:
             self.texts = sent_tokenize(self.raw_report)
+
         if self.citations is None:
             self.citations = [[] for _ in range(len(self.texts))]
 
@@ -51,7 +52,7 @@ class ReportGenOutput:
             "sentences": sentences
         }
 
-    ## the functions for post-cite
+    ## the functions for post-cite -v
     def get_snippets(self, max_word_length=100):
         """ return a list of snippets as query """
         sentences = copy(self.texts)
@@ -72,6 +73,20 @@ class ReportGenOutput:
 
         return snippets
 
+    ## the functions for post-cite
+    def set_citations(self, idx_text, docids=None, referenceids=None):
+        if docids is None:
+            docids = []
+            for referenceid in referenceids:
+                docids.append( self.references[referenceid] )
+
+        self.citations[idx_text] = docids
+
+    def et_references(self, docids, shuffle=False):
+        if shuffle:
+            random.shuffle(docids)
+        self.references = {str(i+1): docid for i, docid in enumerate(docids)}
+
     def get_references(self):
         """ return a list of reference ids"""
         assert self.references is not None, 'please add referecnes first'
@@ -85,12 +100,4 @@ class ReportGenOutput:
         if shuffle:
             random.shuffle(docids)
         self.references = {str(i+1): docid for i, docid in enumerate(docids)}
-
-    def set_citations(self, idx_text, docids=None, referenceids=None):
-        if docids is None:
-            docids = []
-            for referenceid in referenceids:
-                docids.append( self.references[referenceid] )
-
-        self.citations[idx_text] = docids
 

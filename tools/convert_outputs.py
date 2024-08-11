@@ -35,6 +35,7 @@ def load_jsonl(path):
     with open(path, 'r') as f:
         for line in f:
             data.append(json.loads(line.strip()))
+    return data
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Print output")

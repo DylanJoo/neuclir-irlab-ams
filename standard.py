@@ -85,12 +85,6 @@ def main():
     candidates = load_hits_tsv(args.candidates_tsv)
 
     ## Prepare instruction and the demo prompts
-    # train_id = np.random.choice(len(train_data), 1, replace=False)[0]
-    # demo_prompt = ""
-
-    if (args.shot == 1) and (args.closebook is False): 
-        pass
-
     # Sample quick test
     if args.quick_test is not None:
         np.random.seed(args.seed)
@@ -172,6 +166,7 @@ def main():
 
     if not os.path.exists("results"):
         os.makedirs("results")
+
     json.dump(eval_data, open("results/" + name + ".json", "w"), indent=4)
 
 if __name__ == "__main__":

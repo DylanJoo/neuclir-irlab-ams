@@ -7,7 +7,7 @@ import argparse
 from tqdm import tqdm
 
 from neuclir_postprocess import *
-from plaidx_search import get_plaid_response
+from utils import citation_fixing
 
 def normalize_texts(texts):
     texts = unicodedata.normalize('NFKC', texts)
@@ -27,52 +27,30 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # prepare query
-    data_items = json.load(open(args.report_json, 'r'))
+    data_items = json.load(open(args.report_json, 'r'))['data']
     if args.quick_test:
         data_items = data_items[:2]
 
     outputs = []
     for item in tqdm(data_items, total=len(data_items)):
         # meta data
-        request_id = item['requestid']
-        collection_ids = item['collectionids']
+        request_id = item['request_id']
+        collection_ids = item['collection_ids'][0]
         lang_id = collection_ids.replace('neuclir/1/', '')
-        raw_report = item['report']
+        references = item['references']
+        cited_report = item['output']
+        cited_report = citation_fixing(cited_report)
 
         # initialize an output placeholder
         output = ReportGenOutput(
             request_id=request_id,
             run_id=args.run_id,
             collection_ids=[collection_ids],
-            raw_report=raw_report,
-            cited_report=None
+            raw_report=None,
+            cited_report=cited_report,
+            references=references
         )
 
-        # one-shot verification
-        # use statement (one-sentence) to search as provenances
-        start = time.time()
-        for idx_text, text in enumerate(output.texts):
-            hits = get_plaid_response(
-                request_id=request_id,
-                query=text,
-                topk=2, # at most 2
-                lang=lang_id,
-                writer=None
-            )
-            output.set_citations(idx_text, docids=hits['doc_ids'])
-
-            if lang_id != 'fas':
-                print('[sentence in report] -->', text)
-                if len(hits['doc_ids']) > 0:
-                    print('[provenance document] -->', hits['contents'][0][:200])
-                else:
-                    print('[provenance document] -->', 'NO search results')
-                print('---')
-
-        end = time.time()
-        print(f"Search ({len(output.texts)}) sentences in the report - ({lang_id}) e.g. {output.texts[0][:30]}... | Time elapsed: {(end-start):.2f}s")
-
-        # append the output of a topic
         outputs.append(output)
 
     # prepare writer
@@ -80,7 +58,7 @@ if __name__ == "__main__":
     ## for jsonl (official format)
     with open(args.submission+".jsonl", 'w') as f:
         for output in outputs:
-            f.write(json.dumps(output + '\n'))
+            f.write(json.dumps(output)+ '\n')
 
     ## for checking 
     json.dump(outputs, open(args.submission+".json", 'w'), indent=4)

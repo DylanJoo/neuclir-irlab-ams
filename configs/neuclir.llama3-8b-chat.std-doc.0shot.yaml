@@ -4,7 +4,7 @@ eval_file: requests-dev-all.jsonl
 candidates_tsv: data/hits-dev-all-translate.tsv
 used_field: translation
 ndoc: 10
-shot: 1
+shot: 0
 closebook: False
 tag: std-doc
 model: meta-llama/Meta-Llama-3.1-8B-Instruct
