@@ -19,7 +19,7 @@ for split in dev test;do
     python3 tools/plaidx_postcite_verify.py \
         --report_json data/gptqa-${split}-all.json \
         --run_id irlab-ams-postcite-v \
-        --submission data/submussion-${split}-all-irlab-ams-postcite-v.json \
+        --submission data/submussion-${split}-all-irlab-ams-postcite-v \
         --batch_size 64 \
         --max_length 512 \
         --max_word_length 50 \

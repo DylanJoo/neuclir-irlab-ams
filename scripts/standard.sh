@@ -16,7 +16,9 @@ cd ~/neuclir-irlab-ams
 
 # Start the experiment.
 
-## std-doc: standard rag
+## std-doc: 
+run_id=irlab-ams-std-translate-llama-8B
+## generate output from local
 # for split in test dev; do
 #     python standard.py \
 #         --config configs/neuclir.llama3-8b-chat.std-doc.0shot.yaml  \
@@ -25,14 +27,19 @@ cd ~/neuclir-irlab-ams
 #         --candidates_tsv data/hits-${split}-all-translate.tsv \
 #         --used_field translation
 # done
+# for split in dev test; do
+#     python tools/convert_output_to_submission.py  \
+#         --report_json results/report-std-doc-${split}-all.json  \
+#         --run_id ${run_id} \
+#         --submission submissions/submission-${split}-all-${run_id}
+# done
 
-run_id=irlab-ams-std-translate-llama-8B
-for split in dev test; do
-    python tools/convert_output_to_submission.py  \
-        --report_json results/report-std-doc-${split}-all.json  \
+## std-doc: 
+run_id=irlab-ams-std-translate-llama-70B-api
+for split in test; do # test set only 
+    python tools/convert_report_to_submission.py  \
+        --report_json data/llama3-70B-${split}-all.json \
+        --candidates_tsv data/hits-${split}-all-translate.tsv \
         --run_id ${run_id} \
-        --submission submissions/submission-${split}-all-${run_id} \
-        --quick_test
+        --submission submissions/submission-${split}-all-${run_id}
 done
-# submission-dev-all-irlab-ams-poscite.json
-# submission-dev-all-irlab-ams-postcite-v.json

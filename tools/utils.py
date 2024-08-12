@@ -25,7 +25,7 @@ def load_hits_tsv(path):
             try:
                 data[item[0] + item[1]].append({
                     "rank": int(item[2]),
-                    "id": item[3],
+                    "id": str(item[3]),
                     "target_contents": normalize_texts(item[4]),
                     "translation": normalize_texts(item[5])
                 })
@@ -33,21 +33,21 @@ def load_hits_tsv(path):
                 print(item)
     return data
 
-def load_hits_jsonl(path):
-    data = defaultdict(list)
-    with open(path) as f:
-        for line in f:
-            item = json.loads(line.strip())
-            try:
-                data[item[0] + item[1]].append({
-                    "rank": int(item[2]),
-                    "id": item[3],
-                    "target_contents": normalize_texts(item[4]),
-                    "translation": normalize_texts(item[5])
-                })
-            except:
-                print(item)
-    return data
+# def load_hits_jsonl(path):
+#     data = defaultdict(list)
+#     with open(path) as f:
+#         for line in f:
+#             item = json.loads(line.strip())
+#             try:
+#                 data[item[0] + item[1]].append({
+#                     "rank": int(item[2]),
+#                     "id": item[3],
+#                     "target_contents": normalize_texts(item[4]),
+#                     "translation": normalize_texts(item[5])
+#                 })
+#             except:
+#                 print(item)
+#     return data
 
 def citation_fixing(x):
     # cite with the word 'document'

@@ -8,6 +8,7 @@ from tqdm import tqdm
 
 from neuclir_postprocess import *
 from utils import citation_fixing
+from utils import load_hits_tsv
 
 def normalize_texts(texts):
     texts = unicodedata.normalize('NFKC', texts)
@@ -21,24 +22,26 @@ def normalize_texts(texts):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Print output")
     parser.add_argument("--report_json", type=str, default=None)
+    parser.add_argument("--candidates_tsv", type=str, default=None)
     parser.add_argument("--run_id", type=str, default=None)
     parser.add_argument("--submission", type=str, default=None)
     parser.add_argument("--quick_test", action='store_true', default=False)
     args = parser.parse_args()
 
-    data_items = json.load(open(args.report_json, 'r'))['data']
+    data_items = json.load(open(args.report_json, 'r'))
     if args.quick_test:
         data_items = data_items[:2]
+    candidates = load_hits_tsv(args.candidates_tsv)
 
     outputs = []
     for item in tqdm(data_items, total=len(data_items)):
         # meta data
-        request_id = item['request_id']
-        collection_ids = item['collection_ids'][0]
-        lang_id = collection_ids.replace('neuclir/1/', '')
-        references = item['references']
-        cited_report = item['output']
+        request_id = str(item['requestid'])
+        collection_ids = item['colectionids']
+        lang_id = collection_ids.replace('neuclir/1/', '')[:2]
+        cited_report = item['report']
         cited_report = citation_fixing(cited_report)
+        references = [c['id'] for c in candidates[request_id + lang_id][:10]]
 
         # initialize an output placeholder
         output = ReportGenOutput(
@@ -49,7 +52,6 @@ if __name__ == "__main__":
             cited_report=cited_report,
             references=references
         )
-
         outputs.append(output)
 
     # prepare writer

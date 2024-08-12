@@ -7,7 +7,7 @@ from utils import load_hits_tsv
 def prepare(args):
 
     writer = open(args.output_csv, 'w') 
-    writer.write("request_id\tcolection_ids\tprompt\n")
+    writer.write("request_id\tcollection_ids\tprompt\n")
 
     eval_data = [json.loads(line.strip()) for line in open(args.input_jsonl).readlines()]
     candidates = load_hits_tsv(args.candidates_tsv)  

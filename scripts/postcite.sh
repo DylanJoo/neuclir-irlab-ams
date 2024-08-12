@@ -22,5 +22,3 @@ for split in dev test;do
     echo -e
     echo -e
 done
-
-

@@ -4,6 +4,8 @@ import unicodedata
 import requests
 import json
 import argparse
+import torch
+import numpy as np
 from tqdm import tqdm
 
 from neuclir_postprocess import *
@@ -80,7 +82,7 @@ if __name__ == "__main__":
     ## for jsonl (official format)
     with open(args.submission+".jsonl", 'w') as f:
         for output in outputs:
-            f.write(json.dumps(output + '\n'))
+            f.write(json.dumps(output) + '\n')
 
     ## for checking 
     json.dump(outputs, open(args.submission+".json", 'w'), indent=4)

@@ -78,14 +78,19 @@ class ReportGenOutput:
         if docids is None:
             docids = []
             for referenceid in referenceids:
-                docids.append( self.references[referenceid] )
+                try:
+                    docids.append( self.references[referenceid] )
+                except:
+                    # sometime hallucination with inexisted document
+                    print(f"no referenceid {referenceid} from {self.request_id} - {self.collection_ids}")
+                    docids.append( [] )
 
         self.citations[idx_text] = docids
 
-    def et_references(self, docids, shuffle=False):
-        if shuffle:
-            random.shuffle(docids)
-        self.references = {str(i+1): docid for i, docid in enumerate(docids)}
+    # def et_references(self, docids, shuffle=False):
+    #     if shuffle:
+    #         random.shuffle(docids)
+    #     self.references = {str(i+1): docid for i, docid in enumerate(docids)}
 
     def get_references(self):
         """ return a list of reference ids"""
