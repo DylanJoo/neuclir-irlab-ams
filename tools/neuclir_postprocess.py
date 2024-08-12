@@ -46,7 +46,7 @@ class ReportGenOutput:
             sentences.append({"text": text, "citations": citation})
 
         return {
-            "request_id": self.request_id,
+            "request_id": str(self.request_id),
             "run_id": self.run_id,
             "collection_ids": self.collection_ids,
             "sentences": sentences

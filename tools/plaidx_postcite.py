@@ -36,7 +36,7 @@ if __name__ == "__main__":
     outputs = []
     for item in tqdm(data_items, total=len(data_items)):
         # meta data
-        request_id = item['requestid']
+        request_id = str(item['requestid'])
         collection_ids = item['collectionids']
         lang_id = collection_ids.replace('neuclir/1/', '')
         raw_report = item['report']

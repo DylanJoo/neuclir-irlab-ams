@@ -27,19 +27,19 @@ run_id=irlab-ams-std-translate-llama-8B
 #         --candidates_tsv data/hits-${split}-all-translate.tsv \
 #         --used_field translation
 # done
-# for split in dev test; do
-#     python tools/convert_output_to_submission.py  \
-#         --report_json results/report-std-doc-${split}-all.json  \
-#         --run_id ${run_id} \
-#         --submission submissions/submission-${split}-all-${run_id}
-# done
-
-## std-doc: 
-run_id=irlab-ams-std-translate-llama-70B-api
-for split in test; do # test set only 
-    python tools/convert_report_to_submission.py  \
-        --report_json data/llama3-70B-${split}-all.json \
-        --candidates_tsv data/hits-${split}-all-translate.tsv \
+for split in dev test; do
+    python tools/convert_output_to_submission.py  \
+        --report_json results/report-std-doc-${split}-all.json  \
         --run_id ${run_id} \
         --submission submissions/submission-${split}-all-${run_id}
 done
+
+## std-doc: 
+# run_id=irlab-ams-std-translate-llama-70B-api
+# for split in test; do # test set only 
+#     python tools/convert_report_to_submission.py  \
+#         --report_json data/llama3-70B-${split}-all.json \
+#         --candidates_tsv data/hits-${split}-all-translate.tsv \
+#         --run_id ${run_id} \
+#         --submission submissions/submission-${split}-all-${run_id}
+# done
