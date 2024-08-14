@@ -44,7 +44,7 @@ if __name__ == "__main__":
         # initialize an output placeholder
         output = ReportGenOutput(
             request_id=request_id,
-            run_id=args.run_id,
+            run_id=f"{lang_id}_{args.run_id}",
             collection_ids=[collection_ids],
             raw_report=raw_report,
             cited_report=None
