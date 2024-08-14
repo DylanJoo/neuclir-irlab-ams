@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 from llm.base import LLM
 from prompts.neuclir import *
-from tools.utils import load_hits_tsv
+from tools.utils import load_hits_tsv, load_hits_jsonl
 
 def main():
     parser = argparse.ArgumentParser()
@@ -22,6 +22,7 @@ def main():
     parser.add_argument("--train_file", type=str, help="Path to the eval file")
     parser.add_argument("--eval_file", type=str, help="Path to the eval file")
     parser.add_argument("--candidates_tsv", type=str, help="Path to the eval file")
+    parser.add_argument("--candidates_jsonl", type=str, help="Path to the eval file")
     parser.add_argument("--quick_test", type=int, default=None, help="Quickly test a few examples")
     parser.add_argument("--max_doc_length", type=int, default=512)
     parser.add_argument("--split", type=str, default='dev')
@@ -82,7 +83,10 @@ def main():
     # Load data
     # train_data = json.load(open(args.train_file))
     eval_data = [json.loads(line.strip()) for line in open(args.eval_file).readlines()]
-    candidates = load_hits_tsv(args.candidates_tsv)
+    if args.candidates_tsv:
+        candidates = load_hits_tsv(args.candidates_tsv)
+    if args.candidates_jsonl:
+        candidates = load_hits_jsonl(args.candidates_jsonl)
 
     ## Prepare instruction and the demo prompts
     # Sample quick test

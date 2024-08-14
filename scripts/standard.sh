@@ -1,6 +1,6 @@
 #!/bin/sh
 # The following lines instruct Slurm to allocate one GPU.
-#SBATCH --job-name=std-doc
+#SBATCH --job-name=std
 #SBATCH --partition gpu
 #SBATCH --gres=gpu:nvidia_rtx_a6000:1
 #SBATCH --mem=32G
@@ -18,7 +18,7 @@ cd ~/neuclir-irlab-ams
 
 ## std-doc: 
 run_id=irlab-ams-std-translate-llama-8B
-## generate output from local
+# generate output from local
 # for split in test dev; do
 #     python standard.py \
 #         --config configs/neuclir.llama3-8b-chat.std-doc.0shot.yaml  \
@@ -34,12 +34,12 @@ for split in dev test; do
         --submission submissions/submission-${split}-all-${run_id}
 done
 
-## std-doc: 
-# run_id=irlab-ams-std-translate-llama-70B-api
-# for split in test; do # test set only 
-#     python tools/convert_report_to_submission.py  \
-#         --report_json data/llama3-70B-${split}-all.json \
-#         --candidates_tsv data/hits-${split}-all-translate.tsv \
-#         --run_id ${run_id} \
-#         --submission submissions/submission-${split}-all-${run_id}
-# done
+# std-doc with larger model
+run_id=irlab-ams-std-translate-llama-70B-api
+for split in test; do # test set only 
+    python tools/convert_report_to_submission.py  \
+        --report_json data/llama3-70B-${split}-all.json \
+        --candidates_tsv data/hits-${split}-all-translate.tsv \
+        --run_id ${run_id} \
+        --submission submissions/submission-${split}-all-${run_id}
+done

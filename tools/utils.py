@@ -1,7 +1,9 @@
 from collections import defaultdict
 from datasets import load_dataset
+import json
 import re
 import unicodedata
+from collections import Counter
 
 def check_result(texts):
     texts = normalize_texts(texts)
@@ -26,6 +28,7 @@ def load_hits_tsv(path):
                 data[item[0] + item[1]].append({
                     "rank": int(item[2]),
                     "id": str(item[3]),
+                    "qid": str(item[0]) + str(item[1]),
                     "target_contents": normalize_texts(item[4]),
                     "translation": normalize_texts(item[5])
                 })
@@ -33,21 +36,17 @@ def load_hits_tsv(path):
                 print(item)
     return data
 
-# def load_hits_jsonl(path):
-#     data = defaultdict(list)
-#     with open(path) as f:
-#         for line in f:
-#             item = json.loads(line.strip())
-#             try:
-#                 data[item[0] + item[1]].append({
-#                     "rank": int(item[2]),
-#                     "id": item[3],
-#                     "target_contents": normalize_texts(item[4]),
-#                     "translation": normalize_texts(item[5])
-#                 })
-#             except:
-#                 print(item)
-#     return data
+def load_hits_jsonl(path):
+    data = defaultdict(list)
+    with open(path) as f:
+        for line in f:
+            item = json.loads(line.strip())
+            try:
+                data[item['qid']].append(item)
+            except:
+                print(item)
+    return data
+
 
 def citation_fixing(x):
     # cite with the word 'document'
@@ -64,14 +63,16 @@ def citation_fixing(x):
     return x
 
 
-def citation_removal(x, return_numberts=False):
+def citation_removal(x, return_numbers=False):
     # citations = re.findall(r'\[\d+\](?:\[\d+\])?', x)
     citations = re.findall(r'\[\d+\]', x)
     numbers = []
     for cite in citations:
         x = x.replace(cite, "").strip()
         numbers.append( cite.replace(r"[", "").replace(r"]", "") )
-    if return_numberts:
+
+    numbers = [n for n, N in Counter(numbers).most_common()]
+    if return_numbers:
         return x, numbers
     else:
         return x

@@ -19,7 +19,6 @@ class ReportGenOutput:
 
     def __post_init__(self):
 
-
         if (self.raw_report is None) and (self.cited_report is not None):
             self.cited_report = normalize_texts(self.cited_report)
             self.raw_report = citation_removal(self.cited_report)
@@ -43,11 +42,12 @@ class ReportGenOutput:
     def finalize(self):
         sentences = []
         for text, citation in zip(self.texts, self.citations):
-            sentences.append({"text": text, "citations": citation})
+            sentences.append({"text": text, "citations": citation[:2]})
 
+        run_id_prefix = self.collection_ids[0].replace('neuclir/1/', '')
         return {
             "request_id": str(self.request_id),
-            "run_id": self.run_id,
+            "run_id": f"{run_id_prefix}_{self.run_id}",
             "collection_ids": self.collection_ids,
             "sentences": sentences
         }

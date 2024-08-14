@@ -1,0 +1,3432 @@
+[
+    {
+        "request_id": "304",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "The United States has been investigating UFOs for years, with various agencies and governments conducting research on the phenomenon.",
+                "citations": []
+            },
+            {
+                "text": "As per , the U.S. Congress has ordered the Department of Defense to submit a research report within six months to provide information on the investigation and potential threats to national security.",
+                "citations": [
+                    "1a1ad4a9-4147-4026-a40b-98f4f86eedae"
+                ]
+            },
+            {
+                "text": "Historically, the government investigated about 12,000 UFO sightings between 1952 and 1969, of which 701 were \"unexplained,\"  but since then, UFOs have no longer been something the government will take seriously .",
+                "citations": [
+                    "3e5354bc-e164-4b2c-917a-dfe0b1e4d007",
+                    "7f76e9c7-a5f2-4aa7-82b5-fa66fe034566"
+                ]
+            },
+            {
+                "text": "Recently, the U.S. Department of Defense has invested in research on invisibility cloaks, wormholes, and warp engines, and has continued to invest in UFO investigations in the past .",
+                "citations": [
+                    "ce5b14a9-7aa8-404e-aa8f-bd63c66cd3ec",
+                    "7abd0389-7e21-40f7-96fa-c8b6aecb348a"
+                ]
+            },
+            {
+                "text": "The U.S. Senate intends to regulate a Department of Defense unidentified flying object (UFO) program, which is equivalent to official confirmation that the plan had always existed .",
+                "citations": [
+                    "7abd0389-7e21-40f7-96fa-c8b6aecb348a",
+                    "e5bd9fb1-f226-4c03-b965-d0c458148e93"
+                ]
+            },
+            {
+                "text": "The U.S. government has also established a working group on \"Unidentified Aerial Phenomenon\" (UAP) to investigate reports of UFO sightings .",
+                "citations": [
+                    "a12b80e7-6ac8-406f-8781-bf4dd690b3c0",
+                    "c07c5c38-344f-4995-86de-4baaa8759ddb"
+                ]
+            },
+            {
+                "text": "According to , the Department of Defense has spent US$110 million to investigate U.S. fighter jets that encountered unidentified flights.",
+                "citations": [
+                    "79aed602-1bc4-489c-813c-88c513e7a152"
+                ]
+            },
+            {
+                "text": "The U.S. government has also released a report on \"unidentified aerial phenomena\" witnessed by military personnel in recent years, which found no evidence of aliens but did find that UFOs could pose a threat to national security .",
+                "citations": [
+                    "8d59720d-3614-4de8-bc50-31322cbc4caf",
+                    "56074756-dbf7-4b40-9b03-0623e4b0813a"
+                ]
+            },
+            {
+                "text": "In recent years, the U.S. government has released multiple reports on UFO sightings, with the latest report providing a detailed analysis of the Office of Naval Intelligence, the Unidentified Aerial Phenomena Task Force (UAPTF), and the FBI .",
+                "citations": [
+                    "fa508324-accd-4691-b03d-bcf06168e37a",
+                    "c4296b5b-de80-4f1f-934a-f8a5abfc383d"
+                ]
+            },
+            {
+                "text": "The U.S. government will release a report on \"unidentified aerial phenomena\" in June, which will reveal the weak ability of U.S. intelligence agencies to assess organisms in outer space .",
+                "citations": [
+                    "52d52a2b-1d07-44ca-97f4-3a50bf7ccb5b",
+                    "96283349-03b5-4841-9ace-944812a163a0"
+                ]
+            },
+            {
+                "text": "The U.S. military investigates UFOs and is expected to release a relevant report in Congress on the 25th, although there is no evidence that the series of \"unidentified aerial phenomena\" observed by the US military in recent years are caused by alien spacecraft .",
+                "citations": [
+                    "c4296b5b-de80-4f1f-934a-f8a5abfc383d",
+                    "4f18600a-a533-4577-8f89-d5f900360936"
+                ]
+            },
+            {
+                "text": "The US Department of Defense recently certified the authenticity of UFO footage, causing heated discussion among the outside world .",
+                "citations": [
+                    "4f18600a-a533-4577-8f89-d5f900360936",
+                    "3a9fed19-5e5a-4083-b3f4-fd0f3c0452da"
+                ]
+            },
+            {
+                "text": "The U.S. government will release a report on \"unidentified aerial phenomena\" in June, which will reveal",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "304",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "There have been multiple investigations into Unidentified Flying Objects (UFOs) within the United States public and private sectors since 2004, with significant focus on collecting photographs, videos, and data on UFOs that could pose a threat to US national security .",
+                "citations": [
+                    "a4c6525f-6f24-4e61-9840-c626eda4854a",
+                    "66d60fc8-b13a-450e-a324-d36961e9e2e6"
+                ]
+            },
+            {
+                "text": "One such program, the Advanced Aerospace Threats Program, was funded by the Pentagon and ran from 2007 to 2012 before being discontinued due to budget constraints .",
+                "citations": [
+                    "2da73318-fabc-480f-bd97-e141a7707d95",
+                    "a4c6525f-6f24-4e61-9840-c626eda4854a"
+                ]
+            },
+            {
+                "text": "The program's participants described cases of aircraft moving at high speeds without visible signs of propulsion systems, as well as hovering in the air as if they were not flying .",
+                "citations": [
+                    "2da73318-fabc-480f-bd97-e141a7707d95"
+                ]
+            },
+            {
+                "text": "The Pentagon has also created a working group to study UFOs and compile a list of UFOs that could potentially threaten the security of the country .",
+                "citations": [
+                    "673cf7d4-9138-4fc1-b6c0-d45e15a1a012",
+                    "40fdf16e-b123-402a-aa1d-585d0cdee3e1"
+                ]
+            },
+            {
+                "text": "This group, led by the US Deputy Secretary of Defense David Norquist, aims to detect, analyze, and catalog UFOs that may pose a potential threat to US national security .",
+                "citations": [
+                    "40fdf16e-b123-402a-aa1d-585d0cdee3e1"
+                ]
+            },
+            {
+                "text": "The Department of Defense has also officially published UFO videos and disclosed some of the collected data on UFOs, with a commitment to report at least some of its findings to the public within six months of intelligence clearance .",
+                "citations": [
+                    "6526041e-b6e2-462c-9188-db8e6cdc3eb4",
+                    "eb968d50-db13-49fb-8e12-48af9484a41b"
+                ]
+            },
+            {
+                "text": "Furthermore, the US Navy has required pilots to report any sightings of unexplained atmospheric phenomena, which could be part of a secret program to develop drones based on unknown technologies .",
+                "citations": [
+                    "1c8d5a7b-0f57-43c8-aeff-dca72170dd3b"
+                ]
+            },
+            {
+                "text": "The CIA has also declassified hundreds of documents related to UFOs and unexplained space and natural phenomena, including a collection of digitized reports on \"flying saucers\" .",
+                "citations": [
+                    "f84f1201-5aaf-4023-8b34-6d36e324b888"
+                ]
+            },
+            {
+                "text": "Despite these efforts, investigations into UFOs have been ongoing, with the US government confirming the creation of a working group to study unidentified flying objects .",
+                "citations": [
+                    "40fdf16e-b123-402a-aa1d-585d0cdee3e1",
+                    "eaa56d4b-1357-46c7-b8df-edd57513835c"
+                ]
+            },
+            {
+                "text": "The US Department of Defense employees were pursuing unidentified flying objects and created a special program for enhanced identification of air threats .",
+                "citations": [
+                    "eaa56d4b-1357-46c7-b8df-edd57513835c"
+                ]
+            },
+            {
+                "text": "The Department of Defense has also confirmed that the US Navy personnel will be required to report UFO sightings and provide formal guidelines for sailors and pilots to report and analyze each encounter .",
+                "citations": [
+                    "5ff61cc9-aaeb-49e5-bc35-935cf1bc0638"
+                ]
+            },
+            {
+                "text": "In total, the US Department of Defense has investigated 144 unidentified flying objects since 2004, but there is no clear indication of any extraterrestrial explanation .",
+                "citations": [
+                    "7b0a3b5b-ee17-4af1-b149-c56d198f4c43"
+                ]
+            },
+            {
+                "text": "The history of these investigations includes significant costs, with the US Department of Defense spending more than $20 million on UFO research .",
+                "citations": [
+                    "a4c6525f-6f24-4e61-9840-c626eda4854a"
+                ]
+            },
+            {
+                "text": "The goals of these investigations have been to detect, analyze, and catalog UFOs that could pose a potential threat to US national security, and to better understand the nature and origin",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "305",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "Blue Origin has made significant innovations in space exploration technologies, as stated in .",
+                "citations": [
+                    "0e4b9fc2-4345-4733-8dd1-77453e9f2993"
+                ]
+            },
+            {
+                "text": "The company, founded by Jeff Bezos, aims to colonize space and has developed a reusable rocket system, as described in .",
+                "citations": [
+                    "1d9b8316-671e-4d80-94fb-a9bee7cac858"
+                ]
+            },
+            {
+                "text": "This technology allows Blue Origin to launch payloads into space at a lower cost, as mentioned in .",
+                "citations": [
+                    "8a88a9dd-7590-4fcd-a1f6-53167f3cd5c8"
+                ]
+            },
+            {
+                "text": "In addition, Blue Origin has partnered with other companies, such as SpaceX, to launch its spacecraft, as stated in .",
+                "citations": [
+                    "1ba9cda8-b787-45c2-acc8-ca4c0f6c64d7"
+                ]
+            },
+            {
+                "text": "The company has also made significant progress in space tourism, with its first commercial passenger mission scheduled for July 20, as mentioned in .",
+                "citations": [
+                    "0e4b9fc2-4345-4733-8dd1-77453e9f2993"
+                ]
+            },
+            {
+                "text": "Moreover, Blue Origin has sold passenger tickets for space tours, with proceeds going to charity to encourage young people to explore STEM fields, as stated in .",
+                "citations": [
+                    "fe63bd43-d5cc-4b09-8b9d-5c1048129f91"
+                ]
+            },
+            {
+                "text": "The company's innovations have also been recognized through various awards, such as the \"National Research Institute Cup i-ONE Instrument Technology Innovation Award\", as mentioned in .",
+                "citations": [
+                    "51cb487d-20bf-44d9-97b9-c7ab79b6cd21"
+                ]
+            },
+            {
+                "text": "Overall, Blue Origin's innovations have paved the way for a new era in space exploration and commercialization, as stated in  .",
+                "citations": [
+                    "92626511-fc23-471b-b9d4-9e50c5f5f2d3",
+                    "c95ced73-7fea-409d-b295-269b56e6830b"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "92626511-fc23-471b-b9d4-9e50c5f5f2d3",
+                    "51cb487d-20bf-44d9-97b9-c7ab79b6cd21"
+                ]
+            },
+            {
+                "text": "However, according to  the Apollo program did not lay the foundation for future human space activities, and a need still exists for infrastructure that can support the growth of space activities.",
+                "citations": [
+                    "f46e4367-8020-4fa9-90a7-e0ab9df412b6"
+                ]
+            },
+            {
+                "text": "As mentioned in [7",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "305",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "Blue Origin, a company founded by Amazon CEO Jeff Bezos,  has been developing space technology and has successfully launched the reusable New Shepard rocket .",
+                "citations": [
+                    "59a4546f-f534-44e0-9d5b-1907c07ba25e",
+                    "52305c23-5310-4828-8aee-248b5743cf1c"
+                ]
+            },
+            {
+                "text": "The New Shepard rocket is capable of carrying six passengers  and is designed for suborbital flights .",
+                "citations": [
+                    "a74b3163-c4cc-4eb6-8d8b-96423c7496c2",
+                    "50daa05c-6db8-4cea-9ad0-1426c9da573e"
+                ]
+            },
+            {
+                "text": "Blue Origin has sold a ticket to fly into space on the New Shepard spacecraft for $28 million at auction , with proceeds going towards the Club for the Future foundation, which encourages young people to pursue careers in technical fields .",
+                "citations": [
+                    "793efde6-d199-4e2a-b969-6b33da469863",
+                    "50daa05c-6db8-4cea-9ad0-1426c9da573e"
+                ]
+            },
+            {
+                "text": "The company has also partnered with other organizations to advance space exploration and inspire future generations .",
+                "citations": [
+                    "3beafeff-54e5-4bb0-8e7f-7f818b0919a9",
+                    "c9147889-0f20-4be4-8f8d-69fc6aa0223a"
+                ]
+            },
+            {
+                "text": "High school students have been reporting on Blue Origin's space exploration technologies innovations , including the development of space systems and the use of operational images of the Earth from space .",
+                "citations": [
+                    "a4da8bd2-b72c-4c77-aa30-4d5ac737012d",
+                    "dd93188f-1bcc-4ffd-872c-91f8251933a5"
+                ]
+            },
+            {
+                "text": "Overall, Blue Origin's innovative technologies and partnerships are paving the way for future space exploration and inspiring young minds .",
+                "citations": [
+                    "59a4546f-f534-44e0-9d5b-1907c07ba25e",
+                    "33eb7829-c55b-4f36-bd90-5be5ac1cf5d7"
+                ]
+            },
+            {
+                "text": "On July 20, Jeff Bezos will fly into space on the New Shepard spacecraft,  marking a significant milestone in the company's mission to make space more accessible .",
+                "citations": [
+                    "793efde6-d199-4e2a-b969-6b33da469863",
+                    "50daa05c-6db8-4cea-9ad0-1426c9da573e"
+                ]
+            },
+            {
+                "text": "The future of space exploration looks bright with companies like Blue Origin leading the charge .",
+                "citations": [
+                    "59a4546f-f534-44e0-9d5b-1907c07ba25e",
+                    "33eb7829-c55b-4f36-bd90-5be5ac1cf5d7"
+                ]
+            },
+            {
+                "text": "High school students are also contributing to space exploration by developing innovative projects,  and participating in competitions to promote scientific and technical creativity .",
+                "citations": [
+                    "6de43064-f60e-4166-83ee-f014988cdac1",
+                    "793efde6-d199-4e2a-b969-6b33da469863"
+                ]
+            },
+            {
+                "text": "The collaboration between Blue Origin and other organizations is driving innovation and inspiring the next generation of space explorers ..",
+                "citations": [
+                    "3beafeff-54e5-4bb0-8e7f-7f818b0919a9",
+                    "793efde6-d199-4e2a-b969-6b33da469863"
+                ]
+            },
+            {
+                "text": "Ultimately, Blue Origin's commitment to space exploration and education will shape the future of humanity ..",
+                "citations": [
+                    "50daa05c-6db8-4cea-9ad0-1426c9da573e",
+                    "dd93188f-1bcc-4ffd-872c-91f8251933a5"
+                ]
+            },
+            {
+                "text": "It will be interesting to see the innovations that Blue Origin will bring to the space exploration industry in the future ..",
+                "citations": [
+                    "33eb7829-c55b-4f36-bd90-5be5ac1cf5d7",
+                    "59a4546f-f534-44e0-9d5b-1907c07ba25e"
+                ]
+            },
+            {
+                "text": "The future of space exploration seems bright with companies like Blue Origin .",
+                "citations": [
+                    "50daa05c-6db8-4cea-9ad0-1426c9da573e",
+                    "33eb7829-c55b-4f36-bd90-5be5ac1cf5d7"
+                ]
+            },
+            {
+                "text": "Blue Origin will conduct more suborbital space flights in the near future, including with high school students on board .. On July 20, Jeff Bezos will fly into space on the New Shepard spacecraft,  marking a significant milestone in the company's mission to make space more accessible .. Jeff Bezos' $1 billion investment in space programs will help to develop space technology and make space travel more accessible .. Blue Origin",
+                "citations": [
+                    "50daa05c-6db8-4cea-9ad0-1426c9da573e",
+                    "33eb7829-c55b-4f36-bd90-5be5ac1cf5d7"
+                ]
+            }
+        ]
+    },
+    {
+        "request_id": "306",
+        "run_id": "fas_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/fas"
+        ],
+        "sentences": [
+            {
+                "text": "Several countries including the European Union have imposed sanctions on Russia for the poisoning of Sergei and Yulia Skripal with Novichok nerve agent.",
+                "citations": []
+            },
+            {
+                "text": "These sanctions exclude the expulsion of Russian diplomats from the respective countries .",
+                "citations": [
+                    "3a902f7f-b6dd-45b7-be62-7364d027f973",
+                    "0914e665-4043-4afe-8bd0-7933f2f23942"
+                ]
+            },
+            {
+                "text": "The sanctions target Russian institutions and individuals involved in the poisoning .",
+                "citations": [
+                    "659cd64d-b872-4972-b789-c0ac1f16d52e",
+                    "865153f9-0f74-4c0f-ae06-1df62dd14999"
+                ]
+            },
+            {
+                "text": "For example, the US has imposed sanctions on 32 Russian entities, including the expulsion of diplomats, for allegedly collaborating with Russia and interfering in the 2020 US presidential election .",
+                "citations": [
+                    "4e533818-ebfb-4aa2-9e28-d42c5b688562",
+                    "32aebe9e-8c5a-41a4-90ca-e23f12ebeb71"
+                ]
+            },
+            {
+                "text": "Sanctions imposed by the US on Russia include the suspension of Sadro's license to export weapons and dual-use products to Russian state-owned companies, and the prohibition of providing loans, credit guarantees, and other financial assistance to Russia .",
+                "citations": [
+                    "659cd64d-b872-4972-b789-c0ac1f16d52e",
+                    "3356110e-5198-4d34-b217-2dbce00a3b59"
+                ]
+            },
+            {
+                "text": "China has also expressed opposition to US sanctions against Russia imposed for interference in the 2020 presidential election, cyber attacks, and bullying against Ukraine .",
+                "citations": [
+                    "a40df00a-d2bb-4dac-bdba-30eb5cfa2a93"
+                ]
+            },
+            {
+                "text": "However, no country other than the US has imposed a similar range of sanctions on Russia for the poisoning of the Skripals, according to the documents .",
+                "citations": [
+                    "9ad36bf2-23ef-4263-801f-470ff4e4e0fb",
+                    "1d768c50-19b9-4c4a-9654-f1bbe027fedd"
+                ]
+            },
+            {
+                "text": "The sanctions are aimed at preventing Russia's harmful foreign activities and punishing the country for interfering in elections .",
+                "citations": [
+                    "32aebe9e-8c5a-41a4-90ca-e23f12ebeb71",
+                    "865153f9-0f74-4c0f-ae06-1df62dd14999"
+                ]
+            },
+            {
+                "text": "The Russian government has announced measures in response to the sanctions, including limiting Russia's ability to pay its government debt .",
+                "citations": [
+                    "0bca22bf-f4d3-45c0-b53a-1dc88f0b02fc"
+                ]
+            },
+            {
+                "text": "However, the prospects of easing the sanctions are uncertain due to Russia's continued involvement in controversial activities  .",
+                "citations": [
+                    "f2b02ef2-3567-4c43-aaa0-6c43620f2180",
+                    "a7f88fb6-a8b4-4d2e-9491-0b721cec7e49"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "2fa5f315-ae8b-470a-bd06-35c3ba5a1965",
+                    "a1682b1a-01b7-4b73-bfec-071a85405181"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "77e59567-284c-40d7-ad98-2507c7a1561d",
+                    "5138beff-ef9e-40f0-9d77-e1f17287f291"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "5138beff-ef9e-40f0-9d77-e1f17287f291",
+                    "659cd64d-b872-4972-b789-c0ac1f16d52e"
+                ]
+            },
+            {
+                "text": "..  .",
+                "citations": [
+                    "f2b02ef2-3567-4c43-aaa0-6c43620f2180",
+                    "32aebe9e-8c5a-41a4-90ca-e23f12ebeb71"
+                ]
+            },
+            {
+                "text": "....",
+                "citations": [
+                    "3356110e-5198-4d34-b217-2dbce00a3b59",
+                    "2fa5f315-ae8b-470a-bd06-35c3ba5a1965"
+                ]
+            }
+        ]
+    },
+    {
+        "request_id": "306",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "The poisoning of Sergei and Yulia Skripal with the Novichok nerve agent has prompted countries other than the US to impose sanctions on Russia.",
+                "citations": []
+            },
+            {
+                "text": "According to , , and , the countries imposing sanctions include the UK, Poland, and others.",
+                "citations": [
+                    "fbfe3b32-4fe6-49c3-86bb-5c6302187719",
+                    "44992ec8-3938-4cb6-9794-4c21c26bf7a7"
+                ]
+            },
+            {
+                "text": "The sanctions imposed on Russia are aimed at depriving the Kremlin of resources and potential that it can use to harm others .",
+                "citations": [
+                    "3692e9cf-f3dd-4a9b-b565-4b89813fcc6b",
+                    "09715ca4-39b0-4748-9a74-69a985ce5457"
+                ]
+            },
+            {
+                "text": "The sanctions targets include Russian diplomatic staff, Russian employees, and even the movement of employees within Russia  .",
+                "citations": [
+                    "ab4f58ae-47b4-4182-a893-34f16bb68d29",
+                    "c1703847-1fe9-4752-8272-a176d41fa8b7"
+                ]
+            },
+            {
+                "text": "mentions that the most stringent countermeasures taken by these countries are an embargo on the supply of food products to Russia.",
+                "citations": []
+            },
+            {
+                "text": "The sanctions are proportional and consistent with Russia's malicious activities, as stated by  .",
+                "citations": [
+                    "88c1bb1d-5748-4060-8ce7-4e7fbddec71d",
+                    "7b5795d3-e63a-4690-a459-8b064ea3bbf3"
+                ]
+            },
+            {
+                "text": "further emphasizes that China and Russia will continue to show mutual understanding and support each other .",
+                "citations": [
+                    "59f2cffd-9c87-4247-b87a-d52940976b95"
+                ]
+            },
+            {
+                "text": "indicates that the impact of these sanctions depends on whether other countries will join them.",
+                "citations": []
+            },
+            {
+                "text": "The sanctions imposed by these countries exclude the expulsion of Russian diplomats, unlike those imposed by the US  .",
+                "citations": [
+                    "5f027609-fda9-414d-9a41-e40fab4f0803",
+                    "7589c5f2-c846-4ab8-8e0a-41a9fcd10c84"
+                ]
+            },
+            {
+                "text": "and  suggest that the US has already imposed new sanctions on Russia for the poisoning of the Skripals and other malicious activities.",
+                "citations": [
+                    "146f2bb2-88d3-4aad-9bf6-b1845d4ae202"
+                ]
+            },
+            {
+                "text": "However, the US has stopped issuing visas to Russians from August due to the reduction in the number of employees at American consulates  .",
+                "citations": [
+                    "7589c5f2-c846-4ab8-8e0a-41a9fcd10c84",
+                    "9c3535b2-17e7-4777-a7d1-663699e26ebe"
+                ]
+            },
+            {
+                "text": "mentions that the US has also imposed sanctions on Russia for interference in the US presidential election and cyber attacks through SolarWinds .",
+                "citations": [
+                    "14d493fa-e697-469d-b83d-7d0d9094dae9"
+                ]
+            },
+            {
+                "text": "states that the US has signed sanctions on Russia for the poisoning of the Skripals, including expulsion of Russian diplomats.",
+                "citations": []
+            },
+            {
+                "text": "Despite the US imposing sanctions,  indicates that the sanctions imposed by countries other than the US for the poisoning of Sergei and Yulia Skripal are unrelated to the poisoning incident .",
+                "citations": [
+                    "e5691ee4-ea76-41a4-84b3-f904dc8a2d33",
+                    "7a289005-2fa4-40d2-88f4-89a2245357f2"
+                ]
+            },
+            {
+                "text": "mentions that the Chinese Foreign Ministry has commented on the new US sanctions against Russia, calling them one-sided measures of hegemony.",
+                "citations": []
+            },
+            {
+                "text": "Overall, the sanctions imposed on Russia by countries other than the US for the poisoning of Sergei and Yulia Skripal with the Novichok nerve agent have been a response to Russia's malicious activities.",
+                "citations": []
+            },
+            {
+                "text": "The effectiveness of these sanctions depends on whether other countries join them, and the response from Russia will be inevitable.",
+                "citations": []
+            },
+            {
+                "text": "The sanctions target Russian diplomatic staff, employees, and even the movement of employees within Russia.",
+                "citations": []
+            },
+            {
+                "text": "The US has also imposed sanctions on Russia for the poisoning of the Skripals and other malicious activities.",
+                "citations": []
+            },
+            {
+                "text": "However, the US",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "312",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "As per the documents, the Helsinki Airport project uses dogs to identify passengers infected with Covid-19 with almost 100% accuracy .",
+                "citations": [
+                    "289c43bf-d609-4f3a-ba6f-f100b1f4a167",
+                    "d84438ab-6249-487a-927f-8a06ce7d6afd"
+                ]
+            },
+            {
+                "text": "The training of dogs for this project has already been initiated with the help of experts, and the dogs are taught to recognize the smell of the virus in sweat samples collected on the napkins of arriving passengers .",
+                "citations": [
+                    "30688862-1361-441c-b274-742450663c73",
+                    "e43f899e-8398-41d0-bb12-503bb7911c59"
+                ]
+            },
+            {
+                "text": "The accuracy of the tests performed on dogs in this area is almost 100% .",
+                "citations": [
+                    "acda3d14-bd4f-4771-b31c-5b4739e7fa08",
+                    "ed802a82-b771-48d9-9ee9-d993d4866439"
+                ]
+            },
+            {
+                "text": "As per Document 13, the study involved Labrador retrievers, cocker spaniels and shepherd dogs, and scientists still do not understand what substances in urine cause the characteristic odor of COVID-19.",
+                "citations": []
+            },
+            {
+                "text": "According to Document 16, four dogs of different breeds showed up on Wednesday as part of the project to test an alternative method of testing for Covid-19.",
+                "citations": []
+            },
+            {
+                "text": "It takes about 6-8 weeks to train a dog to detect Covid-19 by smell , and the method is extremely specific .",
+                "citations": [
+                    "76ebe35e-0788-4485-b079-4f7cc141776e",
+                    "fba25ed4-fbf0-4104-91b0-086ec6f59738"
+                ]
+            },
+            {
+                "text": "Service dogs are trained to detect COVID-19 by smell at Sheremetyevo Airport and at Helsinki Airport with almost 100% accuracy , and it is estimated that dogs will be able to recognize the infection with almost the same accuracy as standard PCR tests .",
+                "citations": [
+                    "8bf5a9ec-08d2-482f-aadd-20f426142c8d",
+                    "3095ac10-6751-4cc8-a2fd-9a3a98d47a74"
+                ]
+            },
+            {
+                "text": "It takes 1.5-2 years to raise a mature police dog that obeys the handler .",
+                "citations": [
+                    "8bf5a9ec-08d2-482f-aadd-20f426142c8d"
+                ]
+            },
+            {
+                "text": "If the experiment is successful, it is possible that other airports will also consider using dogs to detect COVID-19 .",
+                "citations": [
+                    "acda3d14-bd4f-4771-b31c-5b4739e7fa08"
+                ]
+            },
+            {
+                "text": "Document 22 states that dogs are trained to recognize people with coronavirus in a joint Italian-Finnish experiment taking place at Turin's Cuneo Levaldigi Airport with the effectiveness of the method being at least 95 percent, and the result is ready in ten seconds.",
+                "citations": []
+            },
+            {
+                "text": "The Helsinki Airport project is a world first .",
+                "citations": [
+                    "289c43bf-d609-4f3a-ba6f-f100b1f4a167"
+                ]
+            },
+            {
+                "text": "The project is being conducted to evaluate if dogs can detect Covid-19 specifically at airports, including the training of dogs and testing them .",
+                "citations": [
+                    "d84438ab-6249-487a-927f-8a06ce7d6afd"
+                ]
+            },
+            {
+                "text": "The pilot project at Helsinki Airport uses dogs' sense of smell to detect COVID-19, which is a world first , and preliminary tests show that they can detect the presence of the virus several days before the first symptoms appear .",
+                "citations": [
+                    "289c43bf-d609-4f3a-ba6f-f100b1f4a167"
+                ]
+            },
+            {
+                "text": "The project starts this week and a total of 16 specially trained dogs will take part in the pilot project .",
+                "citations": [
+                    "d84438ab-6249-487a-927f-8a06ce7d6afd",
+                    "517491b2-ecfa-4928-b2eb-e392ac2c24ac"
+                ]
+            },
+            {
+                "text": "As per Document 23, scientists from the University of Helsinki have concluded that dogs can identify patients with coronavirus using their sense of smell, after several weeks of training",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "313",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "Insomnia, or the inability to get a good night's sleep, can have serious consequences for one's heart health.",
+                "citations": []
+            },
+            {
+                "text": "Research has shown that people who experience sleep problems are at a higher risk of developing heart disease, stroke, and other brain-related diseases .",
+                "citations": [
+                    "88231b2a-1d95-4f43-992e-48143d76216c",
+                    "f269cc7f-e044-4e9c-acb7-71a61753918b"
+                ]
+            },
+            {
+                "text": "A study conducted in Taiwan found that 25% of the population suffers from sleep disorders, including insomnia, which can increase the risk of cardiovascular disease and high blood pressure .",
+                "citations": [
+                    "f269cc7f-e044-4e9c-acb7-71a61753918b"
+                ]
+            },
+            {
+                "text": "Moreover, a cardiologist has noted that poor sleep quality and insufficient sleep can increase the risk of coronary heart disease .",
+                "citations": [
+                    "2e254044-29d5-422e-b9ab-414d3c95f18d"
+                ]
+            },
+            {
+                "text": "In fact, a meta-analysis published in 2004 found that depression is an independent risk factor for coronary heart disease .",
+                "citations": [
+                    "39ab44df-2f90-41e7-92f6-f34010343d6c"
+                ]
+            },
+            {
+                "text": "Insufficient sleep has also been linked to an increased risk of heart failure, with one study finding a 20% higher risk in patients with sleep disorders .",
+                "citations": [
+                    "6ba41a46-9b7e-4325-a617-8c9ac387604b"
+                ]
+            },
+            {
+                "text": "Therefore, it is essential to establish good sleep habits to maintain optimal heart health  .",
+                "citations": [
+                    "09ade69d-e379-4d54-aaf3-083db43d1fb0",
+                    "16dff039-2c0a-4e3d-8041-da98d56ad4be"
+                ]
+            },
+            {
+                "text": "notes that sleeping 6-7 hours per night is best for one's heart, and evidence suggests that long-term sleep deprivation or long sleep periods should be avoided.",
+                "citations": []
+            },
+            {
+                "text": "Additionally, a study by Tulane University found that people with regular, good sleep habits have a 42% lower risk of heart failure than those with the worst sleep habits  .",
+                "citations": [
+                    "06eb5b51-0057-4b34-92e8-c32159624fe4",
+                    "8a6b7b50-6cc6-47a9-a0c3-d81fad354256"
+                ]
+            },
+            {
+                "text": "further highlights the importance of sleep for heart health, stating that insomnia can lead to a series of physical diseases, including cardiovascular disease, and a lack of sleep can also lead to cognitive decline and cognitive decline .",
+                "citations": [
+                    "9cb45d85-44ee-40a2-b74d-9459b8296092"
+                ]
+            },
+            {
+                "text": "mentions that \"social jet lag\" which can increase the risk of cardiovascular disease by 11% and can reduce insulin sensitivity, leading to diabetes and blood sugar levels becoming too high.",
+                "citations": []
+            },
+            {
+                "text": "Therefore, it is crucial to establish a consistent sleep schedule and create a sleep-conducive environment to prevent insomnia and promote overall heart health ..",
+                "citations": [
+                    "e20fccd9-a378-49e3-887a-d1d3ae35eb72",
+                    "813add4b-974a-482e-b453-924e401e07a5"
+                ]
+            },
+            {
+                "text": "In conclusion, insomnia is a significant risk factor for cardiovascular disease, and it is essential to take steps to prevent insomnia and maintain good sleep habits to promote optimal heart health .",
+                "citations": [
+                    "9c2fcebe-7b52-4f35-87ed-1608ff121e29",
+                    "3b6ae0ea-becd-4433-bda6-69aaee463d2d"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "09ade69d-e379-4d54-aaf3-083db43d1fb0",
+                    "e6dbeb20-78ea-4a6f-b3ab-7f907bcacd09"
+                ]
+            },
+            {
+                "text": "notes that the direct light source of mobile phones passing through the retina has effects on melatonin, systemic melatonin, and melatonin receptors, which can impact sleep quality and heart health.",
+                "citations": []
+            },
+            {
+                "text": "Therefore, it is recommended to avoid using mobile phones before bedtime to promote better sleep quality .",
+                "citations": [
+                    "9162c5a0-ab40-4c66-ab23-44d202a76cf2",
+                    "5f32c77d-6864-4082-8c4c-63135db77045"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "e9f7e95a-f1fd-4e26-99f3-f2d2c36e4248"
+                ]
+            },
+            {
+                "text": "mentions that the number of people with insomnia in Taiwan may",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "313",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "For people with insomnia, the risk of cardiovascular disease is significantly higher.",
+                "citations": []
+            },
+            {
+                "text": "According to a study from the University of Illinois , a lack of sleep is associated with obesity, hypertension, and various cardiovascular diseases .",
+                "citations": [
+                    "b739f72d-6d0b-449c-a0ea-5f1a01124c7b"
+                ]
+            },
+            {
+                "text": "Scientists from the University of Pennsylvania  found that sleep disorders can lead to coronary heart disease and other cardiovascular problems, with individuals who experience sleep disturbances three nights a week being 35% more likely to become obese and 54% more likely to develop diabetes.",
+                "citations": [
+                    "38a25701-e19b-4039-9333-cd361b02b138"
+                ]
+            },
+            {
+                "text": "Furthermore, researchers from the Norwegian University of Natural Sciences and Technology  discovered that middle-aged men and women who regularly have trouble sleeping have a 45% higher risk of having a sudden heart attack than those who don't get enough sleep.",
+                "citations": [
+                    "ba4caaae-3c76-4644-afc2-44718b514f2d"
+                ]
+            },
+            {
+                "text": "A study conducted by Chinese scientists  showed that daytime sleep lasting over an hour increases the risk of cardiovascular disease and death by 30%, specifically for people who slept at least six hours at night.",
+                "citations": [
+                    "390b0f2e-f1b9-4b29-9b1b-63e83a47fc36"
+                ]
+            },
+            {
+                "text": "Overall, the relationship between insomnia and cardiovascular disease is evident, with studies consistently showing that a lack of sleep increases the risk of heart problems .",
+                "citations": [
+                    "c8a4f5d0-1eb7-42ab-9c79-505ce8c0996e",
+                    "9dfc4daa-a20e-4d13-a3c6-a13c0bd8d645"
+                ]
+            },
+            {
+                "text": "This highlights the importance of prioritizing sleep for cardiovascular health .",
+                "citations": [
+                    "d9c75789-470d-4442-8693-1bfa7adb556c",
+                    "efcab5a0-9746-4aa7-9bb5-88495cae81b7"
+                ]
+            },
+            {
+                "text": "Insomnia increases the risk of coronary heart disease, heart failure, and stroke, and even a few nights of poor sleep can have negative effects on the heart .",
+                "citations": [
+                    "dcb9f249-fb96-4784-aa42-f341c31e3e52",
+                    "405c2b87-766b-4c68-9f6d-3a2eec4984ef"
+                ]
+            },
+            {
+                "text": "The impact of short or shallow sleep on heart diseases has been reported in recent reports, but cognitive behavioral psychotherapy can help with insomnia  .",
+                "citations": [
+                    "578a1665-af1e-43db-8569-c8a34e81fda4",
+                    "e70f119c-df98-43ae-8f69-2bd336f4d138"
+                ]
+            },
+            {
+                "text": "Cardiologists have emphasized the importance of getting 7-8 hours of uninterrupted sleep each night to maintain heart health .",
+                "citations": [
+                    "5b296d1e-0f31-4fb0-950d-b809010edb85"
+                ]
+            },
+            {
+                "text": "A healthy sleep pattern reduced the risk of heart failure by 42% .",
+                "citations": [
+                    "a0c8796e-b838-4ac0-bd61-a26294c5b5ba"
+                ]
+            },
+            {
+                "text": "Lack of healthy sleep is associated with obesity, hypertension, and other deadly diseases, and can also lead to an increase in the production of a toxic protein in the brain called beta-amyloid, which is associated with Alzheimer's disease .",
+                "citations": [
+                    "d1ca5cee-bba2-4508-8d84-77be926f93db"
+                ]
+            },
+            {
+                "text": "Therefore, it is essential for individuals to establish a consistent sleep schedule and maintain a healthy sleep environment to minimize the risk of heart problems.",
+                "citations": []
+            },
+            {
+                "text": "Researchers also found that a positive attitude is associated with better sleep quality, which further reduces the risk of heart disease .",
+                "citations": [
+                    "57aa4723-838e-4357-8bc8-d8110ce4bbda"
+                ]
+            },
+            {
+                "text": "Overall, the evidence points to a strong connection between insomnia and cardiovascular disease, and it is crucial for people to prioritize sleep for optimal heart health .",
+                "citations": [
+                    "3fdb9a75-eb04-4321-a023-8e791b82f6c4",
+                    "38a25701-e19b-4039-9333-cd361b02b138"
+                ]
+            },
+            {
+                "text": "Lack of sleep has been linked to various cardiovascular diseases, including heart attacks, strokes, and coronary heart disease, and even",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "315",
+        "run_id": "fas_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/fas"
+        ],
+        "sentences": [
+            {
+                "text": "I am delighted to submit my report on plastic-eating enzymes produced by bacteria or fungi, which act on polyethylene terephthalate (PET) .",
+                "citations": [
+                    "0a4317c3-8feb-47ba-bcb6-e3e9a84a41e0",
+                    "f00e234e-2953-4590-8ca1-f86a457516df"
+                ]
+            },
+            {
+                "text": "These enzymes have the ability to break down PET plastic in just a few days, accelerating its ability to break down said plastic .",
+                "citations": [
+                    "de843d92-c188-43cb-b2eb-78580bb48d54"
+                ]
+            },
+            {
+                "text": "British researchers have engineered an enzyme that can break down plastic waste at a significant speed using a bacterium known as \"Ideonella sakaiensis\" .",
+                "citations": [
+                    "f00e234e-2953-4590-8ca1-f86a457516df"
+                ]
+            },
+            {
+                "text": "This enzyme's development as a potential anti-pollution solution is still in its infancy, but experts say it has great potential to help society's growing waste problem by recycling some common plastics .",
+                "citations": [
+                    "d91d27e8-792f-42d6-8fa2-eb0d6e6111c3"
+                ]
+            },
+            {
+                "text": "Plastic-eating enzymes are bacteria or fungi that destroy polymers, but it is still necessary to focus on recycling polymers to fight microplastic pollution .",
+                "citations": [
+                    "dd422539-f65c-4a5b-a317-ced492d1b1ff"
+                ]
+            },
+            {
+                "text": "This discovery could be a new way to recycle millions of tons of plastic, which often takes more than a century to recycle .",
+                "citations": [
+                    "936c722a-970f-423f-ac6b-e1ebc598caa8"
+                ]
+            },
+            {
+                "text": "The enzyme will act on PET, which can start breaking down in just a few days .",
+                "citations": [
+                    "de843d92-c188-43cb-b2eb-78580bb48d54"
+                ]
+            },
+            {
+                "text": "The use of cow rumen bacteria can digest certain types of materials, including plastic, which can be a sustainable way to reduce plastic litter .",
+                "citations": [
+                    "e2c2627b-0f37-44d7-b2f7-d8dc86a11b01"
+                ]
+            },
+            {
+                "text": "The digestive fluids of cows have the ability to decompose three types of plastics: PET, PBAT, and PEF, according to a new research .",
+                "citations": [
+                    "a9a39b48-084e-4543-a06d-256fc92a8c54"
+                ]
+            },
+            {
+                "text": "Researchers have made an enzyme that can digest the plastics used in beverage bottles, which could be a new way to recycle millions of tons of plastic .",
+                "citations": [
+                    "936c722a-970f-423f-ac6b-e1ebc598caa8"
+                ]
+            },
+            {
+                "text": "However, it's worth noting that plastic-eating enzymes in bacteria create huge masses of plastic in the oceans, according to new research .",
+                "citations": [
+                    "be8dbcbd-1eed-42b8-936a-956bc20190d8"
+                ]
+            },
+            {
+                "text": "Microplastics are plastic particles with a diameter of 5 mm or smaller that are released into nature every year, with car tires being the biggest cause .",
+                "citations": [
+                    "93b6c022-9bd8-42fc-bf8d-7f1d4eac2738"
+                ]
+            },
+            {
+                "text": "Therefore, it's essential to focus on reducing plastic litter and microplastics in our environment .",
+                "citations": [
+                    "dd422539-f65c-4a5b-a317-ced492d1b1ff"
+                ]
+            },
+            {
+                "text": "Overall, plastic-eating enzymes produced by bacteria or fungi have the potential to greatly reduce the need to use oil to produce plastic and can be used to make plastic biodegradable .",
+                "citations": [
+                    "f1d70715-acf3-464d-9b75-008a1884af47"
+                ]
+            },
+            {
+                "text": "I believe that this technology has a significant role to play in reducing plastic pollution and mitigating the environmental impact of plastic waste .",
+                "citations": [
+                    "dd422539-f65c-4a5b-a317-ced492d1b1ff"
+                ]
+            },
+            {
+                "text": "It's worth noting that the use of plastic-eating enzymes in combination with other technologies, such as recycling and biodegradable materials, can help to address the global challenge of plastic waste .",
+                "citations": [
+                    "dd422539-f65c-4a5b-a317-ced492d1b1ff"
+                ]
+            },
+            {
+                "text": "I hope that this report will be useful for other",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "318",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "The U.S. government under President Trump made the decision to withdraw troops from Somalia by January 2021 .",
+                "citations": [
+                    "ded814b6-abaa-4e03-ac82-ca84c4cb9562"
+                ]
+            },
+            {
+                "text": "President Trump ordered the withdrawal of most U.S. troops from Somalia by early 2021,  a decision that reflects his desire to withdraw troops from overseas wars and fulfill his campaign promises .",
+                "citations": [
+                    "589811e6-1be7-4160-9801-703f9d390640",
+                    "da7087d9-2ea2-447d-85cd-39b0fb2746a8"
+                ]
+            },
+            {
+                "text": "The U.S. military has transitioned to a contraction strategy and withdrawn its troops from many countries in East Africa and the Middle East, including Somalia .",
+                "citations": [
+                    "30456dd2-b93d-4053-98f6-75e6f8e3379f"
+                ]
+            },
+            {
+                "text": "The withdrawal is the latest major military decision issued by Trump before he stepped down .",
+                "citations": [
+                    "ded814b6-abaa-4e03-ac82-ca84c4cb9562"
+                ]
+            },
+            {
+                "text": "Some U.S. troops will be redeployed to neighboring countries to continue cross-border operations and put pressure on violent extremists operating in Somalia .",
+                "citations": [
+                    "be9a2984-d74c-4dc4-abd7-896eb6a90ddb"
+                ]
+            },
+            {
+                "text": "The U.S. will retain its military bases in Kenya and Djibouti, from where U.S. drones fly to carry out strikes in Somalia .",
+                "citations": [
+                    "be9a2984-d74c-4dc4-abd7-896eb6a90ddb"
+                ]
+            },
+            {
+                "text": "Most of the 700 troops stationed in Somalia will be withdrawn and moved to bases in Kenya and Djibouti, and enter Somalia for short-term counterterrorism missions against al-Shabaab and a smaller group of Islamic State militants .",
+                "citations": [
+                    "30456dd2-b93d-4053-98f6-75e6f8e3379f",
+                    "198f87c1-b24d-4f1b-9b1c-0233b7d6d170"
+                ]
+            },
+            {
+                "text": "The US military and partner countries will continue to conduct cross-border military operations against violent extremist organizations in Somalia, although the US military's ability to conduct operations in the region may be affected by the withdrawal .",
+                "citations": [
+                    "589811e6-1be7-4160-9801-703f9d390640"
+                ]
+            },
+            {
+                "text": "The US Department of Defense stated that the United States will still retain the ability to conduct targeted counter-terrorism operations in Somalia and collect early warnings and signs of threats to the homeland,  but critics say this decision may have negative consequences .",
+                "citations": [
+                    "e2bfaee3-1c1d-4e57-a05a-c6de62cb04d1",
+                    "fb012755-d05d-48b8-946f-24d3f674f37f"
+                ]
+            },
+            {
+                "text": "Some experts have compared the withdrawal to the humiliating US withdrawal from Saigon, Vietnam in 1975,  and there are concerns that the withdrawal may reduce Somalia's ability to fight extremist organizations .",
+                "citations": [
+                    "9f21e7e2-f2ca-4e41-a452-8583d09cb1fe",
+                    "fe128b6e-31e6-45b8-8b6b-2172018b5f7e"
+                ]
+            },
+            {
+                "text": "The exact reasons behind President Trump's decision to withdraw troops from Somalia are not entirely clear, but it is believed to be part of a broader trend of the US military's redeployment and contraction strategy in the region .",
+                "citations": [
+                    "da7087d9-2ea2-447d-85cd-39b0fb2746a8"
+                ]
+            },
+            {
+                "text": "The US is not withdrawing from Africa, and will continue to have a military presence in the region, with military bases in Kenya and Djibouti .",
+                "citations": [
+                    "30456dd2-b93d-4053-98f6-75e6f8e3379f"
+                ]
+            },
+            {
+                "text": "The withdrawal is a significant development in the history of US involvement in Somalia, and it has been met with mixed reactions from various stakeholders .",
+                "citations": [
+                    "be9a2984-d74c-4dc4-abd7-896eb6a90ddb",
+                    "0ef6647b-9e4e-45e0-b377-df200c6baa87"
+                ]
+            },
+            {
+                "text": "Despite the concerns and criticisms surrounding the withdrawal, the US military and its partners will continue to operate in the",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "318",
+        "run_id": "fas_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/fas"
+        ],
+        "sentences": [
+            {
+                "text": "The United States withdrew most of its troops from Somalia in January 2021 as part of a broader reduction in forces abroad .",
+                "citations": [
+                    "c717c28f-65d0-4134-9f54-41b9f27f9ec4",
+                    "d6fc2094-14f6-45e7-83dc-f5925dfbe289"
+                ]
+            },
+            {
+                "text": "President Donald Trump ordered the withdrawal of most American forces from Somalia in an order to the Pentagon, which is in line with the plan to reduce US military forces abroad .",
+                "citations": [
+                    "cf3dab3c-30f2-4128-a2f2-ca9900b04f6a",
+                    "5382bc89-6c59-40d2-b2e6-0688e970452e"
+                ]
+            },
+            {
+                "text": "The majority of US troops left Somalia by January 15, and only a small group of US troops remained in Mogadishu .",
+                "citations": [
+                    "b711f255-2c52-4935-85de-2db4e1001a7b",
+                    "bdc23826-8a9b-431b-b78e-fded960fea0b"
+                ]
+            },
+            {
+                "text": "The US decision to withdraw troops from Somalia was compared to the withdrawal from Afghanistan in December 2020, which was postponed due to the need for presidential authority .",
+                "citations": [
+                    "0752f4c6-c5bc-4997-8143-d5156579384d",
+                    "07bd688f-243f-4432-847e-88de510b825c"
+                ]
+            },
+            {
+                "text": "The decision to withdraw troops from Somalia has been met with opposition from some, who have warned that the withdrawal will have a profound effect on efforts to deal with Islamist militias and ISIS in the region .",
+                "citations": [
+                    "abb60e7c-107f-4749-a57d-965bbb098034",
+                    "69528bc2-5c5e-4e7b-80d0-74e362f835df"
+                ]
+            },
+            {
+                "text": "The US has stated that the withdrawal will not change US policy in Africa and that some forces may be given new missions in East Africa .",
+                "citations": [
+                    "c717c28f-65d0-4134-9f54-41b9f27f9ec4",
+                    "c81eaa2a-a7e8-4581-8048-8b7188e5c8c9"
+                ]
+            },
+            {
+                "text": "The withdrawal of most of the US forces from Somalia is expected to take place by the beginning of 2021, with some of the forces likely stationed in other countries and possibly in neighboring countries of Somalia .",
+                "citations": [
+                    "5382bc89-6c59-40d2-b2e6-0688e970452e",
+                    "2af98ad9-9e91-4fab-87e6-f7ffe893adaf"
+                ]
+            },
+            {
+                "text": "The decision to withdraw US forces from Somalia is seen by some as part of a broader pattern of the US pulling back from global military commitments .",
+                "citations": [
+                    "ac20da19-0826-472d-b8bf-10f7408b83f6",
+                    "549bb86d-f589-4540-b89d-cae8e558094c"
+                ]
+            },
+            {
+                "text": "The US has stated that the withdrawal will not end its commitments in Africa .",
+                "citations": [
+                    "cf3dab3c-30f2-4128-a2f2-ca9900b04f6a",
+                    "453618ad-d4e2-4063-a25f-5874aec2cd81"
+                ]
+            },
+            {
+                "text": "The decision to withdraw troops from Somalia was made by Trump in response to an attack on a base affiliated with al-Shabaab near Sako in Somalia .",
+                "citations": [
+                    "2af98ad9-9e91-4fab-87e6-f7ffe893adaf",
+                    "bd9e9598-b600-47ee-ab63-9ac795bbafbf"
+                ]
+            },
+            {
+                "text": "The withdrawal of most of the US forces from Somalia is seen as an opportunity to refocus US military efforts in Yemen, to prevent further Chinese influence in Djibouti, and to combat terrorist groups in the region .",
+                "citations": [
+                    "c9c73af3-921d-458e-84d5-c07387c0be65",
+                    "01adca18-e213-4b5b-904e-9380cb2e0d15"
+                ]
+            },
+            {
+                "text": "The US decision to withdraw troops from Somalia has been announced by the Pentagon, and some US officials have blocked a Chinese conspiracy to block the implementation of an order by former US President Donald Trump to withdraw troops .",
+                "citations": [
+                    "0752f4c6-c5bc-4997-8143-d5156579384d",
+                    "73dbd8e1-f3f1-4fa9-9fcd-43e1f18b0a5e"
+                ]
+            },
+            {
+                "text": "The US has approximately 700 troops in Somalia, who are conducting operations against the al-Shabaab militant group .",
+                "citations": [
+                    "ad40b196-59cf-48da-a71c-855a764e088d",
+                    "955086e7-d020-42a2-82b5-ecc8c8d862f0"
+                ]
+            },
+            {
+                "text": "The US has stated that it will maintain a limited establishment in Mogadishu as part of its counter-terrorism efforts in the region .",
+                "citations": [
+                    "5382bc89-6c59-40d2-b2e6-0688e970452e",
+                    "453618ad-d4e2-4063-a25f-5874aec2cd81"
+                ]
+            },
+            {
+                "text": "The withdrawal of most of the US forces from Somalia is part of a broader reduction in US forces in Africa and",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "320",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "In the past few years, China has been actively promoting the development of new energy vehicles, with the goal of reducing air pollution and supporting the development of the industry .",
+                "citations": [
+                    "6a5ef9b4-1e47-4108-9a63-0e1d055ada4d"
+                ]
+            },
+            {
+                "text": "According to the new energy vehicle industry development plan (2021-2035), the sales of new energy vehicles will account for 20% of the total vehicle sales in 2025, and the Chinese government has set a target to accelerate the marketization process of new energy vehicles .",
+                "citations": [
+                    "2f90c308-f4b1-4cdc-8b7d-632b3f37f0dc"
+                ]
+            },
+            {
+                "text": "The development of new energy vehicles has caused changes in the automobile industry, with the rise of new forces such as Tesla and the expansion of technology leaders such as Internet and semiconductors .",
+                "citations": [
+                    "9c1fdb81-fee4-4ff6-a7e0-aca4f1ccc2d0"
+                ]
+            },
+            {
+                "text": "However, the Chinese government plans to put more pressure on automakers through a new \"emissions trading\" system that will make it more difficult for manufacturers to open factories to make gasoline-powered vehicles .",
+                "citations": [
+                    "6a5ef9b4-1e47-4108-9a63-0e1d055ada4d"
+                ]
+            },
+            {
+                "text": "The new energy vehicle industry in mainland China is growing rapidly, with production and sales reaching 794,000 and 777,000 respectively in 2017, ranking first in the world for the third consecutive year .",
+                "citations": [
+                    "d6ba07c2-ac50-4c81-a2fe-c9ff59602dab"
+                ]
+            },
+            {
+                "text": "Despite the government's reduction in subsidies, the industry is expected to grow by more than 40% in the next five years, with the proportion of new vehicles expected to exceed 20% by 2025 .",
+                "citations": [
+                    "1c420d30-b9be-4569-84ea-d65a967c1020"
+                ]
+            },
+            {
+                "text": "The Chinese government has also issued a plan to promote the development of new energy vehicles, with a target of 20% of total sales by 2025 .",
+                "citations": [
+                    "1f5aa8d9-65a6-488a-bb0e-9134ca7e7a9a"
+                ]
+            },
+            {
+                "text": "The development of new energy vehicles has a positive impact on the environment, with afforestation activities in various provinces absorbing an average of 1.11 billion tons of carbon per year from 2010 to 2016 .",
+                "citations": [
+                    "f0514ca6-ba4c-44d3-874f-2ddf345b9d8b"
+                ]
+            },
+            {
+                "text": "Taiwan's automobile industry chain is attracting more market attention due to China's exhaust emission standards, but the global auto market has fallen into a sluggish environment, with global automobile sales this year falling by 1.3% .",
+                "citations": [
+                    "6aa82f73-ed0d-46e2-b622-d12e12c07da1"
+                ]
+            },
+            {
+                "text": "Mainland China is the world's largest producer and seller of electric vehicles, with sales reaching 2 million units in 2020 .",
+                "citations": [
+                    "4f21254a-78c5-4870-972f-5c711fb3aecc"
+                ]
+            },
+            {
+                "text": "The Zhilian New Energy Vehicle Industrial Park has been launched with an investment of 45 billion yuan and plans to build a new energy vehicle production capacity of 400,000 vehicles per year .",
+                "citations": [
+                    "2c3b67dd-2b2a-44d2-89f8-c9b398a813b0"
+                ]
+            },
+            {
+                "text": "NIO and Xpeng, China's new car-making forces, announced annual growth rates of more than 4 times in the first quarter, stimulating the rise of related concept stocks and setting off a price comparison effect .",
+                "citations": [
+                    "b8a65977-6c72-4d89-b9f4-16f7a83c7f96"
+                ]
+            },
+            {
+                "text": "The Ministry of Industry and Information",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "320",
+        "run_id": "fas_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/fas"
+        ],
+        "sentences": [
+            {
+                "text": "In China, the sale of electric vehicles has seen a significant increase, with an 80% growth in the first half of 2018, making it a leader in the electric vehicle market in Asia .",
+                "citations": [
+                    "2bb1dcf6-d87c-4969-894a-f5d2ea3460de"
+                ]
+            },
+            {
+                "text": "The Chinese government has allocated subsidies for the sale of electric vehicles to combat the impact of the corona epidemic , and has taken steps to increase infrastructure development, including charging stations .",
+                "citations": [
+                    "101c4e0d-c8e6-4dc2-b23f-5c04c0c78c8a",
+                    "9051b5bc-e315-4406-b298-2e9d75d2f214"
+                ]
+            },
+            {
+                "text": "According to reports, 1.18 million electric vehicles were sold in China in 2019 , and several Chinese companies, including BYD and Chery, have been at the forefront of electric vehicle production .",
+                "citations": [
+                    "3bb0531d-c1ae-42d1-9101-8d8aaa095069",
+                    "a6342ff9-af05-456a-b6c0-5f622a446dc5"
+                ]
+            },
+            {
+                "text": "Non-Chinese companies, such as Volkswagen, are also investing in the Chinese market, with plans to provide home charging for customers .",
+                "citations": [
+                    "fc421d4a-6e3e-4d8d-af67-87b54a1b40cc"
+                ]
+            },
+            {
+                "text": "The Chinese government's incentives and infrastructure development have had a significant impact on the environment, with many countries around the world planning to follow China's lead in transitioning to electric vehicles .",
+                "citations": [
+                    "f8f46d2e-44eb-451f-965a-2b4f3c2d633a",
+                    "e889c19c-ecdd-418a-8086-a633a1171796"
+                ]
+            },
+            {
+                "text": "Overall, China's electric vehicle industry is growing rapidly, with a projected 50% increase in sales over the next five years  .",
+                "citations": [
+                    "a050d173-f1d6-4f00-848e-072a6e117533",
+                    "a5489cc8-84cc-4aab-a365-2cc0292914cc"
+                ]
+            },
+            {
+                "text": "supports the notion that electric cars are growing more in Asia than in other regions due to the population and the existence of domestic and foreign companies in the region.",
+                "citations": []
+            },
+            {
+                "text": "As for companies that have started developing electric vehicles, document  supports the claim that Huawei and Chery are developing electric vehicles in China .",
+                "citations": [
+                    "5be3ff26-ce84-48b2-8145-1e944eefed56",
+                    "396b47e2-8427-433b-b26a-8ee8c42d560f"
+                ]
+            },
+            {
+                "text": "supports the claim that the sales numbers of electric vehicles in China are increasing .",
+                "citations": [
+                    "396b47e2-8427-433b-b26a-8ee8c42d560f"
+                ]
+            },
+            {
+                "text": "and  support the claim that BYD is the largest producer of electric vehicles in the world .",
+                "citations": [
+                    "7a5b53e7-bc0b-4994-aa17-c8e7a6cb5032",
+                    "f8f46d2e-44eb-451f-965a-2b4f3c2d633a"
+                ]
+            },
+            {
+                "text": "supports the claim that other countries are planning to ban gasoline and diesel cars.",
+                "citations": []
+            },
+            {
+                "text": "Finally, according to document  and , companies like Volkswagen and the Chinese government are encouraging the use of electric vehicles through subsidies and advertisements ..",
+                "citations": [
+                    "fc421d4a-6e3e-4d8d-af67-87b54a1b40cc",
+                    "fe6974b1-118c-4a81-a33a-2185ecddcf52"
+                ]
+            },
+            {
+                "text": "In fact, it can be argued that the Chinese government's support of the industry through subsidies and incentives is playing a crucial role in encouraging people to buy electric vehicles .",
+                "citations": [
+                    "dccb8ed1-027a-4261-9b8c-76a983d7eb0f",
+                    "5a9709e6-b109-4acf-91c3-d8f2747167ac"
+                ]
+            },
+            {
+                "text": "As mentioned in document , Huawei has started selling its hybrid-electric SUV, the SF5, in China, and document  also supports the fact that other companies, like Mercedes-Benz and Volkswagen, have also entered the electric vehicle market in China with the hope of increasing their share of the market.",
+                "citations": [
+                    "0d7816bd-87aa-4a27-a9e2-9d939b049b63",
+                    "a5489cc8-84cc-4aab-a365-2cc0292914cc"
+                ]
+            },
+            {
+                "text": "The fact that 1.18 million electric",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "328",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "The Singapore Summit 2018 Joint Statement between U.S. President Trump and North Korean leader Kim Jong-un included several significant agreements, including the establishment of a new relationship between the two nations and the commitment to complete denuclearization of the Korean Peninsula .",
+                "citations": [
+                    "7f53394f-f3dd-4e9a-b964-6e5dcf77e7d2",
+                    "7709195c-f2e5-4abc-a86e-81d009f4fb1c"
+                ]
+            },
+            {
+                "text": "The statement also emphasized the importance of building mutual trust and promoting peace and security in the region  .",
+                "citations": [
+                    "7f53394f-f3dd-4e9a-b964-6e5dcf77e7d2",
+                    "7709195c-f2e5-4abc-a86e-81d009f4fb1c"
+                ]
+            },
+            {
+                "text": "However, despite the optimism surrounding the summit, the dialogue between the U.S. and North Korea has stalled since then, and the two leaders have not met since the summit  .",
+                "citations": [
+                    "60d89bcd-dd85-4def-909b-58a520823215",
+                    "7f53394f-f3dd-4e9a-b964-6e5dcf77e7d2"
+                ]
+            },
+            {
+                "text": "The statement also contained language that was perceived as a victory for North Korea, with Kim Jong-un committing to denuclearize only in exchange for U.S. concessions  .",
+                "citations": [
+                    "7f53394f-f3dd-4e9a-b964-6e5dcf77e7d2",
+                    "fa463930-d1bf-423e-a870-98ceb2c764c3"
+                ]
+            },
+            {
+                "text": "The summit marked a historic moment in the relationship between the U.S. and North Korea, but its significance and impact are still being debated  .",
+                "citations": [
+                    "7f53394f-f3dd-4e9a-b964-6e5dcf77e7d2",
+                    "fa463930-d1bf-423e-a870-98ceb2c764c3"
+                ]
+            },
+            {
+                "text": "The statement was also notable for its vagueness, with many observers feeling that it did not provide a clear roadmap for denuclearization  .",
+                "citations": [
+                    "60d89bcd-dd85-4def-909b-58a520823215",
+                    "20b3e5de-8e6d-4c5f-8b28-9a704ef4a7cf"
+                ]
+            },
+            {
+                "text": "Despite the challenges and setbacks, the summit remains an important moment in the history of the Korean Peninsula and a reminder of the complex and often fraught relationship between the U.S. and North Korea  .",
+                "citations": [
+                    "7f53394f-f3dd-4e9a-b964-6e5dcf77e7d2",
+                    "fa463930-d1bf-423e-a870-98ceb2c764c3"
+                ]
+            },
+            {
+                "text": "The summit's legacy is still being felt, with many analysts and commentators continuing to assess its impact and significance  .",
+                "citations": [
+                    "437c40cd-8715-4b1e-920d-fadfd404fdd7",
+                    "60d89bcd-dd85-4def-909b-58a520823215"
+                ]
+            },
+            {
+                "text": "The summit also highlighted the challenges of working with North Korea, which has a history of unpredictability and miscommunication  .",
+                "citations": [
+                    "437c40cd-8715-4b1e-920d-fadfd404fdd7",
+                    "a7cec680-6715-4833-9222-443899621195"
+                ]
+            },
+            {
+                "text": "The statement was also seen as a victory for Singapore, which hosted the summit and demonstrated its diplomatic prowess  .",
+                "citations": [
+                    "7f53394f-f3dd-4e9a-b964-6e5dcf77e7d2",
+                    "20b3e5de-8e6d-4c5f-8b28-9a704ef4a7cf"
+                ]
+            },
+            {
+                "text": "The summit's aftermath also saw a significant shift in the international relations, with China and the U.S. competing for influence in the region  .",
+                "citations": [
+                    "7f53394f-f3dd-4e9a-b964-6e5dcf77e7d2",
+                    "fa463930-d1bf-423e-a870-98ceb2c764c3"
+                ]
+            },
+            {
+                "text": "The summit also marked a turning point in the Sino-U.S. trade war, with the statement emphasizing the need for cooperation and mutual understanding  .",
+                "citations": [
+                    "437c40cd-8715-4b1e-920d-fadfd404fdd7",
+                    "a7cec680-6715-4833-9222-443899621195"
+                ]
+            },
+            {
+                "text": "The summit's legacy is still being felt, with many analysts and commentators continuing to assess its impact and significance  .",
+                "citations": [
+                    "60d89bcd-dd85-4def-909b-58a520823215",
+                    "20b3e5de-8e6d-4c5f-8b28-9a704ef4a7cf"
+                ]
+            },
+            {
+                "text": "The summit also highlighted the challenges of working with North Korea, which has a history of unpredict",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "328",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "The Joint Statement released after the historic US-North Korea Summit in Singapore in 2018 outlined the prospects for achieving peace on the Korean Peninsula, as outlined in the Singapore Summit 2018 Joint Statement .",
+                "citations": [
+                    "d91ce939-45e0-43a4-a076-aedd07d23571",
+                    "d86c5bdc-0669-4691-9ba1-8d0582ea8225"
+                ]
+            },
+            {
+                "text": "According to the joint statement, Pyongyang announced its readiness to completely denuclearize the Korean Peninsula, while the US pledged to provide security guarantees to the DPRK in return .",
+                "citations": [
+                    "0e7d91f2-9e60-4c33-b70a-d3123ea2c3f8",
+                    "99696879-a0b9-4bc2-801c-d63b2f71164f"
+                ]
+            },
+            {
+                "text": "The joint statement was adopted at the Singapore Summit in June 2018 and was a historic event that marked a significant step forward in the peace process on the peninsula .",
+                "citations": [
+                    "64652263-cb5a-431b-8554-9832721fc699",
+                    "8e5832c6-a601-42b2-b197-d6a9719f98f5"
+                ]
+            },
+            {
+                "text": "However, experts say the summit did not achieve much of what could have been hoped for, but the results are nevertheless a useful step forward .",
+                "citations": [
+                    "67012efe-f47b-42da-bec0-2accf988d927"
+                ]
+            },
+            {
+                "text": "US President Donald Trump has promised to stop joint military exercises with the Republic of Korea in the Korean Peninsula in support of the agreement reached at negotiations with the DPRK in Singapore .",
+                "citations": [
+                    "77c2082d-2d0d-4521-8a23-a2ff1da1a934",
+                    "ac94c7f8-2183-4950-841d-c95dcc721725"
+                ]
+            },
+            {
+                "text": "The DPRK warned that they may abandon denuclearization due to US pressure, but expressed hope that Washington will understand that maximum pressure on Pyongyang will not produce results .",
+                "citations": [
+                    "57a13b2d-0635-4ee5-92e3-d2e5262c8307"
+                ]
+            },
+            {
+                "text": "The success of negotiations with the United States depends on the wisdom and determination of President Trump, according to a statement by the DPRK Foreign Ministry .",
+                "citations": [
+                    "7ca41ebe-5667-4279-9659-0e41f29f03ad"
+                ]
+            },
+            {
+                "text": "Despite some challenges, the joint statement has been a significant development in the peace process and has the potential to pave the way for future progress .",
+                "citations": [
+                    "1b374043-150f-4fd6-8afa-96df09c38e90"
+                ]
+            },
+            {
+                "text": "According to the US State Department, North Korea has not conducted additional nuclear tests since signing the joint statement .",
+                "citations": [
+                    "1845e1c1-e1ce-4288-943f-ee2d2272b20c"
+                ]
+            },
+            {
+                "text": "The Singapore Summit 2018 Joint Statement is a formal agreement between the two countries that contains significant stories about the importance of freedom of navigation and flights in the South China Sea  and the free trade agreement between the EU and Singapore .",
+                "citations": [
+                    "2e8b389a-f680-4f21-93f4-19237ac1a328",
+                    "3bdccb6f-85a0-4a31-83a3-e8a63a933509"
+                ]
+            },
+            {
+                "text": "The success of the joint statement depends on the willingness of both parties to take practical measures to implement the agreements reached at previous meetings .",
+                "citations": [
+                    "7ca41ebe-5667-4279-9659-0e41f29f03ad"
+                ]
+            },
+            {
+                "text": "Overall, the Singapore Summit 2018 Joint Statement has been a significant development in the peace process on the Korean Peninsula and has the potential to pave the way for future progress  .",
+                "citations": [
+                    "d86c5bdc-0669-4691-9ba1-8d0582ea8225",
+                    "64652263-cb5a-431b-8554-9832721fc699"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "99696879-a0b9-4bc2-801c-d63b2f71164f",
+                    "d86c5bdc-0669-4691-9ba1-8d0582ea8225"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "57a13b2d-0635-4ee5-92e3-d2e5262c8307",
+                    "ac94c7f8-2183-4950-841d-c95dcc721725"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "1b374043-150f-4fd6-8afa-96df09c38e90",
+                    "1845e1c1-e1ce-4288-943f-ee2d2272b20c"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "d91ce939-45e0-43a4-a076-aedd07d23571"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "0549cc86-f396-4799-9fa9-6460f4b88afa"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "d91ce939-45e0-43a4-a076-aedd07d23571",
+                    "d86c5bdc-0669-4691-9ba1-8d0582ea8225"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "7ca41ebe-5667-4279-9659-0e41f29f03ad",
+                    "0e7d91f2-9e60-4c33-b70a-d3123ea2c3f8"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "99696879-a0b9-4bc2-801c-d63b2f71164f",
+                    "d86c5bdc-0669-4691-9ba1-8d0582ea8225"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "2e8b389a-f680-4f21-93f4-19237ac1a328",
+                    "3bdccb6f-85a0-4a31-83a3-e8a63a933509"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "7ca41ebe-5667-4279-9659-0e41f29f03ad"
+                ]
+            },
+            {
+                "text": "[",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "330",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "26 Tasmanian devils have been reintroduced into the wild in Australia to fight for their survival and restore the forest ecology, with the hope of increasing their population and preventing extinction .",
+                "citations": [
+                    "781c52bb-59ea-4d18-a89e-f80bb3f94b81"
+                ]
+            },
+            {
+                "text": "The reintroduction process has seen assistance from dogs, which are being used to detect pheromones in female Tasmanian devils, improving the success rate of artificial rehabilitation .",
+                "citations": [
+                    "0868f656-3015-4a3a-a5e7-c8c87c3233c6"
+                ]
+            },
+            {
+                "text": "However, the introduction of Tasmanian devils in 2012 in Maria Island resulted in the death of 3,000 penguins and had a negative impact on the local ecosystem .",
+                "citations": [
+                    "dcf881ef-3768-4df9-8f67-df9d39df5dc9",
+                    "33b9e475-cae3-4871-a29c-d4ec18ce45ba"
+                ]
+            },
+            {
+                "text": "The wild Australian eastern quoll, a marsupial species that was once extinct on the mainland, has given birth for the first time in 50 years, giving a new lease of life to the species .",
+                "citations": [
+                    "eba679e4-a969-4304-b173-fd3ce60445f3"
+                ]
+            },
+            {
+                "text": "Authorities launched a 15-year plan to control the population of foxes and feral cats to ensure the survival of endangered species like the eastern quoll .",
+                "citations": [
+                    "e3760bf7-b0d7-4c48-90a9-acf255357aa1",
+                    "dc88758b-508d-492b-91e2-50f9706f14a5"
+                ]
+            },
+            {
+                "text": "In contrast to successful reintroduction efforts, the Tasmanian devil reintroduction in Australia has resulted in significant threats to other species in the ecosystem, such as the penguins and waterbirds, due to their aggressive behavior and digging habits .",
+                "citations": [
+                    "9561e27c-ec36-4868-a4c3-9050ed8262ab"
+                ]
+            },
+            {
+                "text": "As a result, conservation efforts are needed to ensure the survival of Tasmanian devils and other species in the ecosystem .",
+                "citations": [
+                    "c5c27c90-af2f-4b91-a0f5-46d81e0b505d"
+                ]
+            },
+            {
+                "text": "The reintroduction of the Tasmanian devil to the wild in Australia is an important conservation effort, but it also raises concerns about the impact on the local environment and the potential for species extinction .",
+                "citations": [
+                    "e7436db1-c5d2-48c6-8930-e246c830e999",
+                    "e3d87e0b-1afa-4b05-8bbf-2c62ad26e295"
+                ]
+            },
+            {
+                "text": "The Australian government is working to balance the needs of different species and ecosystems, while also addressing the challenges posed by the reintroduction of the Tasmanian devil .",
+                "citations": [
+                    "97df29a1-7857-470f-ba90-a7019b30b242"
+                ]
+            },
+            {
+                "text": "In summary, the Tasmanian devil reintroduction in Australia is a complex issue that requires careful consideration and conservation efforts to ensure the long-term survival of the species and the ecosystem  .",
+                "citations": [
+                    "940cf49a-835e-44fa-a72e-f65eccae75ac",
+                    "602ac05b-ece3-48bb-8adb-d33cde248f2d"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "e7436db1-c5d2-48c6-8930-e246c830e999",
+                    "940cf49a-835e-44fa-a72e-f65eccae75ac"
+                ]
+            },
+            {
+                "text": "[22",
+                "citations": [
+                    "dcf881ef-3768-4df9-8f67-df9d39df5dc9",
+                    "c5c27c90-af2f-4b91-a0f5-46d81e0b505d"
+                ]
+            }
+        ]
+    },
+    {
+        "request_id": "330",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "In Australia, 26 Tasmanian devils were reintroduced into the wild last year, making them the first wild Tasmanian devils in Australia since they were extirpated .",
+                "citations": [
+                    "7f92987f-440a-44b0-a2ad-e5647c36668d"
+                ]
+            },
+            {
+                "text": "However, the reintroduction of Tasmanian devils on Maria Island in 2012 had catastrophic impacts on one or more bird species, with the devils destroying a colony of petrels .",
+                "citations": [
+                    "e52a5829-ae25-4ef2-88b0-820f596658cc"
+                ]
+            },
+            {
+                "text": "Despite this, conservation efforts continue, with Chris Hemsworth participating in the reintroduction of Tasmanian devils to Australia .",
+                "citations": [
+                    "716c0bb0-0fe2-46b2-ab5b-e0f365a98a37"
+                ]
+            },
+            {
+                "text": "The Tasmanian devil population is threatened by a malignant disease known as Tasmanian devil facial tumor, which has wiped out more than 80 percent of the population over the past 20 years .",
+                "citations": [
+                    "d680a459-cbbc-4102-8282-c7924d62f5b9"
+                ]
+            },
+            {
+                "text": "However, the birth of Tasmanian devils offers hope for the emergence of new populations of endangered species .",
+                "citations": [
+                    "b609d796-59f8-4f8d-bae5-b8fba31e76e6"
+                ]
+            },
+            {
+                "text": "As part of conservation efforts, Australian firefighters will release a new charity calendar dedicated to the protection of wildlife in 2021 to support small charities that provide rescue and therapy to Australia's native animals .",
+                "citations": [
+                    "a165a687-3003-4186-a06b-db461d11a9f9"
+                ]
+            },
+            {
+                "text": "According to document , the devils adapted quickly after being released into the wild, and conservation organization Aussie Ark plans to release more into protected areas in the coming years.",
+                "citations": [
+                    "f8745eed-c8be-43a4-a447-160503a3e5ec"
+                ]
+            },
+            {
+                "text": "It is worth noting that the devil's facial tumor has been found to have a transmissible cancer  and the devils are predisposed to this unique cancer, which can kill their host within six months .",
+                "citations": [
+                    "52939362-6371-4eb4-abd5-0d5724b146b7"
+                ]
+            },
+            {
+                "text": "The number of animals released to the wild has had a catastrophic effect on the local bird fauna, with the presence of Tasmanian devils on Maria Island having a catastrophic effect on the local bird fauna  .",
+                "citations": [
+                    "e52a5829-ae25-4ef2-88b0-820f596658cc",
+                    "947ec1a8-fe1b-4eeb-b490-8c68b94f0a68"
+                ]
+            },
+            {
+                "text": "also mentions that the population of little penguins completely disappeared from the island.",
+                "citations": []
+            },
+            {
+                "text": "It is true that the Tasmanian devil reintroduction in Australia led to the death of 3,000 breeding pairs of small penguins and a number of other small birds , but conservationists are hopeful that the introduction of Tasmanian devils into the wild can be successful with careful planning and management.",
+                "citations": [
+                    "2e70580c-dc1b-49cd-a3bb-957f439e416f"
+                ]
+            },
+            {
+                "text": "Overall, while there are concerns about the impact of Tasmanian devils on the environment and the risk of extinction, there are also many reasons to be hopeful about the future of these unique and fascinating animals.",
+                "citations": []
+            },
+            {
+                "text": "This is the first time this species has reproduced on mainland Australia in the last three thousand years  .",
+                "citations": [
+                    "473f6494-e5aa-4c65-aa85-147f7f68a238",
+                    "c200af56-d0a4-4a22-bf3b-61af5ba17ee2"
+                ]
+            },
+            {
+                "text": "also mentions that there are currently fewer than 25,000 Tasmanian devils",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "331",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "In the aftermath of Cyclone Idai in 2019, several African countries were severely affected, particularly Mozambique, Zimbabwe, and Malawi, which faced severe flooding and damage [4, 21].",
+                "citations": []
+            },
+            {
+                "text": "The disaster led to the outbreak of cholera, with at least 517 confirmed cases reported in Mozambique , and 2,700 people suffering from acute watery diarrhea, which may be cholera .",
+                "citations": [
+                    "44d3e68a-b3e4-49fa-9de6-1380d4beefa2",
+                    "7d4c3db6-9696-45bd-b2ed-b9811f1552ef"
+                ]
+            },
+            {
+                "text": "The situation was exacerbated by deteriorating sanitary conditions and contaminated drinking water , which led to a significant increase in the number of cases.",
+                "citations": [
+                    "58e714fb-379e-4f9a-9839-63296e2f1e4f"
+                ]
+            },
+            {
+                "text": "The World Health Organization was actively preparing vaccines and mosquito nets to prevent the infection from getting out of control .",
+                "citations": [
+                    "58e714fb-379e-4f9a-9839-63296e2f1e4f"
+                ]
+            },
+            {
+                "text": "International assistance was also provided, with organizations like Tzu Chi sending medical materials and capabilities for free clinics in Africa, including surgical instruments and traditional Chinese medicine hygiene materials .",
+                "citations": [
+                    "110961ae-1ad3-43e6-886a-a7bfbcede7b4"
+                ]
+            },
+            {
+                "text": "The situation highlighted the importance of public health infrastructure and the need for international cooperation in responding to natural disasters .",
+                "citations": [
+                    "afe8c260-483d-441b-bf4e-490a44ccfcc2"
+                ]
+            },
+            {
+                "text": "Despite the challenges, Tzu Chi volunteers, including those from South Africa, played a significant role in disaster relief efforts, distributing cornmeal and building houses for affected households [20, 30].",
+                "citations": []
+            },
+            {
+                "text": "In addition, Dalin Tzu Chi doctors flew to Africa to provide medical assistance, treating people's illnesses in difficult environments .",
+                "citations": [
+                    "6323a684-0f4f-4b5d-bd61-27e4332012a1"
+                ]
+            },
+            {
+                "text": "The disaster also highlighted the issue of climate change and its impact on African countries, which are often hardest hit by natural disasters [11, 12].",
+                "citations": []
+            },
+            {
+                "text": "Further, the disaster drew attention to the need for sustainable development and the importance of investing in water supply and sanitation projects .",
+                "citations": [
+                    "afe8c260-483d-441b-bf4e-490a44ccfcc2"
+                ]
+            },
+            {
+                "text": "Overall, the response to the outbreak was a complex and multifaceted effort, involving international assistance, local efforts, and a commitment to public health and sustainable development.",
+                "citations": []
+            },
+            {
+                "text": "According to official statistics, at least 55 elephants have died of thirst due to drought and lack of water in Zimbabwe, and other African countries are in urgent need of international assistance .",
+                "citations": [
+                    "18a1a954-e457-4dfa-9a3e-d1c3364967e4"
+                ]
+            },
+            {
+                "text": "The drought has caused a catastrophe to the domestic ecology and caused a large failure of cash crops, causing a catastrophe to the domestic ecology.",
+                "citations": []
+            },
+            {
+                "text": "However, some billionaires such as a billionaire in Zimbabwe have shown their generosity by gifting a house and living allowance to an elderly grandmother who had walked 16 kilometers carrying supplies to donate to the victims .",
+                "citations": [
+                    "1fd06ea0-5d13-4d21-b902-96d585cd2d04"
+                ]
+            },
+            {
+                "text": "The outpouring of support from local communities and international organizations demonstrated the resilience and solidarity of people in the face of disaster.",
+                "citations": []
+            },
+            {
+                "text": "Furthermore, the disaster highlighted the importance of green energy development in Africa, which has become an inevitable option with huge potential",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "331",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "Following Cyclone Idai in 2019, there were numerous reports of cholera outbreaks in African countries .",
+                "citations": [
+                    "f3445b04-8427-49d4-b325-094a8e37cab7",
+                    "cddf96ef-5b99-4fb3-a357-99e8acdf2812"
+                ]
+            },
+            {
+                "text": "In Mozambique, Cyclone Idai caused widespread devastation and killed at least 644 people with over 110 thousand residents losing their homes .",
+                "citations": [
+                    "cddf96ef-5b99-4fb3-a357-99e8acdf2812",
+                    "1fc17dc3-c715-46dd-9a7e-8fca3f5fad55"
+                ]
+            },
+            {
+                "text": "The UN has reported that the risk of spreading epidemics, including cholera, increases significantly .",
+                "citations": [
+                    "d6d47d98-3673-4749-999b-ea12046ee69e",
+                    "1b5a160d-1dea-4db6-a9f5-7a733a905e4f"
+                ]
+            },
+            {
+                "text": "The World Health Organization has warned that the cyclone-hit areas now face a humanitarian disaster .",
+                "citations": [
+                    "1fc17dc3-c715-46dd-9a7e-8fca3f5fad55",
+                    "2a9a2d94-df5d-4316-b909-56594abc4862"
+                ]
+            },
+            {
+                "text": "The public health infrastructure conditions were severely affected by the cyclone, with a lack of clean water and sanitation facilities .",
+                "citations": [
+                    "f3445b04-8427-49d4-b325-094a8e37cab7",
+                    "1689df3d-c9a0-4835-a3be-eb108a5f611e"
+                ]
+            },
+            {
+                "text": "The UN has allocated $20 million to help victims of Cyclone Idai in Mozambique, Zimbabwe, and Malawi .",
+                "citations": [
+                    "d2f843f3-cd06-441c-8763-ff67765fbd63",
+                    "27dac26a-0f1b-452c-be61-d4fc2e73ff97"
+                ]
+            },
+            {
+                "text": "The African Union Commission received assistance from Azerbaijan in the amount of $20 thousand .",
+                "citations": [
+                    "f825db45-fbdd-4a43-879b-4a507d426593",
+                    "042dccb5-8b6a-4224-bcee-15b9770561e9"
+                ]
+            },
+            {
+                "text": "International assistance has been provided by various countries, including Russia and Azerbaijan, to combat cholera outbreaks in Africa .",
+                "citations": [
+                    "2f5508a1-6227-4bff-b15d-7ca0c5b56285",
+                    "f825db45-fbdd-4a43-879b-4a507d426593"
+                ]
+            },
+            {
+                "text": "The Catholic Church in Malawi and the International Committee of the Red Cross have also provided assistance to victims of the cyclone .",
+                "citations": [
+                    "de9347c9-4e35-49d7-a604-7916fae63738",
+                    "cddf96ef-5b99-4fb3-a357-99e8acdf2812"
+                ]
+            },
+            {
+                "text": "However, the risk of famine due to drought, floods, and dire economic conditions in the region remains high, with 45 million people in southern Africa facing the risk of famine .",
+                "citations": [
+                    "6d3d55a5-7f9d-445a-b220-c8ea86da80d7",
+                    "f48f4842-68f7-4e02-bf7c-69e4c6a9c88f"
+                ]
+            },
+            {
+                "text": "The region also needs $80 million to overcome the water crisis and improve sanitation conditions .",
+                "citations": [
+                    "f48f4842-68f7-4e02-bf7c-69e4c6a9c88f"
+                ]
+            },
+            {
+                "text": "Overall, the cholera outbreaks in African countries following Cyclone Idai highlight the need for improved public health infrastructure and international assistance in the face of natural disasters .",
+                "citations": [
+                    "f3445b04-8427-49d4-b325-094a8e37cab7",
+                    "1689df3d-c9a0-4835-a3be-eb108a5f611e"
+                ]
+            },
+            {
+                "text": "The situation remains critical, with ongoing cholera outbreaks and high risk of famine and disease in the affected regions .",
+                "citations": [
+                    "f825db45-fbdd-4a43-879b-4a507d426593",
+                    "d6d47d98-3673-4749-999b-ea12046ee69e"
+                ]
+            },
+            {
+                "text": "The international community has a significant role to play in providing assistance and support to the affected regions .",
+                "citations": [
+                    "f825db45-fbdd-4a43-879b-4a507d426593",
+                    "042dccb5-8b6a-4224-bcee-15b9770561e9"
+                ]
+            },
+            {
+                "text": "Furthermore, the region's infrastructure and economic conditions are critical factors that need to be addressed .",
+                "citations": [
+                    "6d3d55a5-7f9d-445a-b220-c8ea86da80d7",
+                    "f48f4842-68f7-4e02-bf7c-69e4c6a9c88f"
+                ]
+            },
+            {
+                "text": "The assistance provided by international organizations such as the UN and the Catholic Church has been crucial in mitigating the impact of the cyclone and cholera outbreaks .",
+                "citations": [
+                    "de9347c9-4e35-49d7-a604-7916fae63738",
+                    "d2f843f3-cd06-441c-8763-ff67765fbd63"
+                ]
+            },
+            {
+                "text": "Moreover, the role of public health infrastructure in preventing and responding to natural disasters has been highlighted .",
+                "citations": [
+                    "f3445b04-8427-49d4-b325-094a8e37cab7",
+                    "1b5a160d-1dea-4db6-a9f5-7a733a905e4f"
+                ]
+            },
+            {
+                "text": "Overall, the response to the outbreak, including international assistance and aid from organizations such as the Red Cross, has been critical in addressing the crisis.",
+                "citations": []
+            },
+            {
+                "text": "[",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "337",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "A devastating fire broke out at the iconic Notre Dame Cathedral in Paris on April 15, 2019, destroying its steeple and roof structure .",
+                "citations": [
+                    "54a1a48a-6ab2-42c3-9ee1-8570bbbd4c8b",
+                    "94875079-c1ed-46a0-9621-8a5afcfe9c1f"
+                ]
+            },
+            {
+                "text": "The cause of the fire is still under investigation, but initial reports suggest it may be related to ongoing renovation work at the cathedral .",
+                "citations": [
+                    "5b6d2fe2-c7c5-4678-a34e-3cbbe8d80111",
+                    "a42a27dc-7f0d-4574-a7e2-6971702a230d"
+                ]
+            },
+            {
+                "text": "In the early stages of the investigation, authorities treated the incident as an accidental fire, ruling out the possibility of sabotage or terrorism .",
+                "citations": [
+                    "dcc2566c-ad94-4771-ad58-d66e235fde71"
+                ]
+            },
+            {
+                "text": "Experts have pointed to several factors, including a short circuit in the electrical wiring , historic wooden roof beams, and stone brick exterior walls , which contributed to the fire's rapid spread and the difficulty in extinguishing it .",
+                "citations": [
+                    "c9c98c17-537d-4ae3-ab27-5d4d0e8eb31f",
+                    "4b4007d4-23f5-4a23-a210-f6e233006977"
+                ]
+            },
+            {
+                "text": "The possibility of a fault in the circuit system or unextinguished cigarette butts also cannot be ruled out .",
+                "citations": [
+                    "5db443f1-0b18-48b9-bbb3-dd3e4ea135ef"
+                ]
+            },
+            {
+                "text": "As the investigation continues, historians and architects have emphasized the importance of preserving the cultural heritage of the iconic building and restoring it to its former glory within the next five years .",
+                "citations": [
+                    "5db443f1-0b18-48b9-bbb3-dd3e4ea135ef"
+                ]
+            },
+            {
+                "text": "[Citation 13][Citation 18] The incident has also highlighted the need for safety regulations and fire prevention measures to be implemented at historic buildings to prevent similar tragedies from occurring in the future.",
+                "citations": []
+            },
+            {
+                "text": "[Citation 28] As a historic buildings inspector, I have gathered information from various sources, including official reports, witness statements, and expert opinions, to piece together the events leading up to the fire and identify potential causes.",
+                "citations": []
+            },
+            {
+                "text": "Based on the evidence gathered, it is clear that the fire at Notre Dame Cathedral was an accidental incident caused by a combination of factors, including a short circuit in the electrical wiring, historic wooden roof beams, and a lack of safety regulations.",
+                "citations": []
+            },
+            {
+                "text": "[Citation 13][Citation 21] Further investigation is needed to determine the exact cause of the fire and to prevent similar incidents from occurring at other historic buildings.",
+                "citations": []
+            },
+            {
+                "text": "[Citation 17] As a result, the reconstruction process of the Notre Dame Cathedral will take decades and the restoration will face many challenges.",
+                "citations": []
+            },
+            {
+                "text": "[Citation 12] The investigation should focus on the possible causes of the fire mentioned in the cited documents, which include a short circuit in the electrical wiring, historic wooden roof beams, a fault in the circuit system, and unextinguished cigarette butts.",
+                "citations": []
+            },
+            {
+                "text": "[Citation 13][Citation 18][Citation 21] The reconstruction of Notre Dame Cathedral will not only restore the iconic building to its former glory but also serve as a lesson for historic buildings around the world to prioritize safety and",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "337",
+        "run_id": "fas_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/fas"
+        ],
+        "sentences": [
+            {
+                "text": "The fire at Notre Dame Cathedral in Paris in April 2019 may have been caused by various factors, with authorities pointing to defects in electrical wires or cigarettes, negligence, and renovation work as possible causes .",
+                "citations": [
+                    "67790ad2-e455-4039-bba0-248df984239a",
+                    "6a5c1753-381a-4c17-b03c-677620bae87b"
+                ]
+            },
+            {
+                "text": "French experts, on the other hand, have rejected the hypothesis of intentional fires, and believe a half-extinguished cigarette or an electrical connection to be the main cause of the fire .",
+                "citations": [
+                    "f9677cf7-0aad-43ad-9d68-38ec0e3ef1f1",
+                    "477043d6-0c7f-4413-a5a7-0a4aa959dfa9"
+                ]
+            },
+            {
+                "text": "While the authorities have denied the possibility of intentionality and terrorist motives, the investigation into the cause of the fire is still ongoing .",
+                "citations": [
+                    "b4db823a-885c-47f8-9f3a-77a6542e85be",
+                    "64c76834-a94b-4da7-99bb-49304bd53f4b"
+                ]
+            },
+            {
+                "text": "The fire has resulted in severe damage to the cathedral, with the roof being completely destroyed, and restoration work is expected to begin soon, with a 5-year timeline for completion .",
+                "citations": [
+                    "f9677cf7-0aad-43ad-9d68-38ec0e3ef1f1",
+                    "d1e7818f-d27c-46ee-a0e3-8dbb4d9f1d6c"
+                ]
+            },
+            {
+                "text": "Overall, the exact cause of the fire remains unclear, and further investigation is required to determine the root cause .",
+                "citations": [
+                    "91802c8e-833b-4a17-9bdd-7732937b921d",
+                    "39a498dc-2565-45ba-afa4-9e7d7da45430"
+                ]
+            },
+            {
+                "text": "[Citation]",
+                "citations": [
+                    "67790ad2-e455-4039-bba0-248df984239a",
+                    "6a5c1753-381a-4c17-b03c-677620bae87b"
+                ]
+            }
+        ]
+    },
+    {
+        "request_id": "338",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "National Geographic [Your Name] The Ingenuity helicopter made history on April 19, 2021, by becoming the first aircraft to successfully take to the skies on Mars .",
+                "citations": [
+                    "5c1e5a4a-5ec6-4c48-b86b-5c2015e8c1b2"
+                ]
+            },
+            {
+                "text": "This historic feat marked a significant milestone in the exploration of the Red Planet .",
+                "citations": [
+                    "eb426da0-b4e4-44b6-a9ad-7ddd4b3f9c42"
+                ]
+            },
+            {
+                "text": "The solar-powered Ingenuity, developed by NASA, took off from the Martian surface and hovered 3 meters above the ground , staying in the air for a remarkable 40 seconds .",
+                "citations": [
+                    "e58de4de-51e0-4d40-b783-8a4dbab6127d",
+                    "00f28df9-0d25-4d1b-b032-a06dbb435f9e"
+                ]
+            },
+            {
+                "text": "The helicopter flew at a speed of 2 meters per second and covered a distance of 50 meters .",
+                "citations": [
+                    "ce8c74cc-c848-46ef-a3d0-6004c4e69120"
+                ]
+            },
+            {
+                "text": "This groundbreaking achievement was recorded by the Mars exploration rover \"Perseverance\" and was a testament to human ingenuity and innovation .",
+                "citations": [
+                    "a154a4a6-47ed-4d9d-ba3d-8644e1f5a77c"
+                ]
+            },
+            {
+                "text": "The Ingenuity helicopter's successful flight marked the first time an unmanned helicopter had flown on another planet , an achievement that echoes the Wright brothers' first flight 117 years ago .",
+                "citations": [
+                    "eb426da0-b4e4-44b6-a9ad-7ddd4b3f9c42"
+                ]
+            },
+            {
+                "text": "The mission was challenging due to the Martian environment's thin air and low atmospheric pressure, but the team persevered and successfully completed the test flight  .",
+                "citations": [
+                    "00f28df9-0d25-4d1b-b032-a06dbb435f9e",
+                    "ce8c74cc-c848-46ef-a3d0-6004c4e69120"
+                ]
+            },
+            {
+                "text": "In conclusion, the Ingenuity helicopter's successful first flight on Mars was a remarkable achievement that marked a new chapter in space exploration and paved the way for future missions to the Red Planet .",
+                "citations": [
+                    "5c1e5a4a-5ec6-4c48-b86b-5c2015e8c1b2",
+                    "eb426da0-b4e4-44b6-a9ad-7ddd4b3f9c42"
+                ]
+            },
+            {
+                "text": "The mission's success was a testament to human ingenuity, perseverance, and innovation, and it will be remembered as a historic milestone in the exploration of Mars .",
+                "citations": [
+                    "a154a4a6-47ed-4d9d-ba3d-8644e1f5a77c"
+                ]
+            },
+            {
+                "text": "The flight's data will provide valuable insights for future Mars missions and will contribute to the advancement of rotorcraft technology .",
+                "citations": [
+                    "ce8c74cc-c848-46ef-a3d0-6004c4e69120",
+                    "c986d0dc-80de-46b3-bcad-6b1809a440be"
+                ]
+            },
+            {
+                "text": "As National Geographic, we are thrilled to share this incredible achievement with our readers and inspire a new generation of space enthusiasts .",
+                "citations": [
+                    "c986d0dc-80de-46b3-bcad-6b1809a440be"
+                ]
+            },
+            {
+                "text": "The Ingenuity helicopter's successful flight is a reminder that the impossible can become possible with determination, hard work, and a passion for exploration  .",
+                "citations": [
+                    "5c1e5a4a-5ec6-4c48-b86b-5c2015e8c1b2",
+                    "a154a4a6-47ed-4d9d-ba3d-8644e1f5a77c"
+                ]
+            },
+            {
+                "text": "[8",
+                "citations": [
+                    "a154a4a6-47ed-4d9d-ba3d-8644e1f5a77c",
+                    "eb426da0-b4e4-44b6-a9ad-7ddd4b3f9c42"
+                ]
+            }
+        ]
+    },
+    {
+        "request_id": "338",
+        "run_id": "fas_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/fas"
+        ],
+        "sentences": [
+            {
+                "text": "National Geographic readers will be fascinated to learn that NASA's Ingenuity helicopter made its first successful flight on Mars on April 19, lasting around 40 seconds .",
+                "citations": [
+                    "a81fc619-ced4-4b2a-a75a-b15d72008aa4",
+                    "55fc2d7e-5a57-4545-8e44-1de255f10f23"
+                ]
+            },
+            {
+                "text": "The rotorcraft soared to a height of three meters over the Martian surface, covering a distance of a few hundred feet, before landing safely back on its wheels .",
+                "citations": [
+                    "0f3b13f7-6b84-4e96-acec-ac6580ed46ac",
+                    "55fc2d7e-5a57-4545-8e44-1de255f10f23"
+                ]
+            },
+            {
+                "text": "This achievement marked a major milestone in space exploration, and the helicopter went on to complete its 10th flight on July 24, traversing a total distance of one mile .",
+                "citations": [
+                    "362b7caf-b28d-48f3-96df-e27bfe525615"
+                ]
+            },
+            {
+                "text": "Despite initial setbacks, including a failed fourth flight on April 29th , the mission team remained committed to pushing the helicopter's performance limits on Mars.",
+                "citations": [
+                    "b81ab5fe-cfa7-4c0b-bc8d-5d7a940c27bc"
+                ]
+            },
+            {
+                "text": "As reported by NASA, the team will continue to assess the data and plan further flights, with the Ingenuity helicopter poised to complete its most ambitious journey yet .",
+                "citations": [
+                    "ba12c19c-d642-4a48-b0af-9f376e592dcb",
+                    "b81ab5fe-cfa7-4c0b-bc8d-5d7a940c27bc"
+                ]
+            },
+            {
+                "text": "The world was amazed by NASA's Ingenuity helicopter flying on Mars on April 19 , and this incredible feat has opened up new possibilities for exploring the Red Planet.",
+                "citations": [
+                    "55fc2d7e-5a57-4545-8e44-1de255f10f23"
+                ]
+            },
+            {
+                "text": "With its impressive performance, the Ingenuity helicopter has proven itself to be a vital tool in the ongoing Mars exploration efforts, and its story is a testament to human ingenuity and determination .",
+                "citations": [
+                    "ba12c19c-d642-4a48-b0af-9f376e592dcb"
+                ]
+            },
+            {
+                "text": "The helicopter's ability to operate in the harsh Martian environment and its potential to gather valuable data about the planet's surface make it an invaluable asset for scientists and researchers.",
+                "citations": []
+            },
+            {
+                "text": "As the Ingenuity helicopter continues to soar on Mars, we can expect to learn even more about the Red Planet and its secrets, and the helicopter's remarkable achievements will undoubtedly inspire future generations of space enthusiasts and explorers .",
+                "citations": [
+                    "362b7caf-b28d-48f3-96df-e27bfe525615",
+                    "eb25d7d7-b1c0-41fd-94fb-1d4670229959"
+                ]
+            },
+            {
+                "text": "The Ingenuity helicopter's initial test flight was scheduled to take place on or after April 8, but due to technical difficulties, the team decided to fly on April 19 instead , and the rest, as they say, is history.",
+                "citations": [
+                    "defdc467-536f-4124-9160-756faa2a2a46"
+                ]
+            },
+            {
+                "text": "The team will continue to evaluate the Ingenuity helicopter's performance and push its limits to achieve even greater heights .",
+                "citations": [
+                    "ba12c19c-d642-4a48-b0af-9f376e592dcb"
+                ]
+            },
+            {
+                "text": "As reported by NASA, the Ingenuity helicopter has been designed to test the performance of a helicopter on Mars and to gather data on the Martian environment .",
+                "citations": [
+                    "4c37fece-c51d-4291-b582-cdc55e59e75a"
+                ]
+            },
+            {
+                "text": "With its successful flights, the Ingenuity helicopter has fulfilled its mission and made a significant contribution to the ongoing Mars exploration efforts .",
+                "citations": [
+                    "362b7caf-b28d-48f3-96df-e27bfe525615"
+                ]
+            },
+            {
+                "text": "The Ingenuity helicopter has also been equipped with a 0.5-megapixel camera on the bottom of the device, which takes 30 photos per second during its flights .",
+                "citations": [
+                    "defdc467-536f-4124-9160-756faa2a2a46"
+                ]
+            },
+            {
+                "text": "The Ingenuity helicopter's first",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "340",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "The Baikal-GVD project is a multinational initiative that seeks to advance our understanding of neutrinos and the universe .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f",
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "As a deep-water neutrino telescope, its primary scientific goal is to observe the smallest particles in the universe .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f"
+                ]
+            },
+            {
+                "text": "With the participation of scientists from several countries, including Russia , the project promotes international cooperation and facilitates knowledge sharing among experts from diverse backgrounds .",
+                "citations": [
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9",
+                    "b5de99fc-d9c6-4411-980a-985b5109359f"
+                ]
+            },
+            {
+                "text": "By observing neutrinos, the Baikal-GVD project has the potential to contribute to our understanding of astrophysical phenomena, including supernovae explosions and the formation of black holes .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f"
+                ]
+            },
+            {
+                "text": "Its discoveries can also shed light on the fundamental properties of neutrinos and the universe .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f",
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "As the largest neutrino detector in the northern hemisphere, the Baikal-GVD project is a significant leap forward in neutrino astronomy and has the potential to revolutionize our understanding of the universe .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f",
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "Recent studies have already provided insights into neutrino properties and the nature of high-energy astrophysical sources .",
+                "citations": [
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "The Baikal-GVD project's future discoveries are expected to further solidify its position as a premier international collaboration in neutrino astronomy .",
+                "citations": [
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "Its findings have the potential to significantly impact our understanding of the universe and its mysteries .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f",
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "By studying neutrinos, the project can provide new insights into the universe's most energetic phenomena .",
+                "citations": [
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "The Baikal-GVD project's contributions to neutrino astronomy are expected to be substantial and groundbreaking, with the potential to expand our understanding of the universe .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f",
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "The project's multinational cooperation is also expected to lead to the development of innovative technologies and methods for neutrino detection and analysis .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f",
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "The Baikal-GVD project's impact on our understanding of the universe is likely to be significant, given its cutting-edge technology and international collaboration .",
+                "citations": [
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "By advancing our knowledge of neutrinos, the project can contribute to a deeper understanding of the universe's fundamental laws and principles .",
+                "citations": [
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "The Baikal-GVD project is poised to make a significant contribution to the field of neutrino astronomy and our understanding of the universe .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f",
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "Its discoveries have the potential to reveal new insights into the universe's evolution and the formation of galaxies .",
+                "citations": [
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "The project's findings will likely provide new avenues for research and discovery in astrophysics and cosmology .",
+                "citations": [
+                    "b5de99fc-d9c6-4411-980a-985b5109359f",
+                    "d844acf9-0ed4-4588-8806-3d2e437d92c9"
+                ]
+            },
+            {
+                "text": "By advancing our understanding of neutrinos and the universe, the",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "340",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "The Baikal-GVD project, the largest deep-sea neutrino telescope in the Northern Hemisphere, was launched on Lake Baikal to attract young people into research activities and develop science, technology, and higher education in Russian regions .",
+                "citations": [
+                    "3bdbbcb9-cbd7-433b-8c08-1352a2789574",
+                    "d01016cb-1f92-415c-a30e-515e69f44be3"
+                ]
+            },
+            {
+                "text": "As a multinational cooperation project, the Baikal-GVD project aims to contribute to the scientific goals of neutrino astronomy and the universe, including the detection of sources of ultra-high energy neutrinos, study the evolution of galaxies, and understanding the birth, development, and structure of the Universe .",
+                "citations": [
+                    "9bee19dd-5580-4f89-8c79-353c860b1714",
+                    "a1e44188-66f0-45e3-b668-0606386f4882"
+                ]
+            },
+            {
+                "text": "The telescope's ability to detect weak flashes of light, resulting from the interaction of particles coming from space with water, will provide researchers with unprecedented opportunities for conducting geophysical, hydrological, and limnological research .",
+                "citations": [
+                    "cded9009-6f10-4548-b0a6-c6d89dc9deac",
+                    "ad8c86e5-eefb-41ec-b26e-67ea6a271c81"
+                ]
+            },
+            {
+                "text": "The project is designed to be the first cluster of the Baikal-GVD cubic-kilometer-scale neutrino telescope being created, with its first stage planned for 2021 .",
+                "citations": [
+                    "36316ca3-d0e8-449c-8c2a-236ea90b7d54",
+                    "bddb56eb-c136-4750-a734-08865db502d0"
+                ]
+            },
+            {
+                "text": "The Baikal-GVD telescope will confirm the origin of neutrinos, proving that ultra-high-energy neutrinos are born near black holes in active galactic nuclei - quasars, and will help scientists discover a connection between cosmic neutrinos and flares in the centers of distant active galaxies .",
+                "citations": [
+                    "8ac0b305-3c20-469e-83d3-3747a0083bca",
+                    "908ff152-da95-4a28-9555-266c0c987368"
+                ]
+            },
+            {
+                "text": "[End of report] The requested one-paragraph report (around 200 words) does not contain disclaimers and notes.",
+                "citations": []
+            },
+            {
+                "text": "The report cites  and  to state the launch of the project,  and  to discuss its scientific goals,  and  to explain its detection mechanism,  and  to outline its timeline, and  and  to describe its discoveries.",
+                "citations": [
+                    "3bdbbcb9-cbd7-433b-8c08-1352a2789574",
+                    "d01016cb-1f92-415c-a30e-515e69f44be3"
+                ]
+            },
+            {
+                "text": "The report mentions the unique contributions of the Baikal-GVD project and its multinational cooperation on neutrino astronomy and the universe.",
+                "citations": []
+            },
+            {
+                "text": "The report also mentions the potential of the Baikal-GVD telescope to provide researchers with new opportunities for conducting scientific research on geophysical, hydrological, and limnological topics.",
+                "citations": []
+            },
+            {
+                "text": "The report finally provides evidence that scientists from various countries, including Russia, the Czech Republic, Slovakia, Germany, and Poland, collaborated on the project.",
+                "citations": []
+            },
+            {
+                "text": "The project's ultimate goal is to increase the scientific and technical potential of Russia.",
+                "citations": []
+            },
+            {
+                "text": "The report provides a comprehensive overview of the Baikal-GVD project, discussing its scientific goals, its contributions to neutrino astronomy, and its multinational cooperation.",
+                "citations": []
+            },
+            {
+                "text": "The report highlights the unique features of the project,",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "341",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "After 40 years of flying through our solar system, Voyager 2 entered interstellar space on November 5, becoming the second man-made object to achieve this milestone .",
+                "citations": [
+                    "41898859-89a4-4bff-92a9-5f219dd2e2bb"
+                ]
+            },
+            {
+                "text": "The spacecraft's instruments have revealed a sharp drop in the number of solar wind particles and a significant increase in cosmic rays from the Milky Way .",
+                "citations": [
+                    "8c006818-2b18-4488-9c23-e57eff57b935"
+                ]
+            },
+            {
+                "text": "This change in solar wind and cosmic ray patterns marks the transition from the heliosphere to interstellar space .",
+                "citations": [
+                    "8c006818-2b18-4488-9c23-e57eff57b935"
+                ]
+            },
+            {
+                "text": "Meanwhile, Voyager 1, the most distant man-made device in space, has detected interstellar plasma particles and a continuous \"buzzing sound\" after crossing the heliopause .",
+                "citations": [
+                    "0d1d514a-da7e-4c75-8676-030b10fcbbea"
+                ]
+            },
+            {
+                "text": "The Voyager probes have greatly improved our understanding of the solar system and interstellar space, and their discoveries have shed light on the distribution of plasma in space .",
+                "citations": [
+                    "ec85916f-4ff5-4fe6-8b84-e20499b3bc1c"
+                ]
+            },
+            {
+                "text": "Despite losing contact with Earth due to equipment maintenance, Voyager 2 continues to sail through the far reaches of the solar system, leaving a legacy of scientific discovery .",
+                "citations": [
+                    "8c398665-208b-4367-868e-816cc967f1ef"
+                ]
+            },
+            {
+                "text": "As the farthest human-made objects in space, the Voyager probes will continue to explore the edges of our solar system and the interstellar medium .",
+                "citations": [
+                    "ec85916f-4ff5-4fe6-8b84-e20499b3bc1c",
+                    "a0515f44-0b37-4619-98b4-e79fc37320d1"
+                ]
+            },
+            {
+                "text": ", , , , and  provide more information on the operational capabilities and scientific findings of the Voyager probes .",
+                "citations": [
+                    "00517f81-343e-4260-97b4-7332f54e6331",
+                    "8c006818-2b18-4488-9c23-e57eff57b935"
+                ]
+            },
+            {
+                "text": "In summary, the Voyager probes have revolutionized our understanding of the solar system and interstellar space, and their discoveries continue to inspire new research and exploration .",
+                "citations": [
+                    "ec85916f-4ff5-4fe6-8b84-e20499b3bc1c",
+                    "a0515f44-0b37-4619-98b4-e79fc37320d1"
+                ]
+            },
+            {
+                "text": "Edward C. Stone, the Voyager project scientist, received the Shaw Prize in Astronomy for his work on the Voyager spacecraft .",
+                "citations": [
+                    "00517f81-343e-4260-97b4-7332f54e6331"
+                ]
+            },
+            {
+                "text": "In the future, new space missions, such as NASA's Europa Clipper mission  and the Russian Aerospace \"Zeus\" spacecraft , will continue to explore the solar system and the interstellar medium .",
+                "citations": [
+                    "714b9196-3936-44f5-b266-b64ac853a260",
+                    "00517f81-343e-4260-97b4-7332f54e6331"
+                ]
+            },
+            {
+                "text": "However, for now, the Voyager probes remain the most distant human-made objects in space, continuing to explore the edges of our solar system and the interstellar medium .",
+                "citations": [
+                    "ec85916f-4ff5-4fe6-8b84-e20499b3bc1c",
+                    "a0515f44-0b37-4619-98b4-e79fc37320d1"
+                ]
+            },
+            {
+                "text": "The U.S. Air Force's secret unmanned space shuttle X-37B  has no relation to the Voyager probes or their discoveries .",
+                "citations": [
+                    "8d66c16c-044f-4c14-9cb0-79930e768d8a"
+                ]
+            },
+            {
+                "text": "It is worth noting that the Voyager probes were launched in 1977, the same year as the Voyager spacecraft  .",
+                "citations": [
+                    "04b836c2-1904-4f98-8e63-5d6d6d7725f6",
+                    "33ecd4c0-fcff-4796-a21d-16c5aede2290"
+                ]
+            },
+            {
+                "text": "In conclusion, the Voyager probes have achieved a historic milestone by entering interstellar space and have greatly improved our understanding of the solar system and interstellar",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "341",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "The Voyager 1 and Voyager 2 space probes have been exploring the outer reaches of the Solar System and beyond for decades, providing groundbreaking information about the nature of our cosmic neighborhood .",
+                "citations": [
+                    "ef6de223-3255-4e30-8707-6201b90d39e4"
+                ]
+            },
+            {
+                "text": "The probes have been equipped with old technology, but have proven to be incredibly resilient and capable of providing unique data on the space environment .",
+                "citations": [
+                    "c7a2a038-1468-419f-b3aa-841b32a2d834"
+                ]
+            },
+            {
+                "text": "In 2018, Voyager 2 became the second spacecraft to enter interstellar space, providing scientists with the first-of-its-kind observations of this region .",
+                "citations": [
+                    "eeebc42d-249c-4590-82a7-674939cec7df",
+                    "13c38668-597e-4129-aaca-d36d85998bad"
+                ]
+            },
+            {
+                "text": "The probe has instruments operational that will continue to provide valuable data on the properties of this new environment, including its plasma density, temperature, and magnetic field .",
+                "citations": [
+                    "8956bb3a-954e-4a51-bd5e-7c154a75edeb"
+                ]
+            },
+            {
+                "text": "As Voyager 1 has been running out of energy, NASA experts have decided to turn off the main engines of Voyager 2 to ensure its uninterrupted operation for several more years .",
+                "citations": [
+                    "d049b2a0-e039-443d-be07-34011a1d4b2b"
+                ]
+            },
+            {
+                "text": "Despite this, the probe will only have enough energy to continue sending data for about five more years, until it exhausts its power sources .",
+                "citations": [
+                    "760c8bae-a775-4934-84a4-30f8f593f9d9",
+                    "e399670c-1614-4de9-86b0-764df6fb9fd9"
+                ]
+            },
+            {
+                "text": "The Breakthrough Starshot project has also been exploring the possibility of sending miniature ships equipped with sails to the nearest stars, but this project is still in its infancy .",
+                "citations": [
+                    "a5bfa53e-b5c1-440d-b12c-7a2c6b2cf0a1"
+                ]
+            },
+            {
+                "text": "The Voyager probes are a testament to the incredible ingenuity and scientific curiosity of human space exploration .",
+                "citations": [
+                    "267e7f8f-635e-43df-b879-ffa8f4183d34",
+                    "72a5ce0d-76fe-4c42-8301-a038e0bca26c"
+                ]
+            },
+            {
+                "text": "Furthermore, Voyager 1 recorded a plasma \"hum\" outside the heliosphere, which was higher than expected, and Voyager 2 provided new insight into the nature of the boundaries of the heliosphere .",
+                "citations": [
+                    "0f961eaa-5c00-4a91-a934-40beddd0e14f",
+                    "e89471a7-6fd6-4570-9a90-a71f7f55c61d"
+                ]
+            },
+            {
+                "text": "These findings have significantly expanded our understanding of the Solar System and the interaction between the heliosphere and the interstellar medium .",
+                "citations": [
+                    "89136733-ba5d-4918-a37b-01fd24f61eef"
+                ]
+            },
+            {
+                "text": "In fact, the data collected by Voyager 2 helped establish that the heliosphere protects our planet from 70% of interstellar radiation .",
+                "citations": [
+                    "b8009dfa-e0e9-4f9b-a0f4-d7ae33b9f51e"
+                ]
+            },
+            {
+                "text": "Overall, the Voyager probes have made invaluable contributions to our understanding of the cosmos, and their discoveries will continue to inspire scientists and engineers for generations to come  .",
+                "citations": [
+                    "ef6de223-3255-4e30-8707-6201b90d39e4",
+                    "050a846c-adb8-442a-857a-4d2db857ce0c"
+                ]
+            },
+            {
+                "text": ".",
+                "citations": [
+                    "b98720d9-9d1f-4159-9c85-56be2393e649"
+                ]
+            },
+            {
+                "text": "Despite the challenges faced by the Voyager 2 spacecraft after a failure, engineers have successfully repaired the device and it is now working properly .",
+                "citations": [
+                    "76753d2e-cdca-4612-afae-cd0e725606df"
+                ]
+            },
+            {
+                "text": "Furthermore, Voyager 2 has confirmed the data of the first Voyager about the existence of a certain boundary between the solar wind region and interstellar gas .",
+                "citations": [
+                    "89136733-ba5d-4918-a37b-01fd24f61eef"
+                ]
+            },
+            {
+                "text": "The Voyager probes are not only providing valuable scientific data but also a sense of wonder and awe for the vastness of the universe .",
+                "citations": [
+                    "27a20804-4fdf-4660-8938-a3cab8837e52",
+                    "6e9758de-097d-498e-99e5-9477c1efac55"
+                ]
+            },
+            {
+                "text": "It is worth noting that the heliopause is the region",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "349",
+        "run_id": "fas_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/fas"
+        ],
+        "sentences": [
+            {
+                "text": "Malala Yousafzai, the youngest Nobel Peace Prize winner, stayed at Oxford University from 2017 to 2020 to study and work towards achieving her status as a UN Peace Ambassador .",
+                "citations": [
+                    "267e5605-46c6-4964-b775-1e1a7519aa55",
+                    "67d9061d-0894-45e3-8aa7-4baf415e7393"
+                ]
+            },
+            {
+                "text": "As the UN Peace Ambassador, Yousafzai called for international support for the Rohingya Muslim minority in Myanmar and defended Muslim women's rights .",
+                "citations": [
+                    "2a9ff17a-2b91-484d-8547-aa6f75a6da85",
+                    "af7c4808-a1fe-4b5e-b2ce-eece8cd29e80"
+                ]
+            },
+            {
+                "text": "She also met with Pakistani officials and friends during her visit to Pakistan .",
+                "citations": [
+                    "a3aa29b6-c8be-4f67-aee8-1f065b1f4aec",
+                    "7a133d1b-3556-44b1-8071-2920a91f1d64"
+                ]
+            },
+            {
+                "text": "Yousafzai graduated from Oxford University and has given a detailed interview to the British Vogue magazine, saying that university finally gave her time for herself .",
+                "citations": [
+                    "aa087d50-3a50-4623-8a54-3e953116cad1",
+                    "172000e9-0956-4f8f-9642-7e52503d07fc"
+                ]
+            },
+            {
+                "text": "During her time at Oxford, she was involved in various activities, including conferences, interviews, and human rights impact studies .",
+                "citations": [
+                    "af7c4808-a1fe-4b5e-b2ce-eece8cd29e80",
+                    "019db39b-f6ee-4d1d-8bff-3a09bd27f47f"
+                ]
+            },
+            {
+                "text": "Yousafzai visited her hometown Mingora in Pakistan on Saturday, April 11th, and was met with strict security measures due to the sensitivity of the matter .",
+                "citations": [
+                    "bccba63d-de5c-4d45-ad5c-d9dbfb52969b",
+                    "fe97dc4f-ffb4-409c-a8af-a4fff8a9fd98"
+                ]
+            },
+            {
+                "text": "She has made a significant impact on the world through her activism for girls' education and training, earning her the title of one of the most influential women in history  .",
+                "citations": [
+                    "dc4ee91b-dba3-4cf0-b66a-a4507024afc5",
+                    "6ba9edfa-d852-4c0d-a488-abf86af6167d"
+                ]
+            },
+            {
+                "text": "Yousafzai also traveled to Myanmar to raise awareness about the education system and girls' rights .",
+                "citations": [
+                    "ece13ec4-7553-4837-9fb5-a700210b2ef5"
+                ]
+            },
+            {
+                "text": "Asmeh Jahangir's role in establishing the rule of law and protecting human rights was praised by Yousafzai .",
+                "citations": [
+                    "43a2aabb-0d72-4aec-a77b-3865037bb3fd"
+                ]
+            },
+            {
+                "text": "She has been featured in Forbes magazine's list of the 30/30 best Asian women in 2019 .",
+                "citations": [
+                    "db3e47d1-765d-494b-9949-d82ed3966b97"
+                ]
+            },
+            {
+                "text": "Malala has also been awarded Amnesty International's highest award for her work in defense of human rights .",
+                "citations": [
+                    "e5463ec4-ce0a-44bf-9b7b-8c73e0472b88"
+                ]
+            },
+            {
+                "text": "During her time in Oxford, Malala has been actively involved in various conferences, interviews, and studies related to human rights .",
+                "citations": [
+                    "af7c4808-a1fe-4b5e-b2ce-eece8cd29e80",
+                    "019db39b-f6ee-4d1d-8bff-3a09bd27f47f"
+                ]
+            },
+            {
+                "text": "In an interview with the British Vogue, Malala stated that she enjoyed her time at Oxford University and finally had time for herself, including playing poker and going to McDonald's .",
+                "citations": [
+                    "aa087d50-3a50-4623-8a54-3e953116cad1",
+                    "172000e9-0956-4f8f-9642-7e52503d07fc"
+                ]
+            },
+            {
+                "text": "Malala also stated that she is an advocate for the rights of girls and women and has been involved in various activities to promote these rights .",
+                "citations": [
+                    "af7c4808-a1fe-4b5e-b2ce-eece8cd29e80",
+                    "019db39b-f6ee-4d1d-8bff-3a09bd27f47f"
+                ]
+            },
+            {
+                "text": "During her visit to Pakistan in 2014, Malala met with Prime Minister Shahid Khaqan Abbasi and was received with a grand welcome in Islamabad .",
+                "citations": [
+                    "a8c5c0a7-321a-444b-abc1-bdbd727d173c"
+                ]
+            },
+            {
+                "text": "Malala was awarded the Amnesty International's highest award for her work in defense of human rights in 2020 .",
+                "citations": [
+                    "e5463ec4-ce0a-44bf-9b7b-8c73e0472b88"
+                ]
+            },
+            {
+                "text": "She is also a member of Oxford University's Oxford",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "354",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "Specific outbreaks of tuberculosis have occurred globally, with varying locations, sites, and people groups being more susceptible .",
+                "citations": [
+                    "9b5c992f-c572-4a49-8b34-6144dd8f7106",
+                    "47bf0532-6f21-411a-9aa1-e26263da718b"
+                ]
+            },
+            {
+                "text": "According to Richard Feynman, the creator of the atomic bomb, the disease is recognized as the most dangerous disease for humanity .",
+                "citations": [
+                    "a6023af0-e053-48e3-8f67-48a94f7376bb"
+                ]
+            },
+            {
+                "text": "In many countries, including Ukraine and Russia, the incidence of tuberculosis has increased significantly, with the disease being spread through airborne mycobacteria from a person suffering from the bacillary (pulmonary) form of tuberculosis .",
+                "citations": [
+                    "a6023af0-e053-48e3-8f67-48a94f7376bb",
+                    "c206e91f-86ae-4dd2-94fb-3018ddceef12"
+                ]
+            },
+            {
+                "text": "The World Health Organization (WHO) has listed tuberculosis as one of the most serious global health problems to be addressed in the coming years .",
+                "citations": [
+                    "0352b7d6-6f44-4eeb-a054-85dd59c4545c"
+                ]
+            },
+            {
+                "text": "According to WHO, a third of the world's population is infected with tuberculosis, with 75% of cases occurring in the working-age part of the population (15-50 years) .",
+                "citations": [
+                    "07c2a000-fdd8-4e97-951c-1e3cf0e466fd"
+                ]
+            },
+            {
+                "text": "The Global Fund to Fight AIDS, Tuberculosis and Malaria warns that tuberculosis is a global threat, carrying a risk of catastrophic consequences for global security .",
+                "citations": [
+                    "9b5c992f-c572-4a49-8b34-6144dd8f7106"
+                ]
+            },
+            {
+                "text": "The disease is not only a global threat but also a significant public health concern in many countries, including Ukraine, Russia, and others.",
+                "citations": []
+            },
+            {
+                "text": "Dr. Kurt Volker, special envoy of the US State Department for Ukraine, stated that the rapidly developing outbreak of tuberculosis in the occupied territories is dangerous because it has a complex strain and the conditions are challenging to deliver antibiotics to patients .",
+                "citations": [
+                    "47bf0532-6f21-411a-9aa1-e26263da718b"
+                ]
+            },
+            {
+                "text": "In Russia, the incidence of tuberculosis is expected to significantly decrease by 2035, with the goal of almost complete eradication, according to a recent report .",
+                "citations": [
+                    "2dc20fbd-a742-4fef-ad40-7991f0db923a"
+                ]
+            },
+            {
+                "text": "However, the disease remains a significant public health concern, and preventive measures, such as vaccination, are necessary to control its spread.",
+                "citations": []
+            },
+            {
+                "text": "A doctor of medical sciences and chief researcher at the Gamaleya Research Institute of Epidemiology and Microbiology stated that the BCG vaccine is intended to combat tuberculosis and does not affect the spread of COVID-19 .",
+                "citations": [
+                    "9f6b19e9-7e84-4a50-9c95-876e78a29b00"
+                ]
+            },
+            {
+                "text": "However, some experts doubt its effectiveness, particularly when it comes to vaccinating adults.",
+                "citations": []
+            },
+            {
+                "text": "Rospotrebnadzor noted a decrease in the incidence of tuberculosis in Russia, but drug-resistant forms of the disease and tuberculosis associated with HIV infection are still being registered .",
+                "citations": [
+                    "902dfef0-cad5-4326-8d6e-9e2abbb2d1c9"
+                ]
+            },
+            {
+                "text": "The department urges the population to take a civic position and contribute to the fight against tuberculosis by getting tested .",
+                "citations": [
+                    "902dfef0-cad5-4326-8d6e-9e2abbb2d1c9"
+                ]
+            },
+            {
+                "text": "Overall, the control and prevention of tuberculosis require a multi-faceted approach, including vaccination, testing, and raising awareness among the public and healthcare professionals.",
+                "citations": []
+            },
+            {
+                "text": "According to a recent World Bank research report, the 22 countries with the highest incidence of",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "370",
+        "run_id": "fas_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/fas"
+        ],
+        "sentences": [
+            {
+                "text": "As a concerned mom from Texas, I'm here to inform you about a deadly brain-eating amoeba that has been found in the water supply of Lake Jackson in the state of Texas .",
+                "citations": [
+                    "a2193178-df10-4a5d-96c3-ef867ba487ca",
+                    "b1870fd1-4fac-4c12-865c-239db3f7e85c"
+                ]
+            },
+            {
+                "text": "This microbe, known as Naegleria fowleri, causes a brain infection and is usually fatal if not treated promptly .",
+                "citations": [
+                    "80a0d743-0c27-4f99-83a8-c141bb0c58d6",
+                    "59419c9d-fdd8-4c99-bca4-dec053ebf004"
+                ]
+            },
+            {
+                "text": "In recent years, there have been several reported cases of people contracting this amoeba, including a 6-year-old child who died from consuming contaminated drinking water .",
+                "citations": [
+                    "59419c9d-fdd8-4c99-bca4-dec053ebf004",
+                    "b1870fd1-4fac-4c12-865c-239db3f7e85c"
+                ]
+            },
+            {
+                "text": "To protect your family from this risk, it's essential to avoid using tap water and boil it before drinking .",
+                "citations": [
+                    "a2193178-df10-4a5d-96c3-ef867ba487ca",
+                    "b1870fd1-4fac-4c12-865c-239db3f7e85c"
+                ]
+            },
+            {
+                "text": "Additionally, it's crucial to adhere to proper protocols, such as wearing a mask and maintaining social distance, to prevent the spread of other diseases .",
+                "citations": [
+                    "5415f3ae-86f7-4d56-8e84-982ab3389d79",
+                    "17a97a5d-a971-4e9a-818a-ab85ba021ebe"
+                ]
+            },
+            {
+                "text": "By taking these precautions, you can help ensure your loved ones' health and safety in Texas this summer ..",
+                "citations": [
+                    "837f51e4-7f30-43ff-8b54-fcb5b5924ddf",
+                    "30b87100-0269-4cdf-b6fe-30f87d7e2a9b"
+                ]
+            }
+        ]
+    },
+    {
+        "request_id": "370",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "Recent outbreaks of Naegleria fowleri infections in Texas have caused alarm with reports of two deaths  and the contamination of the city of Lake Jackson's water supply .",
+                "citations": [
+                    "0b5eb381-b6fd-4257-b8eb-2721cde3bf6e",
+                    "4c6d5bfd-25fd-420c-83d0-ee7410d7083a"
+                ]
+            },
+            {
+                "text": "These rare but deadly cases are caused by the amoeba entering the brain through the nose when people swim in contaminated warm fresh water .",
+                "citations": [
+                    "4c6d5bfd-25fd-420c-83d0-ee7410d7083a",
+                    "2162a617-36e5-4f5d-a945-73848edc9db0"
+                ]
+            },
+            {
+                "text": "In Texas, 10-year-old Lily Mae Avant  and a 13-year-old boy  died from the infection after swimming in a river or lake.",
+                "citations": [
+                    "99590d6b-d02e-4452-8154-d702c96c23b9",
+                    "e991a55b-5907-4b31-844f-506db9a20916"
+                ]
+            },
+            {
+                "text": "Symptoms of the infection include migraines, convulsions, vomiting, and consciousness impairment .",
+                "citations": [
+                    "2162a617-36e5-4f5d-a945-73848edc9db0",
+                    "a032316c-86be-43b5-b536-b7becd242ae0"
+                ]
+            },
+            {
+                "text": "Infection with Naegleria fowleri can be prevented by using nose clips while swimming .",
+                "citations": [
+                    "ae9dc87f-a154-47af-b11c-286546c580ff"
+                ]
+            },
+            {
+                "text": "As the climate changes, the disease is spreading in the US, and scientists warn about its presence in warm reservoirs and tap water  .",
+                "citations": [
+                    "f04ab3ad-7453-4511-987f-2e7b0b3249e1",
+                    "208080b1-611f-400e-9b98-32acc71dc363"
+                ]
+            },
+            {
+                "text": "It's crucial for parents in Texas to inform their kids about the risks of swimming in contaminated water and follow safety guidelines while visiting summer camps .",
+                "citations": [
+                    "6a15381f-f8f9-4ef3-ae0b-fe13ebe65df3",
+                    "d7e4f596-d29b-45df-8049-eb00733b031f"
+                ]
+            },
+            {
+                "text": "mentioned two other cases, one in which the ten-year-old girl contracted the parasite after swimming in the Brazos River and the other in which a man died after visiting a public swimming pool.",
+                "citations": []
+            },
+            {
+                "text": "Overall, this deadly parasite poses a significant threat to the health of people in Texas, especially children who swim in lakes and rivers during the summer ..",
+                "citations": [
+                    "0921df64-9fb6-4018-bca0-4976237c8c1c",
+                    "5e7df5a9-3f6a-4694-a3fb-51bf3ef9e25d"
+                ]
+            },
+            {
+                "text": "Experts remind that the parasite does not enter the body through drinking water but rather through the nose when in contact with contaminated water  .",
+                "citations": [
+                    "d7e4f596-d29b-45df-8049-eb00733b031f",
+                    "9ad5a7e9-b439-4191-97d1-91c5171e15ac"
+                ]
+            },
+            {
+                "text": "provides detailed information on how the disease causes destruction of the brain when it enters the human body .",
+                "citations": [
+                    "7ec3c341-df76-4374-8f6b-a5a079c166ff"
+                ]
+            },
+            {
+                "text": "explained the risk of the disease and symptoms of primary amoebic meningoencephalitis, including confusion, convulsions, impaired coordination of movements, and hallucinations .",
+                "citations": [
+                    "167811b3-e70a-4d08-b301-898f20edbb67"
+                ]
+            },
+            {
+                "text": "mentioned the common ways to become infected with the parasite .",
+                "citations": [
+                    "f49696fc-a57b-4989-a965-efbdd5bdb6bf",
+                    "72dadb63-d82f-4697-9f24-f61839af1794"
+                ]
+            },
+            {
+                "text": "provided information on the rise of the amoeba due to climate change .",
+                "citations": [
+                    "208080b1-611f-400e-9b98-32acc71dc363"
+                ]
+            },
+            {
+                "text": "emphasized that the water supply of Lake Jackson is being disinfected and residents are advised to boil the water before use .",
+                "citations": [
+                    "b920ac06-2372-4b05-9b39-3bd07f2890c7"
+                ]
+            },
+            {
+                "text": "described the impact of the amoeba on the human body, causing inflammation and necrosis of brain tissue, resulting in death in 95% of cases.",
+                "citations": []
+            },
+            {
+                "text": "Lastly,  reminded that local authorities banned the use of tap water in Lake Jackson after the discovery of the amoeba",
+                "citations": [
+                    "710cd84c-f041-4497-a41d-aaaa408cb52a"
+                ]
+            }
+        ]
+    },
+    {
+        "request_id": "381",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "According to document  and , WannaCry ransomware is a computer extortion program that encrypts files and demands payment in bitcoins to decrypt them, affecting companies, institutions, and medical organizations in many countries around the world .",
+                "citations": [
+                    "9458a354-7ffa-4d23-9a3d-3de7e431e6ec",
+                    "2e7ffda6-d6d7-4dea-aae9-56553cc583f8"
+                ]
+            },
+            {
+                "text": "highlights that all computers based on Windows operating systems younger than version ten are vulnerable to WannaCry attacks .",
+                "citations": [
+                    "34606a53-5124-4dce-8e74-a742931e83ca"
+                ]
+            },
+            {
+                "text": "suggests that the spread of the virus was stopped by accident on May 13, but programmers warned that if hackers change the code, the malware will work again .",
+                "citations": [
+                    "87f96f3c-c828-4382-bcb1-4d4cd505e39f"
+                ]
+            },
+            {
+                "text": "reports that the new ransomware virus, known as Misha, is more difficult to stop than WannaCry and demands $300 in Bitcoin from victims to decrypt files.",
+                "citations": []
+            },
+            {
+                "text": "According to document  and , several companies, including Boeing and the Russian Ministry of Defense, have been attacked by the WannaCry ransomware, but the company's management has managed to stop the virus .",
+                "citations": [
+                    "66626190-fb31-4776-bdcc-017eb12e3645",
+                    "6fe12429-f298-4a17-847c-bfeca38ebad7"
+                ]
+            },
+            {
+                "text": "and  indicate that effective strategies to stop Wannacry ransomware attacks are available for individuals, companies, and government agencies, such as using anti-viruses, firewalls, and filters, and blocking port 445 on the firewall to detect potentially malicious files.",
+                "citations": [
+                    "c054b02e-ce0b-428b-b345-a67b9e542f96"
+                ]
+            },
+            {
+                "text": "The registration of a mysterious web address stopped the spread of the virus by British cybersecurity researcher, known as MalwareTech, as documented in  and , and the company's management needs to prepare for further cyberattacks of potentially \"significant scale\" .",
+                "citations": [
+                    "dc08f2e2-452e-4567-9af1-7284cc4bd42d",
+                    "2d341e7d-e4a0-41c4-a93e-4afd65e38873"
+                ]
+            },
+            {
+                "text": "[5",
+                "citations": [
+                    "a05db56f-faf0-4e71-a696-615c5bdf9b96",
+                    "87f96f3c-c828-4382-bcb1-4d4cd505e39f"
+                ]
+            }
+        ]
+    },
+    {
+        "request_id": "386",
+        "run_id": "zho_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/zho"
+        ],
+        "sentences": [
+            {
+                "text": "In January 2019, Vale's dam burst in Brazil, killing 270 people and destroying the environment .",
+                "citations": [
+                    "9736571d-9ae9-405b-a558-8dab13ed3d52"
+                ]
+            },
+            {
+                "text": "The disaster caused significant socioeconomic losses to the state of Minas Gerais, with the government initially freezing Vale's assets of 5 billion reais .",
+                "citations": [
+                    "0b7c3eee-c6b7-4f2d-9a3f-34fa2098d7b9",
+                    "0e68a872-0991-41eb-b5de-3da69289f818"
+                ]
+            },
+            {
+                "text": "The government eventually fined Vale $66.5 million and froze its assets of about $3 billion .",
+                "citations": [
+                    "adb87990-b844-4f3b-aa81-4b7230322531"
+                ]
+            },
+            {
+                "text": "The Brazilian state of Minas Gerais received $7 billion in compensation from Vale, which is the largest court settlement in Brazilian history .",
+                "citations": [
+                    "9736571d-9ae9-405b-a558-8dab13ed3d52"
+                ]
+            },
+            {
+                "text": "The settlement aimed to compensate the state for socioeconomic losses, but families of the victims criticized the agreement for its shortcomings .",
+                "citations": [
+                    "b22be867-e259-4a6e-87de-6ba448e7fb99"
+                ]
+            },
+            {
+                "text": "The families planned to appeal to local authorities, arguing that the agreement symbolizes the acceptance of responsibility by mining company Vale .",
+                "citations": [
+                    "b22be867-e259-4a6e-87de-6ba448e7fb99"
+                ]
+            },
+            {
+                "text": "Prior to the settlement, Vale faced significant penalties, including fines and frozen assets, as it was held responsible for the disaster .",
+                "citations": [
+                    "0b7c3eee-c6b7-4f2d-9a3f-34fa2098d7b9",
+                    "0e68a872-0991-41eb-b5de-3da69289f818"
+                ]
+            },
+            {
+                "text": "The disaster also had a significant impact on Vale's business operations, including the suspension of production at its Brucutu mine, resulting in a loss of 30 million tons of annual iron ore production .",
+                "citations": [
+                    "f06fd4d6-3cab-48fc-ab6b-d8968dad5d27"
+                ]
+            },
+            {
+                "text": "Vale declared \"force majeure\" on a series of iron ore contracts due to the production suspension .",
+                "citations": [
+                    "f06fd4d6-3cab-48fc-ab6b-d8968dad5d27"
+                ]
+            },
+            {
+                "text": "Vale has since taken steps to restore the environment and compensate the affected communities .",
+                "citations": [
+                    "9736571d-9ae9-405b-a558-8dab13ed3d52"
+                ]
+            },
+            {
+                "text": "The settlement marked the end of a long and complex litigation process, but it may not be the final chapter for Vale as it continues to face liabilities related to the disaster .",
+                "citations": [
+                    "b057fd65-2544-46e1-a520-8c023d80afdf",
+                    "66fd372e-f8c9-4200-b490-1c2910382eb4"
+                ]
+            },
+            {
+                "text": "According to Ingredion Incorporated, the settlement includes compensation, fines, penalties, government court rulings, and individual prior settlements .",
+                "citations": [
+                    "b0c0698b-2823-4214-ad6d-d7f5d900ad1e"
+                ]
+            },
+            {
+                "text": "The settlement is a significant development in the aftermath of the disaster, and it may have far-reaching implications for the mining industry and environmental regulations in Brazil .",
+                "citations": [
+                    "9736571d-9ae9-405b-a558-8dab13ed3d52"
+                ]
+            },
+            {
+                "text": "In the end, Vale's dam disaster serves as a reminder of the importance of prioritizing safety and environmental protection in the mining industry .",
+                "citations": [
+                    "1b6dd1f7-e8c1-4feb-b744-d32968716635",
+                    "5ab8b6d9-7bfd-4ae9-8b54-e1a2c7d5e713"
+                ]
+            },
+            {
+                "text": "Vale's response to the disaster, including its settlement with the Brazilian government, highlights the complexities and challenges of dealing with such a significant environmental disaster .",
+                "citations": [
+                    "8cd5dd8f-0b30-4fbf-85e6-c97cf992f8b2"
+                ]
+            },
+            {
+                "text": "However, the settlement also marks a significant step forward in holding companies accountable for their actions and prioritizing environmental protection .",
+                "citations": [
+                    "e59d80f1-c754-4d35-9bb9-71b810fda284"
+                ]
+            },
+            {
+                "text": "Vale's dam disaster will remain a pivotal moment in Brazil's history, highlighting the importance of prioritizing safety and environmental protection in the mining industry .",
+                "citations": [
+                    "eee2d354-88c1-4572-a8c4-cf0ee487ffa3"
+                ]
+            },
+            {
+                "text": "Ultimately, the settlement is",
+                "citations": []
+            }
+        ]
+    },
+    {
+        "request_id": "391",
+        "run_id": "rus_irlab-ams-std-recomp-llama-8B",
+        "collection_ids": [
+            "neuclir/1/rus"
+        ],
+        "sentences": [
+            {
+                "text": "The TU-144, the first supersonic passenger airliner, was withdrawn from passenger service due to a combination of factors including accidents, high production costs and ticket prices, and the public's perception of the aircraft .",
+                "citations": [
+                    "4f3cbfdc-7189-4a95-8ba3-eccbcec77c50",
+                    "3f88cce3-3612-49f9-a107-2757dac544dd"
+                ]
+            },
+            {
+                "text": "According to , the TU-144 was designed by Alexei Tupolev and had a cruising speed of 2300-2700 km/h, but the high production costs and ticket prices made it unprofitable .",
+                "citations": [
+                    "4f3cbfdc-7189-4a95-8ba3-eccbcec77c50",
+                    "f321e89b-2ebc-4f9c-b6fa-0e857584c8dc"
+                ]
+            },
+            {
+                "text": "The public's perception of the aircraft was also a factor, with the \"windowless\" design being criticized .",
+                "citations": [
+                    "4969fa72-4d4f-4537-9eef-1a0d8c17bbea"
+                ]
+            },
+            {
+                "text": "Additionally, the TU-144's high production costs and ticket prices made it difficult for airlines to operate profitably, leading to the withdrawal from passenger service .",
+                "citations": [
+                    "3f88cce3-3612-49f9-a107-2757dac544dd",
+                    "f321e89b-2ebc-4f9c-b6fa-0e857584c8dc"
+                ]
+            },
+            {
+                "text": "Despite efforts to improve the aircraft, including the development of new materials and technologies, the TU-144 was unable to overcome its drawbacks .",
+                "citations": [
+                    "05c2e942-3a4b-4a97-91fb-710278cb7567",
+                    "f29616be-1159-4375-9e7d-94810682a505"
+                ]
+            },
+            {
+                "text": "In contrast, the Anglo-French Concorde was unprofitable and closed in 2003, and Aerion Supersonic's supersonic plans were stopped due to the complexity of construction and high cost of the project  .",
+                "citations": [
+                    "95a948ca-1965-496a-afcc-8849950f24b7",
+                    "5172662b-332b-447e-82ab-9c811622f894"
+                ]
+            }
+        ]
+    }
+]

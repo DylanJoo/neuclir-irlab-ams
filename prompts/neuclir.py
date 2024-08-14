@@ -3,7 +3,8 @@ closebook_instruction = """Write an engaging report for the given request within
 """.strip()
 
 # rag prompt
-rag_instruction = """Write a journalistic report for the given request using only the provided documents as references (some of which might be irrelevant). Always cite at least one document for every sentences in the report and cite at most two documents per sentence. Follow the citation format of square brackets to indicate the cited documents (e.g., [1] for citing the first document; [1][2] for citing the first two documents). Note the given request contains a problem statement and the requester background (it might help customize the report). The length of report should be within one paragraph (around {LIMIT} words). Do not add any disclaimers and notes at the end of the report.
+# rag_instruction = """Write a journalistic report for the given request using only the provided documents as references (some of which might be irrelevant). Always cite at least one document for every sentences in the report and cite at most two documents per sentence. Follow the citation format of square brackets to indicate the cited documents (e.g., [1] for citing the first document; [1][2] for citing the first two documents). Note the given request contains a problem statement and the requester background (it might help customize the report). The length of report should be within one paragraph (around {LIMIT} words). Do not add any disclaimers and notes at the end of the report.
+rag_instruction = """Write a journalistic report for the given request using only the provided documents as references (some of which might be unrelated or redundant). Always cite at least one document for every sentences in the report and cite at most two documents per sentence. Follow the citation format of square brackets to indicate the cited documents (e.g., [1] for citing the first document; [1][2] for citing the first two documents). Note the given request contains a problem statement and the requester background (it might help customize the report). The length of report should be within one paragraph (around {LIMIT} words). Do not add any disclaimers and notes at the end of the report.
 """.strip()
 
 
@@ -16,10 +17,7 @@ def apply_docs_prompt(doc_items, ndoc=None, field='text', max_length=None):
     for idx, doc_item in enumerate(doc_items[:ndoc]):
         p_doc = doc_prompt_template
         p_doc = p_doc.replace("{ID}", str(idx+1))
-        if field == 'translation':
-            truncated_doc = " ".join(doc_item[field].split()[:max_length])
-        else:
-            truncated_doc = doc_item[field][:max_length]
+        truncated_doc = " ".join(doc_item[field].split()[:max_length])
         p_doc = p_doc.replace("{P}", truncated_doc)
         p += p_doc
     return p
