@@ -83,7 +83,6 @@ class ReportGenOutput:
                 except:
                     # sometime hallucination with inexisted document
                     print(f"no referenceid {referenceid} from {self.request_id} - {self.collection_ids}")
-                    docids.append( [] )
 
         self.citations[idx_text] = docids
 

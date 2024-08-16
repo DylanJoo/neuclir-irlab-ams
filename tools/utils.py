@@ -1,3 +1,4 @@
+from operator import itemgetter
 from collections import defaultdict
 from datasets import load_dataset
 import json
@@ -36,15 +37,22 @@ def load_hits_tsv(path):
                 print(item)
     return data
 
-def load_hits_jsonl(path):
+def load_hits_jsonl(path, key='id'):
     data = defaultdict(list)
     with open(path) as f:
         for line in f:
             item = json.loads(line.strip())
+            if ('unrelated.' in item[key]) or ('redundant.' in item[key]):
+                continue
             try:
+                item['rank'] = int(item['rank'])
                 data[item['qid']].append(item)
             except:
                 print(item)
+    # rerank
+    for qid in data:
+        orig_item = data[qid]
+        data[qid] = sorted(orig_item, key=itemgetter('rank'))
     return data
 
 

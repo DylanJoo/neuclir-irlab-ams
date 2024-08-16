@@ -86,7 +86,7 @@ def main():
     if args.candidates_tsv:
         candidates = load_hits_tsv(args.candidates_tsv)
     if args.candidates_jsonl:
-        candidates = load_hits_jsonl(args.candidates_jsonl)
+        candidates = load_hits_jsonl(args.candidates_jsonl, key=args.used_field)
 
     ## Prepare instruction and the demo prompts
     # Sample quick test

@@ -56,11 +56,11 @@ if __name__ == "__main__":
 
     # prepare writer
     outputs = [o.finalize() for o in outputs]
-    ## for jsonl (official format)
-    with open(args.submission+".jsonl", 'w') as f:
-        for output in outputs:
-            f.write(json.dumps(output)+ '\n')
 
     ## for checking 
     json.dump(outputs, open(args.submission+".json", 'w'), indent=4)
 
+    ## for jsonl (official format)
+    with open(args.submission+".jsonl", 'w', encoding='utf8') as f:
+        for output in outputs:
+            f.write(json.dumps(output, ensure_ascii=False)+ '\n')

@@ -59,6 +59,6 @@ if __name__ == "__main__":
     json.dump(outputs, open(args.submission+".json", 'w'), indent=4)
 
     ## for jsonl (official format)
-    with open(args.submission+".jsonl", 'w') as f:
+    with open(args.submission+".jsonl", 'w', encoding='utf8') as f:
         for output in outputs:
-            f.write(json.dumps(output)+ '\n')
+            f.write(json.dumps(output, ensure_ascii=False)+ '\n')
